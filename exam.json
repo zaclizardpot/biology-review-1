@@ -1,0 +1,4069 @@
+[
+  {
+    "source": "考古｜106 期末 Q1；DD117 期末 Q37；111 醫學生物期末 Q15",
+    "q": 1,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Sickle-cell anemia is a human disease that occurs as a result of what type of mutation in the b-globin gene?",
+    "options": [
+      "silent",
+      "missense",
+      "nonsense",
+      "frameshift",
+      "sense"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Missense mutation 會改變 codon，使蛋白質中的一個胺基酸被另一個取代；鐮刀型血球症經典例為 Glu→Val。",
+    "terms": [
+      "missense mutation：錯義突變；改變胺基酸。"
+    ],
+    "id": "v001"
+  },
+  {
+    "source": "考古｜106 期末 Q2；DD117 期末 Q38",
+    "q": 2,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following is true concerning a somatic cell mutation?",
+    "options": [
+      "A small fraction of the gametes carry the mutation.",
+      "Half of the gametes carry the mutation.",
+      "All of the gametes carry the mutation.",
+      "Only a small group of cells within the organism is affected by the mutation.",
+      "All cells within the organism are affected by the mutation."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Somatic mutation 不會自動進入所有細胞或配子，只會傳給該體細胞後續有絲分裂產生的子代細胞。",
+    "terms": [
+      "somatic mutation：體細胞突變。"
+    ],
+    "id": "v002"
+  },
+  {
+    "source": "考古｜106 期末 Q3",
+    "q": 3,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Based on the gene and protein sequences that follow, what type of mutation-polypeptide effect has occurred? Normal gene: ATGGCCGGCCCGAAAGAGACC Mutated gene: ATGGCCGGCACCGAAAGAGACC Normal protein: Met-Ala-Gly-Pro-Lys-Glu-Thr Mutated protein: Met-Ala-Gly-Thr-Glu-Arg-Asp",
+    "options": [
+      "base addition – silent",
+      "substitution – missense",
+      "base addition – missense",
+      "substitution – nonsense",
+      "base addition – frameshift"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "若插入或缺失的鹼基數不是 3 的倍數，reading frame 會改變，插入點之後的 codons 多半全部改寫。",
+    "terms": [
+      "frameshift mutation：移碼突變；閱讀框架整體位移。"
+    ],
+    "id": "v003"
+  },
+  {
+    "source": "考古｜106 期末 Q4",
+    "q": 4,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "When cancer cells have the ability to migrate to other parts of the body, they are said to be",
+    "options": [
+      "invasive.",
+      "benign. 良性",
+      "metastatic. 轉移",
+      "oncogenic. 致癌",
+      "genetic."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Metastasis 是癌細胞侵入、進入循環並在遠端建立次級腫瘤。",
+    "terms": [
+      "metastasis：轉移；癌細胞擴散至遠端。"
+    ],
+    "id": "v004"
+  },
+  {
+    "source": "考古｜106 期末 Q5；111 醫學生物期末 Q21；DD117 期末 Q41",
+    "q": 5,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "A mutation causes a gene to become overactive, contributing to uncontrolled cell growth. Which term best describes this gene?",
+    "options": [
+      "tumor-suppressor gene",
+      "oncogene",
+      "spliced gene",
+      "alternatively spliced gene",
+      "malignant gene"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Proto-oncogene 經活化突變、過度表現或 gene amplification 後可成為 oncogene，像卡住的油門促進生長。",
+    "terms": [
+      "oncogene：致癌基因；過度活化會促進細胞增殖。"
+    ],
+    "id": "v005"
+  },
+  {
+    "source": "考古｜106 期末 Q6；DD117 期末 Q21",
+    "q": 6,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following is most likely to occur when a tumor-suppressor gene is mutated?",
+    "options": [
+      "The tumor-suppressor gene may be overactive.",
+      "The resulting tumor-suppressor protein would further suppress cell proliferation.",
+      "The resulting tumor-suppressor protein would activate an oncogene.",
+      "The tumor-suppressor gene and resulting protein may lose its function and ability to suppress cell proliferation.",
+      "None of the choices are possible."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Tumor-suppressor gene 像煞車；功能喪失會移除對細胞週期、DNA 損傷反應或 apoptosis 的抑制。",
+    "terms": [
+      "tumor-suppressor gene：腫瘤抑制基因。"
+    ],
+    "id": "v006"
+  },
+  {
+    "source": "考古｜106 期末 Q7",
+    "q": 7,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following is NOT a typical cellular change that occurs during lung cancer?",
+    "options": [
+      "cellular hyperplasia 細胞增生",
+      "loss of ciliated cells 纖毛柱狀上皮細胞減少",
+      "cellular dysplasia 細胞發育異常",
+      "elevated gas transport",
+      "increases in basal cell number and thickening of epithelium 基底細胞數量增加及上皮細胞增厚"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "肺癌通常降低而非提高氣體交換與運輸效率。",
+    "terms": [],
+    "id": "v007"
+  },
+  {
+    "source": "考古｜106 期末 Q8；111 醫學生物期末 Q23",
+    "q": 8,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "At what phase of the cell cycle does p53 halt cell division if it senses DNA damage?",
+    "options": [
+      "S",
+      "G2",
+      "M",
+      "G0",
+      "G1"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "p53 可誘導 p21 抑制 cyclin-CDK，使細胞停在 G1/S checkpoint，爭取修復時間或啟動 apoptosis。",
+    "terms": [
+      "p53：重要腫瘤抑制蛋白；監控 DNA damage。"
+    ],
+    "id": "v008"
+  },
+  {
+    "source": "考古｜106 期末 Q9",
+    "q": 9,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following statements about the cell cycle is correct?",
+    "options": [
+      "The cell cycle is a sequence of replications and divisions that produces a new cells.",
+      "The phases of the cell cycle are G1, S, and M phases.",
+      "In actively dividing cells, the S and G2 phases are collectively known as interphase.",
+      "When the S phase of the cell cycle is finished, a cell has twice as many chromatids as the number of chromosomes on the G1 phase.",
+      "During G2 phase, the cell grows and copies its chromosomes in preparation for cell division."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "S phase 後 DNA 量加倍，但著絲點尚未分離，因此 chromosome number 通常不變，chromatid number 加倍。",
+    "terms": [],
+    "id": "v009"
+  },
+  {
+    "source": "考古｜106 期末 Q10",
+    "q": 10,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Consider an organism whose karyotype shows it to have a total of 60 chromosomes. How many chromosomes would be contained in the sperm of this organism?",
+    "options": [
+      "23",
+      "30",
+      "46",
+      "60",
+      "90"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "配子為 haploid，n=60/2=30。",
+    "terms": [],
+    "id": "v010"
+  },
+  {
+    "source": "考古｜106 期末 Q11",
+    "q": 11,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Place the following events of mitosis in the correct order. Ⅰ. Sister chromatids align on the metaphase plate. Ⅱ. The cleavage furrow forms. Ⅲ. The nuclear membrane breaks up. Ⅳ. Sister chromatids condense. Ⅴ. Sister chromatids separate.",
+    "options": [
+      "Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ",
+      "Ⅲ, Ⅳ, Ⅰ, Ⅴ, Ⅱ",
+      "Ⅳ, Ⅲ, Ⅰ, Ⅴ, Ⅱ",
+      "Ⅲ, Ⅱ, Ⅰ, Ⅳ, Ⅴ",
+      "Ⅳ, Ⅰ, Ⅲ, Ⅴ, Ⅱ"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Prophase 染色體凝縮；prometaphase 核膜解體；metaphase 排列；anaphase 分離；cytokinesis 形成 cleavage furrow。",
+    "terms": [],
+    "id": "v011"
+  },
+  {
+    "source": "考古｜106 期末 Q12",
+    "q": 12,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The major way that meiosis Ⅱ differs from mitosis is that",
+    "options": [
+      "in meiosis Ⅱ, the homologous sister chromatids align at the metaphase plate as a tetrad.",
+      "in meiosis Ⅱ, a pair of sister chromatids move to the pole.",
+      "in meiosis Ⅱ, the cells are haploid.",
+      "in meiosis Ⅱ, a synaptonemal complex is formed.",
+      "in meiosis Ⅱ, the homologues separate."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Meiosis I 已將 homologous chromosomes 分開，所以進入 meiosis II 的細胞為 haploid；meiosis II 再分離 sister chromatids。",
+    "terms": [],
+    "id": "v012"
+  },
+  {
+    "source": "考古｜106 期末 Q13",
+    "q": 13,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Consider a diploid species where n=5. If an individual of this species was found to have 11 chromosomes, it would be categorized as",
+    "options": [
+      "polyploid",
+      "aneuploid (非整倍體)",
+      "tetraploid",
+      "monosomic",
+      "triploid"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "正常二倍體為 2n=10；11 是 2n+1，屬於 aneuploidy。",
+    "terms": [
+      "aneuploidy：非整倍體；個別染色體多或少。"
+    ],
+    "id": "v013"
+  },
+  {
+    "source": "考古｜106 期末 Q14",
+    "q": 14,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "When a gamete that is lacking a sex chromosome due to nondisjunction has fused with a gamete carrying an X chromosome, this type of abnormality leads to ________.",
+    "options": [
+      "Triple X syndrome",
+      "Down Syndrome",
+      "Edward Syndrome",
+      "Turner syndrome",
+      "Klinefelter Syndrome"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "XO 個體只有一條 X chromosome，典型為 Turner syndrome。",
+    "terms": [],
+    "id": "v014"
+  },
+  {
+    "source": "考古｜106 期末 Q15",
+    "q": 15,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In mitosis, the main difference between plant and animal cells is that",
+    "options": [
+      "plants do not undergo cytokinesis.",
+      "plants produce a cell plate to segregate the daughter nuclei, while animals form a cleavage furrow.",
+      "plants have a central vacuole, while animal cells do not.",
+      "plants produce a cell membrane in cytokinesis, while animals form a cell plate.",
+      "in plants, kinetochore microtubules shorten and draw chromosomes toward the poles; in animals, polar microtubules lengthen to push chromatids apart."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "植物因有細胞壁，以 vesicles 建立 cell plate；動物以 actin-myosin contractile ring 形成 cleavage furrow。",
+    "terms": [],
+    "id": "v015"
+  },
+  {
+    "source": "考古｜106 期末 Q16",
+    "q": 16,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "A species that has three sets of homologous chromosomes can have up to _ different combinations of chromosomes in the gametes.",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "27",
+      "64"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Independent assortment 產生 2^n 種組合；n=3，所以 2³=8。",
+    "terms": [],
+    "id": "v016"
+  },
+  {
+    "source": "考古｜106 期末 Q17",
+    "q": 17,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Chromosomes are replicated during the ______ phase.",
+    "options": [
+      "G1",
+      "G2",
+      "S",
+      "M",
+      "meta- (包含於M期)"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "S stands for DNA synthesis。",
+    "terms": [],
+    "id": "v017"
+  },
+  {
+    "source": "考古｜106 期末 Q18",
+    "q": 18,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The inheritance pattern where two or more genes do not assort independently because they are close together on the same chromosome is called",
+    "options": [
+      "Mendelian inheritance 孟德爾遺傳",
+      "epistasis 上位作用",
+      "genomic imprinting 基因銘印",
+      "linkage 連鎖",
+      "dominance 顯性"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Linked genes 位於同一 chromosome，彼此越近，crossing over 將它們分開的機率通常越低。",
+    "terms": [
+      "linkage：連鎖。"
+    ],
+    "id": "v018"
+  },
+  {
+    "source": "考古｜106 期末 Q19",
+    "q": 19,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In the sweet pea crossing experiment by Bateson and Punnet, the F2 generation had many more offspring with the phenotypes of purple flowers P, long pollen L and red flowers p, round pollen l than expected from independent assortment. This is because",
+    "options": [
+      "in these sweet peas, there are always more PL gametes than there are pl gametes.",
+      "in sweet peas, the alleles for flower color and pollen shape are on the same chromosome.",
+      "there were few recombination events between these genes during meiosis.",
+      "flower color and pollen shape are within the same linkage group.",
+      "All of these are correct."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "題目中的 PL 與 pl 為 parental combinations；兩基因連鎖且重組率低，因此親本型多於 recombinant types。",
+    "terms": [],
+    "id": "v019"
+  },
+  {
+    "source": "考古｜106 期末 Q20；DD117 期末 Q36；111 醫學生物期末 Q35",
+    "q": 20,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "If a male cat with orange fur produces female offspring with calico fur, what color was the mother cat?",
+    "options": [
+      "orange",
+      "black",
+      "calico",
+      "black or calico",
+      "orange or calico"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "父親給女兒 orange X；要成為 calico，母親必須提供 black X，因此母貓可為 black 或 calico。",
+    "terms": [
+      "X-inactivation：X 染色體去活化；造成 calico 馬賽克花色。"
+    ],
+    "id": "v020"
+  },
+  {
+    "source": "考古｜106 期末 Q21",
+    "q": 21,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "If the recombination frequency between gene A and B is 10 out of 100 offspring, gene A and C is 30 out of 100 offspring, and gene B and C is 40 out of 100 offspring, what is the location of these genes in relation to each other on a chromosome?",
+    "options": [
+      "CAB",
+      "BAC",
+      "ABC",
+      "CBA",
+      "either CAB or BAC"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "最大距離 B-C=40 等於 B-A 10 加 A-C 30，所以 A 位於 B 與 C 中間；B-A-C 與反向 C-A-B 等價。",
+    "terms": [],
+    "id": "v021"
+  },
+  {
+    "source": "考古｜106 期末 Q22",
+    "q": 22,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following organelle(s) has/have a genome separate from the genome in the cell nucleus?",
+    "options": [
+      "mitochondria 粒線體",
+      "chloroplasts 葉綠體",
+      "nucleolus 核仁",
+      "both the mitochondria and chloroplasts",
+      "both the mitochondria and the nucleolus"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Mitochondria 與 chloroplasts 有自己的 DNA 與部分蛋白質合成系統，是 endosymbiotic origin 的證據。",
+    "terms": [],
+    "id": "v022"
+  },
+  {
+    "source": "考古｜106 期末 Q23",
+    "q": 23,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "A man has mutation in a mitochondrial gene encoding a subunit of the ATP synthase complex. The mutation leads to a defective ATP synthase that is not able to synthesize ATP effectively, and this in turn leads to extreme muscle weakness in the affected individual. If this man has children, what is the likelihood that they will inherit this disease from him?",
+    "options": [
+      "100%",
+      "0%",
+      "50%",
+      "25%",
+      "75%"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "多數人類 mtDNA 為 maternal inheritance；精子粒線體通常不傳給胚胎。",
+    "terms": [],
+    "id": "v023"
+  },
+  {
+    "source": "考古｜106 期末 Q24；111 醫學生物期末 Q34；DD117 期末 Q33",
+    "q": 24,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The karyotype of a young patient shows two Barr bodies per cell. What condition might this child have?",
+    "options": [
+      "Turner syndrome",
+      "Triple X syndrome",
+      "Down syndrome",
+      "Klinefelter syndrome",
+      "This child is a normal female."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Barr body 數通常等於 X chromosome 數減 1；兩個 Barr bodies 對應 XXX。",
+    "terms": [],
+    "id": "v024"
+  },
+  {
+    "source": "考古｜106 期末 Q25；111 醫學生物期末 Q33；DD117 期末 Q34",
+    "q": 25,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In mice, the gene for insulin-like growth factor is imprinted. During embryonic development, only the paternal allele for insulin-like growth factor is expressed. This means",
+    "options": [
+      "that the paternal allele is imprinted.",
+      "that the maternal allele is imprinted.",
+      "that the paternal allele is hyper-methylated.",
+      "that the paternal allele is mutated.",
+      "that the maternal allele is expressed."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Genomic imprinting 依 allele 的 parental origin 產生不同表現，通常涉及 DNA methylation 等表觀遺傳標記。",
+    "terms": [],
+    "id": "v025"
+  },
+  {
+    "source": "考古｜106 期末 Q26",
+    "q": 26,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Animal bodies are organized along the ___________ axes.",
+    "options": [
+      "dorsoventral, anteroposterior, and left-right",
+      "dorsoventral, cranioposterior, and right-left",
+      "dorsoventral, anteroposterior, and segmented",
+      "dorsoventral, anteroposterior, and segmented",
+      "apicalventral, anteroposterior, and right-left"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "主要胚體軸為前後、背腹、左右。",
+    "terms": [],
+    "id": "v026"
+  },
+  {
+    "source": "考古｜106 期末 Q27；111 醫學生物期末 Q37",
+    "q": 27,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following lists gives the cellular processes for limb formation in correct order from first to last?",
+    "options": [
+      "cell division, cell migration, cell differentiation, cell death",
+      "cell migration, cell differentiation, cell division, cell death",
+      "cell migration, cell division, cell differentiation, cell death",
+      "cell division, cell differentiation, cell migration, cell death",
+      "cell differentiation, cell migration, cell division, cell death"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "發育包含增殖、位置改變、分化與選擇性的 programmed cell death；例如指間細胞 apoptosis。",
+    "terms": [],
+    "id": "v027"
+  },
+  {
+    "source": "考古｜106 期末 Q28",
+    "q": 28,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In your fly laboratory, you find a larva that is missing segments Lb, T1, T2, and T3. This larva probably has a mutation in a ________ gene.",
+    "options": [
+      "pair-rule",
+      "gap",
+      "maternal effect",
+      "segment-polarity",
+      "gap or segment-polarity"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Gap genes 決定大片連續區域；缺陷會遺失一組相鄰 segments。",
+    "terms": [],
+    "id": "v028"
+  },
+  {
+    "source": "考古｜106 期末 Q29",
+    "q": 29,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following is NOT accurate regarding the Bicoid protein?",
+    "options": [
+      "it is a morphogen",
+      "it is a transcription",
+      "it activates genes when it reaches a concentration threshold",
+      "it affects the posterior part of the Drosophila embryo (它影響果蠅胚胎的後部)",
+      "it activates gap genes"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Bicoid 是 anterior determinant；高濃度指定前端結構，不是主要指定 posterior。",
+    "terms": [],
+    "id": "v029"
+  },
+  {
+    "source": "考古｜106 期末 Q30",
+    "q": 30,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "You are working in a Drosophila lab, and find a larva with two anterior ends. Both a normal larva and the mutant larva are shown below. What is the most likely explanation for the mutant larva phenotype?",
+    "options": [
+      "there is a mutation in the bicoid gene causing no functional Bicoid protein to be made",
+      "the nurse cells that produce the Bicoid protein are defective, so there is no protein at either end of the embryo",
+      "there is a mutation in a homeotic gene",
+      "there is a high concentration of the Bicoid protein at both ends of the mutant embryo",
+      "a protein encoded by a segment polarity gene is not degraded correctly and accumulates in both ends of the embryo"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "在 posterior 端放入 bicoid mRNA 可建立第二個 anterior organizing signal，形成雙頭型表現。",
+    "terms": [],
+    "id": "v030"
+  },
+  {
+    "source": "考古｜106 期末 Q31",
+    "q": 31,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "You transform bacteria with a plasmid carrying the ampicillin-resistance gene ampR. How would you determine which bacteria took up the plasmid?",
+    "options": [
+      "Bacteria containing the plasmid would be able to grow in the presence of ampicillin.",
+      "Ampicillin-resistance is necessary for the plasmid DNA to get into the bacteria.",
+      "Bacteria containing the plasmid would turn blue.",
+      "Bacteria containing the plasmid would be able to grow in the absence of ampicillin.",
+      "Bacteria containing the plasmid would be able to produce ampicillin."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "AmpR 是 selectable marker；含有相應 plasmid 的細菌能在 ampicillin 中存活。",
+    "terms": [],
+    "id": "v031"
+  },
+  {
+    "source": "考古｜110 期中 Q1",
+    "q": 1,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "Cell theory is based on some basic principles. Choose the description that best addresses these principles.",
+    "options": [
+      "Cells are the smallest unit of living organisms,and new cells form from pre-existing cells by cell division.",
+      "New cells come only from pre-existing cells bycell division.",
+      "All life is composed of two or more cells, the smallest unit of life are cells, and cell division from pre-existing cells is the only way cells continue to exist.",
+      "All living organisms are composed of one or more cells, cells are the smallest units of life, and new cells come only from pre-existing cells by cell division."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "完整的 cell theory 同時包含所有生物由一或多個細胞構成、細胞是生命基本單位、細胞來自既存細胞。",
+    "terms": [],
+    "id": "v032"
+  },
+  {
+    "source": "考古｜110 期中 Q2",
+    "q": 2,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "Determine the order of the processes occurring as a protein travels through the endomembrane system. (1)transportation to the Golgi (2)Movement through the cis, medial and trans region of Golgi. (3)Pinching of vesicles from ER into the cytoplasm. (4)Translation of protein into the rough ER (5)Attachment of protein to cargo receptos. (6)Release of the protein out of the cell.",
+    "options": [
+      "5→1→2→3→4→6",
+      "1→2→3→4→5→6",
+      "4→3→1→2→5→6",
+      "4→1→2→3→5→6",
+      "5→1→2→4→3→6"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "分泌蛋白先進入 RER，再由囊泡送往 Golgi，經 cis 到 trans 後被分類並釋出。",
+    "terms": [],
+    "id": "v033"
+  },
+  {
+    "source": "考古｜110 期中 Q3",
+    "q": 3,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "Which of the following organelle is not part of the endomembrane system?",
+    "options": [
+      "Smooth ER",
+      "Rough ER",
+      "Golgi apparatus",
+      "Nucleolus",
+      "All are part of the endomembrane system"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Nucleolus 無膜，負責 rRNA 合成與核糖體次單元組裝。",
+    "terms": [],
+    "id": "v034"
+  },
+  {
+    "source": "考古｜110 期中 Q4",
+    "q": 4,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The most accurate nucleotide base composition of the DNA double helix is",
+    "options": [
+      "G=A",
+      "T=C",
+      "T+A = C+G",
+      "T+G = C+A",
+      "A=U"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "因 A=T、G=C，所以 T+G=A+C。",
+    "terms": [],
+    "id": "v035"
+  },
+  {
+    "source": "考古｜110 期中 Q5",
+    "q": 5,
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "The synthesis of proteins of proteins take place",
+    "options": [
+      "On a ribosome",
+      "In the cytoplasm",
+      "On the surface of the rough ER",
+      "In prokaryotic cells",
+      "All of the above"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "翻譯由 ribosome 進行，可在游離或 RER 結合核糖體，原核細胞也會翻譯。",
+    "terms": [],
+    "id": "v036"
+  },
+  {
+    "source": "考古｜110 期中 Q6",
+    "q": 6,
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "Ribozymes are",
+    "options": [
+      "Catalytic strands of RNA that are capable to synthesizing macromolecules",
+      "Self-replicating strand of DNA",
+      "Autocatalytic proteins",
+      "Small organelles composed of RNA and proteins that can assemble amino acids",
+      "The earliest and most basic life forms"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Ribozyme 是具有催化活性的 RNA，不等於 ribosome。",
+    "terms": [],
+    "id": "v037"
+  },
+  {
+    "source": "考古｜110 期中 Q7",
+    "q": 7,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "The membrane component primarily responsible for the structure and function of plasma membranes is",
+    "options": [
+      "glycosylated proteins",
+      "phospholipids",
+      "glycolipids",
+      "cholesterol",
+      "actin filament"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Phospholipids 自發形成雙層，是膜的基本架構。",
+    "terms": [],
+    "id": "v038"
+  },
+  {
+    "source": "考古｜110 期中 Q8",
+    "q": 8,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "The structural difference between saturated and unsaturated fats causes what type of change at room temperature?",
+    "options": [
+      "Linear structure of a fatty acid cause solid formationat room temperature",
+      "Double bonds in a saturated fatty acids causea solid structure at room temperature",
+      "A linear structure causes a loose forming macromolecule that is liquid at room temperature",
+      "The double bonds require higher temperature atroom temperature to make the fatty acid into a liquid"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Saturated tails straight、易緊密堆積；cis unsaturated tails 彎曲、降低堆積。",
+    "terms": [],
+    "id": "v039"
+  },
+  {
+    "source": "考古｜110 期中 Q9",
+    "q": 9,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "What would be an expected feature of a plasma membrane that had no integral membrane proteins.",
+    "options": [
+      "the membrane would have no fluidity",
+      "the membrane would not associate with peripheral membrane proteins",
+      "the membrane would be unable to transport sodium ions",
+      "the membrane would have no cholesterol"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Na⁺ 無法直接穿過疏水核心，需 integral channel 或 carrier。",
+    "terms": [],
+    "id": "v040"
+  },
+  {
+    "source": "考古｜110 期中 Q10",
+    "q": 10,
+    "ch": "All",
+    "type": "single",
+    "prompt": "The. Pyrimidine bases in DNA are",
+    "options": [
+      "Cytosine, thymine and uracil",
+      "Adenine and guanine",
+      "Cytosine and thymine",
+      "Thymine, guanine and cytosine",
+      "Adenine, uracil and guanine"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v041"
+  },
+  {
+    "source": "考古｜110 期中 Q11",
+    "q": 11,
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "The functional group that forms covalent bonds between R groups within a polypeptide and that stabilize tertiary structure is",
+    "options": [
+      "_NH2",
+      "_COOH",
+      "_PO4",
+      "_SH",
+      "_OH"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "兩個 cysteine 的 sulfhydryl groups 氧化形成共價 disulfide bond，穩定三級結構。",
+    "terms": [
+      "sulfhydryl group (-SH)：巰基。",
+      "disulfide bond：雙硫鍵。"
+    ],
+    "id": "v042"
+  },
+  {
+    "source": "考古｜110 期中 Q12",
+    "q": 12,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Cardiac cells are anchored together to resist tearing through mechanical stress by",
+    "options": [
+      "Desmosomes",
+      "Gap junctions",
+      "Intermediate filaments",
+      "Hemidesmosomes",
+      "Tight junctions"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Desmosomes 以 intermediate filaments 連結相鄰細胞，提供抗拉強度。",
+    "terms": [],
+    "id": "v043"
+  },
+  {
+    "source": "考古｜110 期中 Q13",
+    "q": 13,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Your stomach’s pH is ~2. Why don’t underlying tissue become damaged from the acidity? D a - - S - - - i C &d - 2 b",
+    "options": [
+      "presence of gap junctions",
+      "presence of tight junctions",
+      "presence of desmosomes",
+      "presence of connexons",
+      "presence of cadherins"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Tight junctions 封閉上皮細胞間隙，形成 paracellular barrier。",
+    "terms": [],
+    "id": "v044"
+  },
+  {
+    "source": "考古｜110 期中 Q14",
+    "q": 14,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "The extracellular matrix does all of the following except",
+    "options": [
+      "Provide strength",
+      "Provide structural support",
+      "Helps to organize cells",
+      "Provide an important source of energy for the organelles",
+      "Contribute to cell signaling"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "ECM 支持、組織與傳訊，但不是胞器的主要能量來源。",
+    "terms": [],
+    "id": "v045"
+  },
+  {
+    "source": "考古｜110 期中 Q15",
+    "q": 15,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "To make the skin more flexible and remove wrinkles, _______ could be injected beneath a person’s skin.",
+    "options": [
+      "fibronection",
+      "collagen",
+      "laminin",
+      "cellulose",
+      "proteoglycan"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Collagen 提供抗張強度，是皮膚 ECM 的主要結構蛋白。",
+    "terms": [],
+    "id": "v046"
+  },
+  {
+    "source": "考古｜110 期中 Q16",
+    "q": 16,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "These anchoring junctions interact with intermediate filaments and anchor cells to the ECM?",
+    "options": [
+      "Adherens junctions",
+      "Desmosomes",
+      "Hemidesmosomes",
+      "Focal adhesions",
+      "Fibronectin"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Hemidesmosome 將 epithelial cell 的 keratin intermediate filaments 接到 basal lamina。",
+    "terms": [],
+    "id": "v047"
+  },
+  {
+    "source": "考古｜110 期中 Q17",
+    "q": 17,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Signals can be sent from the ECM to the cell through",
+    "options": [
+      "Connexins",
+      "Cadherins",
+      "Integrins",
+      "Fibronectins",
+      "Claudins"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Integrins 跨膜連接 ECM 與 cytoskeleton，能雙向傳訊。",
+    "terms": [],
+    "id": "v048"
+  },
+  {
+    "source": "考古｜110 期中 Q18",
+    "q": 18,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "A dysfunctional cell lacks a ER signal peptidase and is unable to cleave the ER signal sequence from proteins translated in the ER. What will be the effect on the cell’s proteins?",
+    "options": [
+      "the cell will have to integrate membrane proteins.",
+      "All cellular proteins will have an ER signal sequence.",
+      "There will be a common signal sequence at theN-terminus of all integral membrane proteins in the plasma membrane.",
+      "All cellular proteins will become membrane proteins.",
+      "There will be a common signal sequence at theC-terminus of all integral membrane proteins in the nuclear envelope."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Signal peptidase normally removes cleavable N-terminal ER signal peptides；缺失時該序列會保留。原考題的「所有膜蛋白」敘述過度概括，因此此處保留其核心判斷。",
+    "terms": [],
+    "id": "v049"
+  },
+  {
+    "source": "考古｜110 期中 Q19",
+    "q": 19,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Which molecule would you predict moves through a lipid bilayer most rapidly without the help of transport protein?",
+    "options": [
+      "葡萄糖",
+      "甲醇",
+      "乙醇",
+      "丁烷",
+      "NH2SO2CH3"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Butane 非極性且疏水，最容易溶入脂雙層核心。",
+    "terms": [],
+    "id": "v050"
+  },
+  {
+    "source": "考古｜110 期中 Q20",
+    "q": 20,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "In the structure of ATP synthase, where do H+ ions cross the mitochondrial membrane?",
+    "options": [
+      "between the catalytic beta subunits",
+      "along the stem formed by thebsubunit",
+      "between the transmembrane a and c subunits",
+      "through the rotating gamma subunit"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "H⁺ 由 F₀ 區的 a-subunit 半通道與 c-ring 介面通過，驅動 c-ring/γ 軸旋轉。",
+    "terms": [],
+    "id": "v051"
+  },
+  {
+    "source": "考古｜DD117 期末 Q1；111 醫學生物期末 Q1",
+    "q": 1,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "One DNA specimen contains 23% of adenine. What is the percentage of guanine in this sample?",
+    "options": [
+      "23%",
+      "24%",
+      "25%",
+      "26%",
+      "27%"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "A=T=23%，因此 G+C=54%，G=C=27%。",
+    "terms": [],
+    "id": "v052"
+  },
+  {
+    "source": "考古｜DD117 期末 Q2；111 醫學生物期末 Q2",
+    "q": 2,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Griffith’s experiment was the first experiment suggesting that bacteria are capable of transferring genetic information. This transformation factor is",
+    "options": [
+      "DNA",
+      "RNA",
+      "Protein",
+      "bacteriophage",
+      "retrovirus"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Avery、MacLeod 與 McCarty 證明 DNA 是 transforming principle。",
+    "terms": [],
+    "id": "v053"
+  },
+  {
+    "source": "考古｜DD117 期末 Q3；111 醫學生物期末 Q3",
+    "q": 3,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which molecule attaches amino acids to tRNA?",
+    "options": [
+      "Sigma factor",
+      "TATA box",
+      "Release factor",
+      "Methyl-CpG-binding proteins",
+      "Aminoacyl-tRNA synthetase"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "每一 aminoacyl-tRNA synthetase 辨認特定 amino acid 與相應 tRNA，確保 genetic code 被正確翻譯。",
+    "terms": [],
+    "id": "v054"
+  },
+  {
+    "source": "考古｜DD117 期末 Q4；111 醫學生物期末 Q4",
+    "q": 4,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "An anticodon is a .",
+    "options": [
+      "Regin of DNA coding for one protein.",
+      "Sequence of three nucleotides on a tRNA that binds to an mRNA.",
+      "Sequence of three nucleotides on a mRNA that binds to specific tRNAs.",
+      "Sequence of three nucleotides on the coding strand of DNA.",
+      "Sequence of three nucleotides on a rRNA that binds to an mRNA."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Anticodon 與 mRNA codon 反向平行配對。",
+    "terms": [],
+    "id": "v055"
+  },
+  {
+    "source": "考古｜DD117 期末 Q5；111 醫學生物期末 Q5",
+    "q": 5,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In 𝑙𝑎𝑐 operon system, the allolactose functions as",
+    "options": [
+      "A small effector that inhibits 𝑙𝑎𝑐 repressor",
+      "A small effector that activates 𝑙𝑎𝑐 repressor",
+      "A small effector that inhibits CAP activator",
+      "A small effector that activates CAP activator",
+      "A small effector that binds to LacO operator site."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Allolactose 是 inducer；與 Lac repressor 結合後降低其對 operator 的親和力。",
+    "terms": [],
+    "id": "v056"
+  },
+  {
+    "source": "考古｜DD117 期末 Q6；111 醫學生物期末 Q6",
+    "q": 6,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The iron regulatory protein regulates ferritin expression by binding to",
+    "options": [
+      "5’UTR of ferritin mRNA",
+      "3’UTR of ferritin mRNA",
+      "Release factor",
+      "Splicing site of ferritin pre-mRNA",
+      "miRNA for ferritin"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Ferritin mRNA 的 IRE 位於 5′ UTR；IRP binding 阻擋 translation initiation，使低鐵時不製造儲鐵蛋白。",
+    "terms": [],
+    "id": "v057"
+  },
+  {
+    "source": "考古｜DD117 期末 Q7；111 醫學生物期末 Q7",
+    "q": 7,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which molecule binds to RNA polymerase and brings it to the promoter in 𝐸. 𝑐𝑜𝑙𝑖?",
+    "options": [
+      "Sigma factor",
+      "TATA box",
+      "Release factor",
+      "Methyl-CpG-binding proteins",
+      "Aminoacyl-tRNA synthetase"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Sigma factor 提供 promoter recognition，起始後通常離開 RNA polymerase core enzyme。",
+    "terms": [],
+    "id": "v058"
+  },
+  {
+    "source": "考古｜DD117 期末 Q8；111 醫學生物期末 Q8",
+    "q": 8,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The miRNA are cut by , releasing a 20 to 25bp dsRNA that associates with the RNA-induced silencing complex.",
+    "options": [
+      "Crispr",
+      "Cas9",
+      "Dicer",
+      "ncRNA",
+      "spliceosome"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Dicer 將 dsRNA 或 pre-miRNA 切成短小 RNA duplex，之後載入 RISC。",
+    "terms": [],
+    "id": "v059"
+  },
+  {
+    "source": "考古｜DD117 期末 Q9；111 醫學生物期末 Q9",
+    "q": 9,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The Crispr/cas9-mediated gene editing is derived by",
+    "options": [
+      "gRNA",
+      "miRNA",
+      "siRNA",
+      "shRNA",
+      "cRNA"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Guide RNA 以鹼基互補辨認目標 DNA；Cas nuclease 負責切割。",
+    "terms": [],
+    "id": "v060"
+  },
+  {
+    "source": "考古｜DD117 期末 Q10；111 醫學生物期末 Q10",
+    "q": 10,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The core promoter in eukaryotes is usually composed of which two features?",
+    "options": [
+      "Transcriptional start site and enhancer",
+      "Transcriptional start site and response elements",
+      "Transcriptional start site and TATA box",
+      "Enhancer and TATA box",
+      "Response elements and TATA box"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Core promoter 位於 transcription start site 附近，部分基因含 TATA box，供 general transcription machinery 組裝。",
+    "terms": [],
+    "id": "v061"
+  },
+  {
+    "source": "考古｜DD117 期末 Q11；111 醫學生物期末 Q11",
+    "q": 11,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which element promotes the binding between the mRNA and the small ribosomal subunit in the initiation stage of translation in bacteria?",
+    "options": [
+      "Ribosomal-binding sequence",
+      "Start codon",
+      "Initiator tRNA",
+      "Release factor",
+      "5’ 7—methylguanosine cap"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Shine-Dalgarno sequence 與 16S rRNA 配對，協助正確定位 start codon。",
+    "terms": [],
+    "id": "v062"
+  },
+  {
+    "source": "考古｜DD117 期末 Q12；111 醫學生物期末 Q12",
+    "q": 12,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The enzyme that synthesizes DNA using RNA as a templates is called",
+    "options": [
+      "Taq polymerase",
+      "DNA ligase",
+      "Restriction endonuclease",
+      "Reverse transcriptase",
+      "DNA polymerase"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Reverse transcriptase 是 RNA-dependent DNA polymerase，見於 retroviruses 與 telomerase 的 catalytic core。",
+    "terms": [],
+    "id": "v063"
+  },
+  {
+    "source": "考古｜DD117 期末 Q13；111 醫學生物期末 Q13",
+    "q": 13,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "A collection of all the RNAs that are expressed at an y given time in a cell are referred to as the",
+    "options": [
+      "Genome",
+      "Transcriptome",
+      "Proteome",
+      "Metabolome",
+      "Interactome"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Transcriptome 會隨細胞種類、時間與環境改變。",
+    "terms": [],
+    "id": "v064"
+  },
+  {
+    "source": "考古｜DD117 期末 Q14；111 醫學生物期末 Q14",
+    "q": 14,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "What is the role of the drug resistance gene (ex.Ampr) in a vector?",
+    "options": [
+      "As an origin of replication",
+      "As a selection maker",
+      "Cloning site",
+      "Works as a promoter for expression",
+      "Cutting site for restriction endonuclease"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Selectable marker 讓成功取得 plasmid 的細胞在抗生素中存活。",
+    "terms": [],
+    "id": "v065"
+  },
+  {
+    "source": "考古｜DD117 期末 Q15",
+    "q": 15,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The most common method of DNA sequencing (Sanger Sequencing) is based on premature termination of DNA synthesis by inclusion of",
+    "options": [
+      "Deoxynucleotides",
+      "Dideoxynucleotides",
+      "Endonuclease",
+      "Primers",
+      "Adaptors"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "ddNTP 缺少 3′-OH，下一個 nucleotide 無法接上。",
+    "terms": [],
+    "id": "v066"
+  },
+  {
+    "source": "考古｜DD117 期末 Q16",
+    "q": 16,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following methods would be best for direct determination of the relative level of all mRNAs in a given cell or tissue?",
+    "options": [
+      "Sanger sequencing",
+      "RNA sequencing",
+      "Immunoprecipitation",
+      "Southern blotting",
+      "Immunofluorescence staining"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "RNA-seq 可同時描繪 transcriptome，估計各 transcript 的相對表現量並發現 splice variants。",
+    "terms": [],
+    "id": "v067"
+  },
+  {
+    "source": "考古｜DD117 期末 Q17",
+    "q": 17,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Muscle cells and nerve cells in one species of animal owe their differences in structure to",
+    "options": [
+      "having different genes",
+      "having different chromosomes",
+      "using different genetic codes",
+      "differential gene expression",
+      "having unique ribosomes"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "相同 genome 可因不同 transcription factors、chromatin states 與 signaling 形成不同 proteomes。",
+    "terms": [],
+    "id": "v068"
+  },
+  {
+    "source": "考古｜DD117 期末 Q18",
+    "q": 18,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "What is the effect of a frame-shifting mutation in a gene?",
+    "options": [
+      "It changes an amino acid in the encoded protein.",
+      "It has no effect on the amino acid sequence of the encoded protein.",
+      "It introduces a stop codon into the mRNA.",
+      "It alters the reading frame of the mRNA.",
+      "It prevents introns from being expressed."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "若插入或缺失的鹼基數不是 3 的倍數，reading frame 會改變，插入點之後的 codons 多半全部改寫。",
+    "terms": [
+      "frameshift mutation：移碼突變；閱讀框架整體位移。"
+    ],
+    "id": "v069"
+  },
+  {
+    "source": "考古｜DD117 期末 Q19",
+    "q": 19,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "All of the following are chemical mutations EXCEPT",
+    "options": [
+      "Nitrogen mustard",
+      "X-rays",
+      "Ethyl methanesulfonate",
+      "Hydroxylamine",
+      "Nitrous acid"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "X-rays 是 ionizing radiation，屬 physical mutagen；其餘是化學誘變物。",
+    "terms": [],
+    "id": "v070"
+  },
+  {
+    "source": "考古｜DD117 期末 Q20",
+    "q": 20,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following types of physical mutagens produces thymine dimer mutations?",
+    "options": [
+      "Ultraviolet light",
+      "X-rays",
+      "Microwave",
+      "Gamma ways",
+      "Ionizing radiation"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "UV 造成 pyrimidine dimers，使 DNA helix 扭曲；nucleotide-excision repair 可移除。",
+    "terms": [],
+    "id": "v071"
+  },
+  {
+    "source": "考古｜DD117 期末 Q22",
+    "q": 22,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Oncogene are",
+    "options": [
+      "mutation in genes that normally inhibit the progression of a cell through the cell cycle",
+      "mutations that cause the overexpression of genes that normally stimulate cell division.",
+      "viruses that cause cancer.",
+      "mutations in genes that cause metastasis.",
+      "all of above."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Proto-oncogene 經活化突變、過度表現或 gene amplification 後可成為 oncogene，像卡住的油門促進生長。",
+    "terms": [
+      "oncogene：致癌基因；過度活化會促進細胞增殖。"
+    ],
+    "id": "v072"
+  },
+  {
+    "source": "考古｜DD117 期末 Q23",
+    "q": 23,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Animal bodies are organized along the axes.",
+    "options": [
+      "Dorsoventral, anteroposterior, and left-right",
+      "Dorsoventral, cranioposterior, and left-right",
+      "Dorsoventral, anteroposterior, and segmented",
+      "Dorsoventral, cranioposterior, and segmented",
+      "Apicalventral, anteroposterior, and right-left"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "主要胚體軸為前後、背腹、左右。",
+    "terms": [],
+    "id": "v073"
+  },
+  {
+    "source": "考古｜DD117 期末 Q24",
+    "q": 24,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following types of cells is matched with the wrong stem cell category?",
+    "options": [
+      "Embryonic stem cells, pluripotent",
+      "Embryonic germ cells, pluripotent",
+      "Hematopoetic stem cells, multipotent",
+      "Lymphoid progenitor, unipotent",
+      "Zygote, totipotent"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "能產生多種 lymphocyte lineages 的 lymphoid progenitor 不宜稱為 strictly unipotent；原考題以此為錯誤配對。",
+    "terms": [],
+    "id": "v074"
+  },
+  {
+    "source": "考古｜DD117 期末 Q25",
+    "q": 25,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following phrases INCORRECTLY finished this statement? Stem cells",
+    "options": [
+      "can undergo mitosis.",
+      "can differentiate into more than one type of specialized cell.",
+      "vary in their potency.",
+      "are only found in embryos.",
+      "can sometimes only differentiate into one cell type."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "造血、腸道與皮膚等成人組織都有 adult stem cells。",
+    "terms": [],
+    "id": "v075"
+  },
+  {
+    "source": "考古｜DD117 期末 Q26",
+    "q": 26,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In your fly laboratory, you find a larva that is missing segments Lb, T1, T2, and T3. This larva probably has a mutation in a gene.",
+    "options": [
+      "pair-rule",
+      "gap",
+      "maternal effect",
+      "segment-polarity",
+      "gap or segment-polarity"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Gap genes 決定大片連續區域；缺陷會遺失一組相鄰 segments。",
+    "terms": [],
+    "id": "v076"
+  },
+  {
+    "source": "考古｜DD117 期末 Q27",
+    "q": 27,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "You are working in a Drosophila lab, and find a larva with two anterior ends. Both a normal larva and the mutant larva are shown below. What is the most likely explanation for the mutant larva phenotype?",
+    "options": [
+      "There is a mutation in the bicoid gene causing no functional Bicoid protein to be made.",
+      "The nurse cells that produce the Bicoid protein are defective, so there is no protein at either and of the embryo.",
+      "There is a mutation in a homeotic gene.",
+      "There is a high concentration of the Bicoid protein at Both ends of the mutant embryo.",
+      "A protein encoded by a segment polarity gene is not degraded correctly and accumulates in both ends of the embryo."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "在 posterior 端放入 bicoid mRNA 可建立第二個 anterior organizing signal，形成雙頭型表現。",
+    "terms": [],
+    "id": "v077"
+  },
+  {
+    "source": "考古｜DD117 期末 Q28；111 醫學生物期末 Q39",
+    "q": 28,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Which of the following relationships is INCORRECT?",
+    "options": [
+      "Maternal effect genes activate gap genes",
+      "Gap genes activate pair-rule genes",
+      "Pair-rule genes regulate segment polarity genes",
+      "Segment polarity genes regulate pair-rule genes",
+      "Maternal effect genes activate pair-rule genes"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "典型階層為 maternal-effect → gap → pair-rule → segment-polarity；不是 segment-polarity 反過來建立 pair-rule。",
+    "terms": [],
+    "id": "v078"
+  },
+  {
+    "source": "考古｜DD117 期末 Q29",
+    "q": 29,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "XIAP is an apoptosis inhibitor in humans. If the XIAP gene is mutated and a non-functional XIAP protein is made, which of the following would be the most likely effect on limb formation?",
+    "options": [
+      "Mitosis of the limb bud cells would not occur",
+      "Cells would not migrate to their correct position",
+      "Cell determination would not occur",
+      "Cell differentiation would not occur",
+      "Webbing between digits would not be removed"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "XIAP 持續抑制 caspases，指間細胞無法正常 apoptosis，因而保留蹼狀組織。",
+    "terms": [],
+    "id": "v079"
+  },
+  {
+    "source": "考古｜DD117 期末 Q30",
+    "q": 30,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "In a normal fruit fly, the second thoracic segment has wings and the third thoracic segment has halteres (small knobbed structures that act as a balance and guidance system). The fruit fly shown below is a mutant in which the third thoracic segment produces wings instead of halteres. This abnormal fly has a nutation in which of following?",
+    "options": [
+      "A maternal effect gene",
+      "A gap gene",
+      "A homeotic gene",
+      "A segment polarity gene"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Homeotic mutation 改變 segment identity，使一個構造轉變成另一構造。",
+    "terms": [],
+    "id": "v080"
+  },
+  {
+    "source": "考古｜DD117 期末 Q31",
+    "q": 31,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "The figure below depicts a human embryo. The cells in the inner cell mass (indicated by the arrow) are:",
+    "options": [
+      "Totipotent",
+      "Pluripotent",
+      "Multipotent",
+      "Unipotent",
+      "Omnipotent"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Inner cell mass 可形成幾乎所有 body cell types，但通常不能單獨形成完整 extraembryonic tissues，因此為 pluripotent。",
+    "terms": [],
+    "id": "v081"
+  },
+  {
+    "source": "考古｜DD117 期末 Q32",
+    "q": 32,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "You analyze 300 offspring and see the following: 30 recombinants between gene A and B 120 recombinants between gene B and C 90 recombinants between gene A and C Which of the following is the correct order of genes A, B and C?",
+    "options": [
+      "Gene order is BAC",
+      "Gene order is ABC",
+      "Gene order is BCA",
+      "Gene order is ABC or BAC",
+      "Gene order can be ABC, BAC, or BCA"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "最大距離 B-C=40 等於 B-A 10 加 A-C 30，所以 A 位於 B 與 C 中間；B-A-C 與反向 C-A-B 等價。",
+    "terms": [],
+    "id": "v082"
+  },
+  {
+    "source": "考古｜DD117 期末 Q35",
+    "q": 35,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "Chromosomes are replicated during the phase",
+    "options": [
+      "G1",
+      "G2",
+      "S",
+      "M",
+      "meta-"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "S stands for DNA synthesis。",
+    "terms": [],
+    "id": "v085"
+  },
+  {
+    "source": "考古｜DD117 期末 Q39",
+    "q": 39,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Based on the gene and protein sequences that follow, what type of mutation- polypeptide effect has occurred? Normal gene: ATGGCCGGCCCGAAAGAGACC Mutated gene: ATGGCCGGCACCGAAAGAGACC Normal protein: Met-Ala-Gly-Pro-Lys-Glu-Thr Mutated protein: Met-Ala-Gly-Thr-Glu-Arg-Asp",
+    "options": [
+      "base addition – silent",
+      "substitution – missense",
+      "base addition – missense",
+      "substitution – nonsense",
+      "base addition – frameshift"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v087"
+  },
+  {
+    "source": "考古｜DD117 期末 Q40",
+    "q": 40,
+    "ch": "All",
+    "type": "single",
+    "prompt": "When cancer cells have the ability to migrate to other parts of the body, the are said to be",
+    "options": [
+      "invasive",
+      "benign",
+      "metastatic",
+      "oncogenic",
+      "genetic"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v088"
+  },
+  {
+    "source": "考古｜111 期中 Q1",
+    "q": 1,
+    "ch": "Ch7",
+    "type": "single",
+    "prompt": "If a DNA fragment contains 50 nucleotide pairs, 15 % of them are Adenine base, how many hydrogen bonds could you find from this DNA fragment? (2 points)",
+    "options": [
+      "50",
+      "100",
+      "135",
+      "50",
+      "175"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "15 個 A-T pairs 各 2 鍵，35 個 G-C pairs 各 3 鍵：15×2+35×3=135。",
+    "terms": [],
+    "id": "v090"
+  },
+  {
+    "source": "考古｜111 期中 Q2",
+    "q": 2,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "A company has developed a drug to block the O-linked glycosylation of a peptide. Where do you think this inhibition take place? (2 points)",
+    "options": [
+      "Cytosol",
+      "Mitochondria",
+      "Lysosome",
+      "Smooth Endoplasmic reticulum",
+      "Golgi apparatus"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "O-linked glycosylation 主要在 Golgi；N-linked glycosylation 起始於 ER。",
+    "terms": [],
+    "id": "v091"
+  },
+  {
+    "source": "考古｜111 期中 Q3",
+    "q": 3,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Which molecule passes through a lipid bilayer most readily? (2 points)",
+    "options": [
+      "Carbon dioxide.",
+      "Arginine.",
+      "DNA.",
+      "Sodium ion.",
+      "Glucose."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "小型非極性 CO₂ 可直接簡單擴散。",
+    "terms": [],
+    "id": "v092"
+  },
+  {
+    "source": "考古｜111 期中 Q4",
+    "q": 4,
+    "ch": "All",
+    "type": "single",
+    "prompt": "The pyrimidine bases in DNA are- (2 points)",
+    "options": [
+      "Cytosine, thymine and uracil",
+      "Thymine, guanine and cytosine",
+      "Cytosine and thymine",
+      "Adenine and guanine",
+      "Adenine, uracil and guanine"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v093"
+  },
+  {
+    "source": "考古｜111 期中 Q5",
+    "q": 5,
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "The functional group that forms covalent bonds between R groups within a polypeptide and that stabilizes tertiary structure is (2 points)",
+    "options": [
+      "-NH2",
+      "COOH",
+      "-PO4",
+      "-SH",
+      "-OH"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "兩個 cysteine 的 sulfhydryl groups 氧化形成共價 disulfide bond，穩定三級結構。",
+    "terms": [
+      "sulfhydryl group (-SH)：巰基。",
+      "disulfide bond：雙硫鍵。"
+    ],
+    "id": "v094"
+  },
+  {
+    "source": "考古｜111 期中 Q6",
+    "q": 6,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "Which compound has the highest free energy and produces the most ATP per molecule when oxidized? (2 points)",
+    "options": [
+      "acetyl CoA",
+      "glucose",
+      "pyruvate",
+      "lactate",
+      "carbon"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Glucose 比其較氧化的分解產物含有更多可轉移的高能電子；CO₂ 已高度氧化。",
+    "terms": [],
+    "id": "v095"
+  },
+  {
+    "source": "考古｜111 期中 Q7",
+    "q": 7,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "Which is an immediate effect of blocking the activity of mitochondrial ATP synthase? (2 points)",
+    "options": [
+      "Oxygen consumption would decrease.",
+      "The pH in the mitochondrial matrix would reduce.",
+      "ATP synthesis would increase.",
+      "The pH in the intermembrane space of the mitochondria would decrease.",
+      "The concentration of NAH would increase"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "ATP synthase 阻斷使 H⁺ 難以回流，梯度上升並抑制 ETC；耗氧下降，NADH 之後也會累積。",
+    "terms": [],
+    "id": "v096"
+  },
+  {
+    "source": "考古｜111 期中 Q8",
+    "q": 8,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "A patient is injected with radioactively labeled glucose and visualized by PET scan. Why would cancer cells take up more of the radioactive glucose than surrounding noncancerous tissues?",
+    "options": [
+      "Because they have more glycolytic enzyme to metabolize glucose.",
+      "Because they consume more oxygen to metabolize glucose:",
+      "Because they are more sensitive to radiation.",
+      "Because they are less sensitive to radiation.",
+      "Because they rely more on oxidative phosphorylation than glycolysis to produce ATP."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "許多癌細胞表現 Warburg effect，偏高的 glucose uptake 與 glycolysis 使 FDG 累積。",
+    "terms": [],
+    "id": "v097"
+  },
+  {
+    "source": "考古｜111 期中 Q9",
+    "q": 9,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "In the structure of ATP synthase, where do H+ ions cross the mitochondrial membrane? (2 points)",
+    "options": [
+      "between the catalytic beta subunits",
+      "along the stem formed by the b subunit",
+      "between the transmembrane a and c subunits",
+      "through the rotating gamma subunit",
+      "through the beta subunit"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "H⁺ 由 F₀ 區的 a-subunit 半通道與 c-ring 介面通過，驅動 c-ring/γ 軸旋轉。",
+    "terms": [],
+    "id": "v098"
+  },
+  {
+    "source": "考古｜111 期中 Q10",
+    "q": 10,
+    "ch": "Ch4",
+    "type": "single",
+    "prompt": "What would you predict about a reaction that has a delta G < 0? (2 points)",
+    "options": [
+      "The reaction will require energy.",
+      "The reaction is not spontaneous.",
+      "The reaction will require energy and is spontaneous.",
+      "The reaction will release energy and is spontaneous.",
+      "The reaction has to couple with exogenous reaction in order to happen spontaneously."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "負 ΔG 表示熱力學上有利，但不代表反應速率一定快。",
+    "terms": [],
+    "id": "v099"
+  },
+  {
+    "source": "考古｜111 期中 Q11",
+    "q": 11,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "In order survive in a low temperature environment, a cell must increase its membrane fluidity. What would be a reasonable strategy for increasing plasma membrane fluidity at low temperatures? (2 points)",
+    "options": [
+      "decrease the composition of cholesterol in the plasma membrane.",
+      "decrease the composition of phospholipids with unsaturated fatty acid chains",
+      "increase the composition of phospholipids with saturated fatty acid chains",
+      "decrease the length of the phospholipid fatty acyl tail.",
+      "All of the strategies are reasonable."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "短尾降低 van der Waals interactions；不飽和尾與低溫下的 cholesterol 也有助維持流動性。",
+    "terms": [],
+    "id": "v100"
+  },
+  {
+    "source": "考古｜111 期中 Q12",
+    "q": 12,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "When epinephrine binds to its G-protein coupled receptor, subsequently _______is activated and_________ producing. (2 points)",
+    "options": [
+      "enzyme linked receptors; protein kinase",
+      "kinase; calcium.",
+      "adenylyl cyclase; cAMP",
+      "phospholipase C; diacylglyceride."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Gsα-GTP 活化 adenylyl cyclase，將 ATP 轉成 cAMP。",
+    "terms": [],
+    "id": "v101"
+  },
+  {
+    "source": "考古｜111 期中 Q13",
+    "q": 13,
+    "ch": "Ch4",
+    "type": "single",
+    "prompt": "You measure the velocity of a reaction in the presence of compound X and note that the velocity increases by adding more substrate. This indicates that the compound X is an/a (2 points)",
+    "options": [
+      "activator.",
+      "allosteric inhibitor.",
+      "transcription factor",
+      "competitive inhibitor.",
+      "cofactor."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "提高 substrate 可克服 active-site competition，是 competitive inhibition 的典型特徵。",
+    "terms": [],
+    "id": "v102"
+  },
+  {
+    "source": "考古｜111 期中 Q14",
+    "q": 14,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Insulin can activate lipid synthesis in adipose cells and block breakdown of glycogen in the liver. Following are the possible explanations except (2 points)",
+    "options": [
+      "Adipose and liver cells may express distinct insulin receptors.",
+      "Adipose and liver cells may have unique signal transduction pathways activated by insulin.",
+      "Adipose cells do not express the insulin receptor while liver cells do.",
+      "Adipose and liver cells may contain different transcription factors that regulate the expression of different genes."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Adipose cells確實表現 insulin receptor；組織差異來自 receptor level 與 downstream machinery。",
+    "terms": [],
+    "id": "v103"
+  },
+  {
+    "source": "考古｜111 期中 Q15",
+    "q": 15,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Autorhythmicity in cardiac muscle allows synchronization of the heart. This action causes a coordinated heart contraction. What type of connection would enable this to occur? (2 points)",
+    "options": [
+      "Plasmodesmata",
+      "Cadherin",
+      "Gap junction",
+      "Desmosomes",
+      "Tight junctions"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Gap junction 的 connexons 形成細胞間通道，傳遞離子與小分子。",
+    "terms": [],
+    "id": "v104"
+  },
+  {
+    "source": "考古｜111 期中 Q16",
+    "q": 16,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Your stomach's pH is ~2. Why don't underlying tissues become damaged from the acidity? (2 points)",
+    "options": [
+      "Presence of gap junctions",
+      "Presence of tight junctions",
+      "Presence of desmosomes",
+      "Presence of connexons",
+      "Presence of cadherens"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Tight junctions 封閉上皮細胞間隙，形成 paracellular barrier。",
+    "terms": [],
+    "id": "v105"
+  },
+  {
+    "source": "考古｜111 期中 Q17",
+    "q": 17,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "To make the skin more flexible and remove wrinkles, ________ could be injected beneath a person's skin. (2 points)",
+    "options": [
+      "fibronectin",
+      "collagen",
+      "laminin",
+      "cellulose",
+      "chitin"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Collagen 提供抗張強度，是皮膚 ECM 的主要結構蛋白。",
+    "terms": [],
+    "id": "v106"
+  },
+  {
+    "source": "考古｜111 期中 Q18",
+    "q": 18,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "All of the following cell junctions contain cell adhesion molecules EXCEPT (2 points)",
+    "options": [
+      "tight junctions.",
+      "focal adhesions.",
+      "hemidesmosomes.",
+      "desmosomes.",
+      "adheres junctions."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "原考題答案指向 tight junction；它主要建立封閉屏障，而其餘四者是典型 anchoring/adhesion junctions。",
+    "terms": [],
+    "id": "v107"
+  },
+  {
+    "source": "考古｜111 期中 Q19",
+    "q": 19,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "A dysfunctional cell lacks a signal peptidase and is unable to cleave the ER signal sequence from proteins translated in the ER. What will be the effect on the cell's proteins? (2 points)",
+    "options": [
+      "The cell will have no integral membrane proteins.",
+      "All cellular proteins will have an ER signal sequence.",
+      "There will be a common signal sequence at the N-terminus of all integral membrane proteins in the plasma membrane.",
+      "All cellular proteins will become membrane proteins.",
+      "There will be a common signal sequence at the C-terminus of all integral membrane proteins in the nuclear envelope."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Signal peptidase normally removes cleavable N-terminal ER signal peptides；缺失時該序列會保留。原考題的「所有膜蛋白」敘述過度概括，因此此處保留其核心判斷。",
+    "terms": [],
+    "id": "v108"
+  },
+  {
+    "source": "考古｜111 期中 Q20",
+    "q": 20,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "Patients with McArdle's Disease lack an enzyme in their livers that catabolizes glycogen. Compared to an unaffected individual, what would you predict about the blood glucose levels of a patient with McArdle's disease when he/she is exercising? (2 points)",
+    "options": [
+      "Blood glucose levels would be lower because they cannot make glycogen.",
+      "Blood glucose levels would be higher because they cannot break down glycogen.",
+      "Blood glucose levels would be normal, because glycogen is made up of amino acids.",
+      "Blood glucose levels would be lower because they cannot break down glycogen.",
+      "Blood glucose levels would be higher because they cannot make glycogen."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "若肝臟不能 glycogenolysis，無法適時釋放 glucose，血糖會偏低。原題將此稱為 McArdle disease，但經典 McArdle disease 是肌肉 glycogen phosphorylase 缺陷。",
+    "terms": [],
+    "id": "v109"
+  },
+  {
+    "source": "考古｜111 期中 Q21",
+    "q": 21,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "You have designed a drug able to transform skin cells into cells that secrete insulin. What accumulative aspect of the cell will the drug affect? (2 points)",
+    "options": [
+      "epigenetics.",
+      "the proteome.",
+      "transcriptional factors.",
+      "morphology.",
+      "None of above is correct."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "細胞功能的直接總體輸出反映在 proteome；重編程過程也涉及轉錄與表觀遺傳調控。",
+    "terms": [
+      "proteome：特定狀態下表現的全部蛋白質。"
+    ],
+    "id": "v110"
+  },
+  {
+    "source": "考古｜111 期中 Q22",
+    "q": 22,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "What would be an expected feature of a plasma membrane that had no integral membrane proteins? (2 points)",
+    "options": [
+      "the membrane would not associate with peripheral membrane proteins.",
+      "the membrane would have no fluidity.",
+      "the membrane would be unable to transport sodium ions.",
+      "the membrane would have no cholesterol.",
+      "the membrane would have high fluidity."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Na⁺ 無法直接穿過疏水核心，需 integral channel 或 carrier。",
+    "terms": [],
+    "id": "v111"
+  },
+  {
+    "source": "考古｜111 期中 Q23",
+    "q": 23,
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "The synthesis of proteins takes place - (2 points)",
+    "options": [
+      "On a ribosome",
+      "In the cytoplasm",
+      "On the surface of the rough ER",
+      "In prokaryotic cells",
+      "All of the above"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "翻譯由 ribosome 進行，可在游離或 RER 結合核糖體，原核細胞也會翻譯。",
+    "terms": [],
+    "id": "v112"
+  },
+  {
+    "source": "考古｜111 期中 Q24",
+    "q": 24,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Signals can be sent from the ECM to the cell through (2 points)",
+    "options": [
+      "connexins.",
+      "cadherins.",
+      "integrins.",
+      "fibronectins.",
+      "claudins."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Integrins 跨膜連接 ECM 與 cytoskeleton，能雙向傳訊。",
+    "terms": [],
+    "id": "v113"
+  },
+  {
+    "source": "考古｜111 期中 Q25",
+    "q": 25,
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "The structural difference between saturated and unsaturated fats causes what type of change at room temperature? (2 points)",
+    "options": [
+      "Linear structure of a fatty acid causes solid formation at room temperature.",
+      "Double bonds in saturated fatty acids cause a solid structure at room temperature.",
+      "A linear structure causes a loose forming macromolecule that is liquid at room temperature.",
+      "The double bonds require higher temperatures at room temperature to make this fatty acid into a liquid."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "Saturated tails straight、易緊密堆積；cis unsaturated tails 彎曲、降低堆積。",
+    "terms": [],
+    "id": "v114"
+  },
+  {
+    "source": "考古｜111 期中 Q26",
+    "q": 26,
+    "ch": "Ch6",
+    "type": "single",
+    "prompt": "Following molecules could be the final electron acceptor for anaerobic respiration except.",
+    "options": [
+      "NO",
+      "NO2-",
+      "NO3-",
+      "C3H5O3-",
+      "SO24-"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "Anaerobic respiration 使用 ETC 與非氧終端接受者，如 nitrate 或 sulfate；lactate 通常是發酵產物。",
+    "terms": [],
+    "id": "v115"
+  },
+  {
+    "source": "考古｜111 期中 Q27",
+    "q": 27,
+    "ch": "Ch5",
+    "type": "single",
+    "prompt": "Osteogenesis imperfect is a rare human condition caused by a mutation in a gene encoding Type I collagen. In some forms of the disease, the mutation leads to the production of procollagen that has a defective extension sequence; this defect interferes with the assembly of functional collagen fibers. Which of the following symptoms would you expect to see in individuals with osteogenesis imperfecta? (2 points)",
+    "options": [
+      "very strong tendons and ligaments/tight joints",
+      "very weak bones",
+      "respiratory problems/lung defects",
+      "thin discs between vertebrae",
+      "defective kidneys and capillaries"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "Type I collagen 是骨基質與多種結締組織的重要抗張材料；缺陷造成骨脆弱。",
+    "terms": [],
+    "id": "v116"
+  },
+  {
+    "source": "考古｜111 期中（重建） Q28",
+    "q": 28,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "真核生物（動物植物）與原核生物有所差異是因為原核?",
+    "options": [
+      "有中心粒",
+      "沒有DNA",
+      "有細胞膜",
+      "沒有膜狀胞器",
+      "（原資料缺漏）"
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "原核細胞有 DNA、ribosomes 與 plasma membrane，但沒有細胞核等膜狀胞器。",
+    "terms": [],
+    "id": "v117"
+  },
+  {
+    "source": "考古｜111 期中（重建） Q29；111 期中（重建） Q30",
+    "q": 29,
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "神經細胞跟肌肉細胞為何在構造與功能上有所不同?",
+    "options": [
+      "細胞大小不同",
+      "（原資料缺漏）",
+      "蛋白組不同且表現出的蛋白質數量不同",
+      "基因體不同且表現出的蛋白質數量不同",
+      "以上皆非"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "Differential gene expression 造成不同 proteomes 與細胞功能。",
+    "terms": [],
+    "id": "v118"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q16",
+    "q": 16,
+    "ch": "All",
+    "type": "single",
+    "prompt": "A researcher determined that a strain of E. coli is producing a shortened version of a protein required for glucose metabolism. What type of mutation could be responsible for this shorter than normal protein?",
+    "options": [
+      "nonsense mutation",
+      "missense mutation",
+      "silent mutation",
+      "sense mutation",
+      "frameshift mutation"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v120"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q17",
+    "q": 17,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Based on the gene and protein sequences that follow, what type of mutation has occurred and what is the effect on the polypeptide? Normal gene: ATGGCCGGCCCGAAAGAGACC Mutated gene: ATGGCCGGCACCGAAAGAGACC Normal protein: Met-Ala-Gly-Pro-Lys-Glu-Thr Mutated protein: Met-Ala-Gly-Thr-Glu-Arg-Asp",
+    "options": [
+      "base addition—silent",
+      "substitution—missense",
+      "base addition—missense",
+      "substitution—nonsense",
+      "base addition—frameshift"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v121"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q18",
+    "q": 18,
+    "ch": "All",
+    "type": "single",
+    "prompt": "The rate of transcription for a gene is found to be affected by a mutation. Where would you expect the mutation to appear on the DNA?",
+    "options": [
+      "In an intron associated with the gene",
+      "In the promoter for the gene",
+      "In a splice site for the gene",
+      "In the rRNA of the ribosomes translating the gene",
+      "In the exon of the gene"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v122"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q19",
+    "q": 19,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Which of the following diseases is associated with faulty DNA repair mechanisms?",
+    "options": [
+      "Alzheimer's disease",
+      "diabetes",
+      "xeroderma pigmentosum",
+      "diabetes and xeroderma pigmentosum",
+      "Alzheimer's disease and diabetes"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v123"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q20",
+    "q": 20,
+    "ch": "All",
+    "type": "single",
+    "prompt": "When cancer cells have the ability to migrate to other parts of the body, they are said to be",
+    "options": [
+      "invasive.",
+      "benign.",
+      "metastatic.",
+      "oncogenic.",
+      "genetic."
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v124"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q22",
+    "q": 22,
+    "ch": "All",
+    "type": "single",
+    "prompt": "If the copy number of a proto-oncogene is increased by gene duplication then the proto-oncogene has undergone",
+    "options": [
+      "a missense mutation.",
+      "gene amplification.",
+      "a chromosomal translocation.",
+      "retroviral insertion.",
+      "a nonsense mutation."
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v125"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q24",
+    "q": 24,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Chromosomes are replicated during the ______ phase.",
+    "options": [
+      "G1",
+      "G2",
+      "S",
+      "M",
+      "meta-"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v126"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q25",
+    "q": 25,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Which of the following is NOT a checkpoint that controls the progression of the cell cycle?",
+    "options": [
+      "Cyclins and cyclin-dependent kinases are proteins that are responsible for advancing a cell through the phases of the cell cycle.",
+      "The G2 checkpoint checks for DNA damage and determines if all of the DNA is replicated.",
+      "The metaphase checkpoint determines if all chromosomes are attached to the spindle apparatus.",
+      "Cytokinesis involves the formation of cleavage furrow to separate the cells.",
+      "The restriction point determines if conditions are favorable for cell division and if the DNA is undamaged."
+    ],
+    "answer": [
+      3
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v127"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q26",
+    "q": 26,
+    "ch": "All",
+    "type": "single",
+    "prompt": "A mutation occurs in a gene that encodes a G1 cyclin, such that the protein is unable to bind to its CDK. How will this affect the cell cycle?",
+    "options": [
+      "The cell will be stuck in G1 and will not advance through the cell cycle.",
+      "The cell will replicate its DNA, but will be unable to progress through mitosis.",
+      "The cell will rapidly replicate its DNA and progress through mitosis, causing uncontrolled cell division, and leading to cancer.",
+      "The cell will proceed thru mitosis without replicating its DNA.",
+      "The cell will proceed to the S phase, and DNA repair enzymes will repair the mutated cyclin when it replicates the DNA."
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v128"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q27",
+    "q": 27,
+    "ch": "All",
+    "type": "single",
+    "prompt": "How are sister chromatids connected to each other?",
+    "options": [
+      "through complementary base pairing of DNA at the centromere",
+      "through centromere proteins that are attracted to each other by opposite charges",
+      "through activated cyclin/CDK complexes",
+      "through the centrioles",
+      "through cohesion proteins"
+    ],
+    "answer": [
+      4
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v129"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q28",
+    "q": 28,
+    "ch": "All",
+    "type": "single",
+    "prompt": "A species that three sets of homologous chromosomes can have ______ different combinations of chromosomes in its gametes.",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "27",
+      "64"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v130"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q29",
+    "q": 29,
+    "ch": "All",
+    "type": "single",
+    "prompt": "The probability of obtaining a dominant phenotype from self-fertilization of a heterozygous individual is",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v131"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q30",
+    "q": 30,
+    "ch": "All",
+    "type": "single",
+    "prompt": "What is the distribution of phenotypes from a cross of purple tall pea plants that are heterozygous for flower color and plant height? (Purple is dominant to white; tall is dominant to dwarf.)",
+    "options": [
+      "63 purple tall; 28 purple tall; 27 white dwarf; 7 white dwarf",
+      "132 purple tall; 138 white dwarf",
+      "54 purple tall; 6 white dwarf",
+      "100% purple tall",
+      "27 purple dwarf; 28 purple tall; 31 white dwarf; 29 white tall"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v132"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q31",
+    "q": 31,
+    "ch": "All",
+    "type": "single",
+    "prompt": "What features of meiosis allow for independent assortment of chromosomes?",
+    "options": [
+      "random alignment of homologous chromosome pairs on the metaphase plate",
+      "separation of sister chromatids",
+      "reduction of chromosome number from diploid to haploid",
+      "both the separation of sister chromatids and the reduction of chromosome number from diploid to haploid"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v133"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q32",
+    "q": 32,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Roberts Syndrome is an extremely rare genetic disorder that is characterized by mild to severe prenatal retardation or disruption of cell division, leading to malformation of the bones of the skull, face, arms, and legs. Shown below is a pedigree for a family with Roberts Syndrome. What is the genotype of individual II-C? (R = wild type; r = Roberts syndrome)",
+    "options": [
+      "RR",
+      "rr",
+      "Rr",
+      "R",
+      "r"
+    ],
+    "answer": [
+      2
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v134"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q36",
+    "q": 36,
+    "ch": "All",
+    "type": "single",
+    "prompt": "Animal bodies are organized along the ______ axes.",
+    "options": [
+      "dorsoventral, anteroposterior, and left-right",
+      "dorsoventral, cranioposterior, and right-left",
+      "dorsoventral, anteroposterior, and segmented",
+      "dorsoventral, cranioposterior, and segmented",
+      "apicalventral, anteroposterior, and right-left"
+    ],
+    "answer": [
+      0
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v135"
+  },
+  {
+    "source": "考古｜111 醫學生物期末 Q38",
+    "q": 38,
+    "ch": "All",
+    "type": "single",
+    "prompt": "In your Drosophila laboratory, you find a larva that is missing segments Lb, T1, T2, and T3. This larva probably has a mutation in a ______ gene.",
+    "options": [
+      "pair-rule",
+      "gap",
+      "maternal effect",
+      "segment-polarity",
+      "gap or segment-polarity"
+    ],
+    "answer": [
+      1
+    ],
+    "explain": "此題依原考卷保留；答案已依題意核對。",
+    "terms": [],
+    "id": "v136"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q1",
+    "q": "1",
+    "ch": "Ch2",
+    "type": "multiple",
+    "prompt": "If you were asked to build a model of a nucleotide, what structures would you need to represent in the model? (1 point)",
+    "explain": "核苷酸由五碳糖、磷酸基與含氮鹼基組成；codon 是三個核苷酸形成的序列單位。",
+    "terms": [
+      "nucleotide：核苷酸；核酸的單體。"
+    ],
+    "options": [
+      "A six carbon sugar",
+      "five carbon sugar",
+      "phosphate group",
+      "methyl group",
+      "base",
+      "codon"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "id": "v138"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q2",
+    "q": "2",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "Please draw the chemical structure of Adenine. (2 points)",
+    "explain": "考試若要求作圖，要畫出 purine 雙環骨架與第 6 位的 amino group。",
+    "terms": [
+      "adenine：腺嘌呤；purine 鹼基。"
+    ],
+    "answerText": "Adenine is 6-aminopurine: a fused six-membered and five-membered purine ring with an amino group at carbon 6.",
+    "id": "v139"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q3",
+    "q": "3",
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "The functional group that forms covalent bonds between R groups within a polypeptide and that stabilizes tertiary structure is (1 point)",
+    "explain": "兩個 cysteine 的 sulfhydryl groups 氧化形成共價 disulfide bond，穩定三級結構。",
+    "terms": [
+      "sulfhydryl group (-SH)：巰基。",
+      "disulfide bond：雙硫鍵。"
+    ],
+    "options": [
+      "_NH2",
+      "_COOH",
+      "_PO4",
+      "_SH",
+      "_OH"
+    ],
+    "answer": [
+      3
+    ],
+    "id": "v140"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q4",
+    "q": "4",
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "Glycogen is to animal cells as ______ is to plant cells. (1 point)",
+    "explain": "動物以 glycogen 儲存葡萄糖；植物的主要儲存多醣是 starch。",
+    "terms": [
+      "glycogen：肝醣。",
+      "starch：澱粉。"
+    ],
+    "options": [
+      "lipid",
+      "cellulose",
+      "starch",
+      "protein",
+      "sugar"
+    ],
+    "answer": [
+      2
+    ],
+    "id": "v141"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q5",
+    "q": "5",
+    "ch": "Ch2",
+    "type": "single",
+    "prompt": "A phospholipid has ______ fatty acids attached to glycerol, whereas a fat has ______. (1 point)",
+    "explain": "典型 phospholipid 有兩條脂肪酸尾與一個含磷酸的頭部；triacylglycerol 有三條脂肪酸。",
+    "terms": [],
+    "options": [
+      "3; 4",
+      "3; 2",
+      "2; 3",
+      "2; 4"
+    ],
+    "answer": [
+      2
+    ],
+    "id": "v142"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q6",
+    "q": "6",
+    "ch": "Ch2",
+    "type": "fill",
+    "prompt": "If a DNA fragment contains 35% of A, what is the percentage of Guanine in the same DNA fragment? (1 point)",
+    "explain": "A=T=35%，剩下 30% 為 G+C，因此 G=C=15%。",
+    "terms": [],
+    "accepted": [
+      "15",
+      "15%"
+    ],
+    "answerText": "15%",
+    "id": "v143"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q7a",
+    "q": "7a",
+    "ch": "Ch2",
+    "type": "fill",
+    "prompt": "The amino acid sequence of a polypeptide is, H3N+-Gly-Ala-Ser-Asp-Phe-Tyr-Cys-COO-. How many peptide bonds could be found in this polypeptide? (1 point)",
+    "explain": "含 7 個胺基酸的直鏈胜肽具有 7-1=6 個 peptide bonds。",
+    "terms": [],
+    "accepted": [
+      "6",
+      "six"
+    ],
+    "answerText": "6",
+    "id": "v144"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q7b",
+    "q": "7b",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "The amino acid sequence of a polypeptide is, H3N+-Gly-Ala-Ser-Asp-Phe-Tyr-Cys-COO-. How many polar side chains could be found in this polypeptide? Please circle them accordingly. (1 point)",
+    "explain": "Ser、Asp、Tyr、Cys 的側鏈可形成極性作用；Asp 在生理 pH 下通常帶負電。",
+    "terms": [],
+    "answerText": "",
+    "id": "v145"
+  },
+  {
+    "source": "考古｜Ch3 小考 Q8",
+    "q": "8",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "Why did Anfinsen add urea and beta-mercaptoethanol in his protein folding experiment? (1 point)",
+    "explain": "兩種試劑分別破壞非共價作用力與共價雙硫鍵，以測試胺基酸序列是否含有重新摺疊所需資訊。",
+    "terms": [],
+    "answerText": "Urea disrupts noncovalent interactions and unfolds the protein; beta-mercaptoethanol reduces disulfide bonds.",
+    "id": "v146"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q1",
+    "q": "1",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "Cell theory is based on some basic principles. Choose the description that best addresses these principles. (1 point)",
+    "explain": "完整的 cell theory 同時包含所有生物由一或多個細胞構成、細胞是生命基本單位、細胞來自既存細胞。",
+    "terms": [],
+    "options": [
+      "All life is composed of two or more cells, the smallest unit of life are cells, and cell division from pre-existing cells is the only way cell continue to exist.",
+      "New cells come only from pre-existing cells by cell division.",
+      "Cells are the smallest unit of living organisms, and new cells form from pre-existing cells by cell division.",
+      "All living organisms are composed of one or more cells, cells are the smallest units of life, and new cells come only from pre-existing cells by cell division."
+    ],
+    "answer": [
+      3
+    ],
+    "id": "v147"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q2",
+    "q": "2",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "Eukaryotes such as animal and plants cells differ from prokaryotes in that prokaryotes (1 point)",
+    "explain": "原核細胞有 DNA、ribosomes 與 plasma membrane，但沒有細胞核等膜狀胞器。",
+    "terms": [],
+    "options": [
+      "lack internal compartmentalization.",
+      "lack true DNA.",
+      "use the cell's membrane rather than ribosomes for making proteins.",
+      "contain numerous organelles."
+    ],
+    "answer": [
+      0
+    ],
+    "id": "v148"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q3",
+    "q": "3",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "Plasma membranes are a feature of (1 point)",
+    "explain": "所有細胞都需要 plasma membrane 界定內外環境。",
+    "terms": [],
+    "options": [
+      "all cells.",
+      "prokaryotic cells only.",
+      "eukaryotic cells only.",
+      "animal cells only."
+    ],
+    "answer": [
+      0
+    ],
+    "id": "v149"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q4",
+    "q": "4",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "A fabric company wants to create a new material based on cell research for the army that is able to bear high levels of tension efficiently. What cellular structure should be the target? (1 point)",
+    "explain": "Intermediate filaments 提供抗拉強度，例如 keratin 與 desmosome 系統。",
+    "terms": [],
+    "options": [
+      "microtubules",
+      "intermediate filaments",
+      "microfilaments",
+      "pili"
+    ],
+    "answer": [
+      1
+    ],
+    "id": "v150"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q5",
+    "q": "5",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "In animal cells, microtubules grow from (1 point)",
+    "explain": "Centrosome 是主要 microtubule-organizing center。",
+    "terms": [],
+    "options": [
+      "the plasma membrane.",
+      "the outer membrane of the nuclear envelope.",
+      "centrosomes containing centrioles.",
+      "dimerization centers located throughout the cytosol."
+    ],
+    "answer": [
+      2
+    ],
+    "id": "v151"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q6",
+    "q": "6",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "After a night of drinking too much alcohol, a person will rely on which organelle to help detoxify and recover? (1 point)",
+    "explain": "肝細胞 smooth ER 的 cytochrome P450 系統參與酒精與藥物代謝。",
+    "terms": [],
+    "options": [
+      "lysosomes",
+      "smooth endoplasmic reticulum",
+      "rough endoplasmic reticulum",
+      "Golgi apparatus",
+      "peroxisomes"
+    ],
+    "answer": [
+      1
+    ],
+    "id": "v152"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q7",
+    "q": "7",
+    "ch": "Ch1",
+    "type": "single",
+    "prompt": "You have designed a drug able to transform skin cells into cells that secrete insulin. What accumulative aspect of the cell will the drug affect? (1 point)",
+    "explain": "細胞功能的直接總體輸出反映在 proteome；重編程過程也涉及轉錄與表觀遺傳調控。",
+    "terms": [
+      "proteome：特定狀態下表現的全部蛋白質。"
+    ],
+    "options": [
+      "phenotypic traits",
+      "epigenetics",
+      "the proteome",
+      "transcriptional factors"
+    ],
+    "answer": [
+      2
+    ],
+    "id": "v153"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q8",
+    "q": "8",
+    "ch": "Ch1",
+    "type": "multiple",
+    "prompt": "Many different structures make up a cell and have unique functions. Each cell structure is associated with a critical function in the cell. These pairings include (1 point)",
+    "explain": "Lysosomes 負責胞內消化而非蛋白質合成；其餘配對正確。",
+    "terms": [],
+    "options": [
+      "microfilaments; cytoskeleton.",
+      "lysosomes; protein synthesis.",
+      "nucleus; DNA replication.",
+      "cell membrane; barrier between the cell and the external environment.",
+      "Golgi apparatus; modification, processing, and sorting of macromolecules."
+    ],
+    "answer": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "id": "v154"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q9",
+    "q": "9",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "Determine the order of the processes occurring as a protein travels through the endomembrane system. (1 point) Transportation to the Golgi; Movement through the cis, medial, and trans regions of Golgi; Pinching of vesicle from ER into the cytoplasm; Translation of protein into the Rough ER; Attachment of protein to cargo receptors; Release of the protein out of the cell.",
+    "explain": "分泌蛋白先進入 RER，再由囊泡送往 Golgi，經 cis 到 trans 後被分類並釋出。",
+    "terms": [],
+    "answerText": "Translation into the Rough ER → pinching of a vesicle from the ER → transportation to the Golgi → movement through cis, medial, and trans Golgi → attachment to cargo receptors → release out of the cell.",
+    "id": "v155"
+  },
+  {
+    "source": "考古｜Ch4 小考 Q10",
+    "q": "10",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "What was the key method used by Palade to investigate the protein secretion process of endomembrane system? (1 point)",
+    "explain": "Pulse-chase 可依時間追蹤蛋白質由 ER 到 Golgi 再到分泌囊泡的移動。",
+    "terms": [],
+    "answerText": "A pulse-chase experiment with radiolabeled amino acids, followed by autoradiography/electron microscopy to track newly synthesized proteins over time.",
+    "id": "v156"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q1",
+    "q": "1",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Cellular membranes are",
+    "explain": "Fluid-mosaic membrane 是不對稱的磷脂雙層，流動且選擇性通透。",
+    "terms": [],
+    "options": [
+      "semifluid with asymmetrical bilayer structure.",
+      "composed of a single layer of amphipathic molecules.",
+      "selective to the transport of gases and small molecules only.",
+      "found in eukaryotes, but not prokaryotes."
+    ],
+    "answer": [
+      0
+    ],
+    "id": "v157"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q2",
+    "q": "2",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "What is the major lipid found in membranes?",
+    "explain": "Phospholipids 自發形成雙層，是膜的基本架構。",
+    "terms": [],
+    "options": [
+      "saturated fatty acids",
+      "cholesterol",
+      "triglycerides",
+      "phospholipids"
+    ],
+    "answer": [
+      3
+    ],
+    "id": "v158"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q3",
+    "q": "3",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "What would be an expected feature of a plasma membrane that had no integral membrane proteins?",
+    "explain": "Na⁺ 無法直接穿過疏水核心，需 integral channel 或 carrier。",
+    "terms": [],
+    "options": [
+      "the membrane would be unable to transport sodium ions",
+      "the membrane would not associate with peripheral membrane proteins",
+      "the membrane would have no fluidity",
+      "the membrane would have no cholesterol"
+    ],
+    "answer": [
+      0
+    ],
+    "id": "v159"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q4",
+    "q": "4",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Which component of the cell membrane might contribute to maintaining the fluidity of plasma membranes under freezing conditions?",
+    "explain": "cis 不飽和雙鍵造成彎折，降低緊密堆積；低溫時 cholesterol 也可防止膜凝固。",
+    "terms": [],
+    "options": [
+      "high levels of saturated phospholipid tails within the lipid bilayer",
+      "high levels of long phospholipid tails within the lipid bilayer",
+      "high levels of unsaturated phospholipid tails within the lipid bilayer",
+      "absence of cholesterol"
+    ],
+    "answer": [
+      2
+    ],
+    "id": "v160"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q5",
+    "q": "5",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "The membrane component primarily responsible for the structure and function of plasma membranes is",
+    "explain": "Phospholipids 自發形成雙層，是膜的基本架構。",
+    "terms": [],
+    "options": [
+      "glycosylated proteins.",
+      "phospholipids.",
+      "glycolipids.",
+      "cholesterol."
+    ],
+    "answer": [
+      1
+    ],
+    "id": "v161"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q6",
+    "q": "6",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Which membrane component is important for allowing large, charged molecules to pass through the membrane?",
+    "explain": "大型帶電分子需要跨膜 channel 或 carrier protein。",
+    "terms": [],
+    "options": [
+      "peripheral proteins",
+      "cholesterol",
+      "glycosylated lipids",
+      "transmembrane proteins"
+    ],
+    "answer": [
+      3
+    ],
+    "id": "v162"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q7",
+    "q": "7",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Which molecule passes through a lipid bilayer most readily?",
+    "explain": "小型非極性 CO₂ 可直接簡單擴散。",
+    "terms": [],
+    "options": [
+      "carbon dioxide",
+      "glucose",
+      "K+",
+      "arginine",
+      "RNA"
+    ],
+    "answer": [
+      0
+    ],
+    "id": "v163"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q8",
+    "q": "8",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Animal cells are permeable to water and urea but NOT to sucrose. The inside of a cell contains 1 M sucrose and 1 M urea and the outside 1 M sucrose and 2 M urea. The solution inside with respect to outside the cell is",
+    "explain": "Tonicity 由不能穿膜的 sucrose 決定；兩側均為 1 M，因此等張。Urea 可跨膜，不能決定持久的張力。",
+    "terms": [],
+    "options": [
+      "hypotonic.",
+      "turgid.",
+      "isotonic.",
+      "saturated.",
+      "hypertonic."
+    ],
+    "answer": [
+      2
+    ],
+    "id": "v164"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q9",
+    "q": "9",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "Sodium concentrations are higher outside and glucose concentrations are higher inside the cell. Using the same membrane protein for Na+ and glucose transport, what is it called when a Na+ electrochemical gradient is used to drive glucose transport into the cell against its concentration gradient?",
+    "explain": "能量間接來自先建立的 Na⁺ gradient，因此是 secondary active transport。",
+    "terms": [],
+    "options": [
+      "primary active transport",
+      "secondary active transport",
+      "primary facilitated diffusion",
+      "secondary facilitated diffusion"
+    ],
+    "answer": [
+      1
+    ],
+    "id": "v165"
+  },
+  {
+    "source": "考古｜Ch5 小考 Q10",
+    "q": "10",
+    "ch": "Ch3",
+    "type": "single",
+    "prompt": "The release of the protein insulin from pancreatic cells occurs by",
+    "explain": "分泌囊泡與 plasma membrane 融合，以 exocytosis 釋放 insulin。",
+    "terms": [],
+    "options": [
+      "endocytosis.",
+      "pinocytosis.",
+      "phagocytosis.",
+      "exocytosis.",
+      "receptor-mediated endocytosis."
+    ],
+    "answer": [
+      3
+    ],
+    "id": "v166"
+  },
+  {
+    "source": "考古｜Ch5 小考 QBonus",
+    "q": "Bonus",
+    "ch": "Ch3",
+    "type": "free",
+    "prompt": "Please list up to two cellular functions driven by ion gradients. (1 point per function)",
+    "explain": "答案需指出梯度的勢能如何被另一項工作使用。",
+    "terms": [],
+    "answerText": "Examples: ATP synthesis driven by a proton gradient; secondary active transport; action potentials; flagellar rotation.",
+    "id": "v167"
+  },
+  {
+    "source": "考古｜106 期末簡答 Q1",
+    "q": "1",
+    "ch": "Ch7",
+    "type": "fill",
+    "prompt": "What is the direction of DNA synthesis? (2%)",
+    "answerText": "5′ → 3′",
+    "explain": "DNA polymerase 將新 nucleotide 加到 growing strand 的 3′-OH，因此新股只能 5′→3′ 合成。",
+    "terms": [],
+    "accepted": [
+      "5 to 3",
+      "5′ to 3′",
+      "5' to 3'",
+      "5→3"
+    ],
+    "id": "v168"
+  },
+  {
+    "source": "考古｜106 期末簡答 Q2",
+    "q": "2",
+    "ch": "Ch7",
+    "type": "fill",
+    "prompt": "In a single-strand DNA, which kind of covalent bond links nucleotides? (2%)",
+    "answerText": "phosphodiester bond",
+    "explain": "Phosphodiester bond 連接一個 nucleotide 的 3′-OH 與下一個的 5′ phosphate。",
+    "terms": [],
+    "accepted": [
+      "phosphodiester bond",
+      "phosphodiester linkage"
+    ],
+    "id": "v169"
+  },
+  {
+    "source": "考古｜106 期末簡答 Q3",
+    "q": "3",
+    "ch": "Ch7",
+    "type": "fill",
+    "prompt": "Bacteria were grown in 15N (heavy) medium and then transferred to 14N (light) medium. The DNA was subsequently isolated and centrifuged in a CsCl2 gradient as shown in the right figure. What the ratio of half-heavy to light bands at the 5th generation? (3%)",
+    "answerText": "1:15",
+    "explain": "每代 hybrid 比例減半；第 5 代為 1/16 hybrid、15/16 light，所以 1:15。",
+    "terms": [],
+    "accepted": [
+      "1:15",
+      "1 to 15"
+    ],
+    "id": "v170"
+  },
+  {
+    "source": "考古｜106 期末簡答 Q4",
+    "q": "4",
+    "ch": "Ch7",
+    "type": "fill",
+    "prompt": "One DNA specimen contains 29% of guanine. What is the percentage of adenine in this sample? (2%)",
+    "answerText": "21%",
+    "explain": "G=C=29%，剩下 A+T=42%，所以 A=T=21%。",
+    "terms": [],
+    "accepted": [
+      "21",
+      "21%"
+    ],
+    "id": "v171"
+  },
+  {
+    "source": "考古｜106 期末簡答 Q5",
+    "q": "5",
+    "ch": "Ch7",
+    "type": "free",
+    "prompt": "Please describe the RNA processing in eukaryotes. (6%)",
+    "answerText": "Addition of a 5′ cap, addition of a 3′ poly(A) tail, and RNA splicing to remove introns and join exons.",
+    "explain": "三項皆在形成 mature mRNA 的過程中發生。",
+    "terms": [],
+    "id": "v172"
+  },
+  {
+    "source": "考古｜106 期末簡答 Q6",
+    "q": "6",
+    "ch": "Ch7",
+    "type": "free",
+    "prompt": "Please explain why the transcription rate of lac operon is high in the condition of low glucose and high lactose? (Hints: cAMP & allolactose) (4%)",
+    "answerText": "Low or absent glucose and high/present lactose.",
+    "explain": "Lactose 形成 allolactose 解除 Lac repressor；低 glucose 使 cAMP-CAP 活化轉錄。",
+    "terms": [],
+    "id": "v173"
+  },
+  {
+    "source": "考古｜106 期末問答 Q1",
+    "q": "1",
+    "ch": "Ch7",
+    "type": "free",
+    "prompt": "What is a proteome? (5%) Whether proteomes for a species is larger or smaller than their genomes? (2%) Please explain. (6%)",
+    "answerText": "Alternative RNA splicing can generate multiple mRNAs from one gene. Alternative promoters or polyadenylation, RNA editing, and post-translational modifications/processing further expand protein diversity.",
+    "explain": "不要只答「一基因一蛋白」；現代重點是同一 gene 可產生多種 protein isoforms。",
+    "terms": [
+      "alternative splicing：選擇性剪接。",
+      "post-translational modification：轉譯後修飾。"
+    ],
+    "id": "v174"
+  },
+  {
+    "source": "考古｜110 期中問答 Q1",
+    "q": "1",
+    "ch": "Ch6",
+    "type": "free",
+    "prompt": "Please briefly describe the 4 major steps of cellular respiration that used by eukaryotic cells for obtaining energy from 1 molecule of glucose (including the locations where these reaction take place and the amount of energy intermediates generated from each steps) (16points)",
+    "answerText": "Glycolysis (cytosol): 2 ATP net, 2 NADH, 2 pyruvate. Pyruvate oxidation (matrix): 2 NADH, 2 acetyl-CoA, 2 CO₂. Citric acid cycle (matrix): 2 ATP/GTP, 6 NADH, 2 FADH₂, 4 CO₂. Oxidative phosphorylation (inner mitochondrial membrane): most ATP, driven by NADH/FADH₂ and O₂.",
+    "explain": "數字應區分每一 glucose 與題目若要求的兩分子 glucose。",
+    "terms": [],
+    "id": "v175"
+  },
+  {
+    "source": "考古｜110 期中問答 Q2",
+    "q": "2",
+    "ch": "Ch6",
+    "type": "free",
+    "prompt": "What are the biological significance of aerobic respiration and anaerobic respiration in cells? (5 points)",
+    "answerText": "Aerobic respiration uses O₂ as the final electron acceptor and yields much more ATP. Anaerobic respiration uses another final acceptor, whereas fermentation regenerates NAD⁺ so glycolysis can continue without O₂.",
+    "explain": "注意 anaerobic respiration 與 fermentation 並非同義。",
+    "terms": [],
+    "id": "v176"
+  },
+  {
+    "source": "考古｜110 期中問答 Q3",
+    "q": "3",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "Why did Anfisen add urea and beta-mercaptoethanol in his protein folding experiment? (4 points)",
+    "answerText": "Urea disrupts noncovalent interactions and unfolds the protein; beta-mercaptoethanol reduces disulfide bonds.",
+    "explain": "兩種試劑分別破壞非共價作用力與共價雙硫鍵，以測試胺基酸序列是否含有重新摺疊所需資訊。",
+    "terms": [],
+    "id": "v177"
+  },
+  {
+    "source": "考古｜110 期中問答 Q4",
+    "q": "4",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "Please define cytosol and cytoplasm (4 points)",
+    "answerText": "Cytosol is the intracellular fluid. Cytoplasm includes cytosol, organelles, and cytoskeleton inside the plasma membrane but outside the nucleus.",
+    "explain": "Cytoplasm 的範圍比 cytosol 大。",
+    "terms": [],
+    "id": "v178"
+  },
+  {
+    "source": "考古｜110 期中問答 Q5",
+    "q": "5",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "How does cell communicate with others (please briefly describe and provide an example for different types of communication) (10 points)",
+    "answerText": "Direct contact or gap junctions; autocrine signaling to the same cell type; paracrine local signaling; endocrine hormones carried over long distances; synaptic signaling from neurons to target cells.",
+    "explain": "需同時回答作用距離與典型例子。",
+    "terms": [],
+    "id": "v179"
+  },
+  {
+    "source": "考古｜110 期中問答 Q6",
+    "q": "6",
+    "ch": "Ch3",
+    "type": "free",
+    "prompt": "What is the biological function of cholesterol in the cell membrane? (4 points)",
+    "answerText": "Cholesterol buffers membrane fluidity: it restrains phospholipid movement at high temperature and prevents tight packing/solidification at low temperature; it also lowers permeability to some small polar molecules.",
+    "explain": "Cholesterol 不是單向增加或降低流動性。",
+    "terms": [],
+    "id": "v180"
+  },
+  {
+    "source": "考古｜110 期中問答 Q7",
+    "q": "7",
+    "ch": "Ch3",
+    "type": "free",
+    "prompt": "In addition to cholesterol, what are the factors that affect membrane fluidity and how? (6 points)",
+    "answerText": "Shorter fatty-acid tails and more cis-unsaturated tails increase fluidity; longer and more saturated tails decrease fluidity. Temperature also changes molecular motion.",
+    "explain": "重點是 chain length、degree of unsaturation 與 temperature。",
+    "terms": [],
+    "id": "v181"
+  },
+  {
+    "source": "考古｜110 期中問答 Q8",
+    "q": "8",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "Why do most scientists favor RNA as the first macromolecule of protobionts? (6 points)",
+    "answerText": "RNA can store genetic information and fold into catalytic ribozymes; one molecule type can therefore support both heredity and catalysis.",
+    "explain": "RNA world hypothesis 的核心是資訊與催化兼具。",
+    "terms": [],
+    "id": "v182"
+  },
+  {
+    "source": "考古｜110 期中問答 Q9",
+    "q": "9",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "A genetic mutation disrupts the formation of mitochondrial signal sequence of cytochrome C in a mammalian cell, what would be the biological consequence of this defect? and why? (12 points)",
+    "answerText": "Cytochrome c would fail to enter mitochondria and would remain in the cytosol or be degraded. Electron transport between complexes III and IV would be impaired, reducing proton pumping and ATP production.",
+    "explain": "Mitochondrial targeting sequence：粒線體定位序列。",
+    "terms": [],
+    "id": "v183"
+  },
+  {
+    "source": "考古｜110 期中問答 Q10",
+    "q": "10",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "Please difference RTK and GPCR (6 points)",
+    "answerText": "RTKs commonly dimerize and trans-autophosphorylate after ligand binding. GPCRs change conformation and promote GDP-GTP exchange on a heterotrimeric G protein.",
+    "explain": "兩者都能形成訊號級聯，但起始分子機制不同。",
+    "terms": [],
+    "id": "v184"
+  },
+  {
+    "source": "考古｜110 期中問答 Q11",
+    "q": "11",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "A genetic mutation disrupts the synthesis of actin filament in a cell, what would be the biological consequence of this defect? (10 points)",
+    "answerText": "Defects may occur in cell shape, migration, cytokinesis, muscle contraction, microvilli, phagocytosis/endocytosis, and adherens-junction or focal-adhesion function.",
+    "explain": "Actin filament：肌動蛋白微絲。",
+    "terms": [],
+    "id": "v185"
+  },
+  {
+    "source": "考古｜111 期中問答 Q1",
+    "q": "1",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "What are the two most essential elements for life? (2 points)",
+    "answerText": "Nucleic acids store and transmit information; proteins perform most cellular catalysis and structural functions. RNA can serve both roles in RNA-world models.",
+    "explain": "原題用語較寬，作答應說明 nucleic acids 與 proteins 的核心角色。",
+    "terms": [],
+    "id": "v186"
+  },
+  {
+    "source": "考古｜111 期中問答 Q2",
+    "q": "2",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "Which macromolecule could be the first protobiont, why? (3 points)",
+    "answerText": "RNA can store genetic information and fold into catalytic ribozymes; one molecule type can therefore support both heredity and catalysis.",
+    "explain": "RNA world hypothesis 的核心是資訊與催化兼具。",
+    "terms": [],
+    "id": "v187"
+  },
+  {
+    "source": "考古｜111 期中問答 Q3",
+    "q": "3",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "What is \"cell theory?\" (3 points)",
+    "answerText": "",
+    "explain": "完整的 cell theory 同時包含所有生物由一或多個細胞構成、細胞是生命基本單位、細胞來自既存細胞。",
+    "terms": [],
+    "id": "v188"
+  },
+  {
+    "source": "考古｜111 期中問答 Q4",
+    "q": "4",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "Please define cytosol and cytoplasm. (2 points)",
+    "answerText": "Cytosol is the intracellular fluid. Cytoplasm includes cytosol, organelles, and cytoskeleton inside the plasma membrane but outside the nucleus.",
+    "explain": "Cytoplasm 的範圍比 cytosol 大。",
+    "terms": [],
+    "id": "v189"
+  },
+  {
+    "source": "考古｜111 期中問答 Q5",
+    "q": "5",
+    "ch": "Ch4",
+    "type": "free",
+    "prompt": "What is the biological significance of enzymes? How do they achieve it? (3 points)",
+    "answerText": "Enzymes make cellular reactions fast enough under physiological conditions by lowering activation energy and stabilizing the transition state. They do not change ΔG or the equilibrium constant.",
+    "explain": "Activation energy 與 ΔG 是常見陷阱。",
+    "terms": [],
+    "id": "v190"
+  },
+  {
+    "source": "考古｜111 期中問答 Q6",
+    "q": "6",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "In Anfinsen's Ribonuclease experiment, two chemicals were added to denature Ribonuclease. Please brief on the functions of these two chemicals. (2 points)",
+    "answerText": "Urea disrupts noncovalent interactions and unfolds the protein; beta-mercaptoethanol reduces disulfide bonds.",
+    "explain": "兩種試劑分別破壞非共價作用力與共價雙硫鍵，以測試胺基酸序列是否含有重新摺疊所需資訊。",
+    "terms": [],
+    "id": "v191"
+  },
+  {
+    "source": "考古｜111 期中問答 Q7",
+    "q": "7",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "A genetic mutation disrupts the synthesis of actin filament in cells, what would be the abnormalities observed (4 points)",
+    "answerText": "Defects may occur in cell shape, migration, cytokinesis, muscle contraction, microvilli, phagocytosis/endocytosis, and adherens-junction or focal-adhesion function.",
+    "explain": "Actin filament：肌動蛋白微絲。",
+    "terms": [],
+    "id": "v192"
+  },
+  {
+    "source": "考古｜111 期中問答 Q8",
+    "q": "8",
+    "ch": "Ch6",
+    "type": "free",
+    "prompt": "Why do we need O2 to survive (2 points)",
+    "answerText": "O₂ is the final electron acceptor of the mitochondrial ETC. It permits reoxidation of NADH/FADH₂, continued proton pumping, and oxidative phosphorylation; without it, high-yield ATP production stops.",
+    "explain": "氧不是糖解的直接受質，而是 ETC 的 final electron acceptor。",
+    "terms": [],
+    "id": "v193"
+  },
+  {
+    "source": "考古｜111 期中問答 Q9",
+    "q": "9",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "A synthesized drug allosterically inhibits the function of G-protein-coupled receptors, and facilitates the activation of death receptors, what could be the outcome when we treat tumor cells with this drug? and why? Please brief on the possible underlying molecular mechanism(s) interrupted (5 points)",
+    "answerText": "Tumor-cell proliferation/survival signaling would fall, while death-receptor signaling would activate the extrinsic caspase cascade and apoptosis. The combined effect should promote tumor-cell death.",
+    "explain": "Death receptor：死亡受體；可經 initiator caspases 啟動 apoptosis。",
+    "terms": [],
+    "id": "v194"
+  },
+  {
+    "source": "考古｜111 期中問答 Q10",
+    "q": "10",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "A genetic mutation disrupts the formation of peroxisome-targeting sequence of protein X, what would be the biological consequence of this defect? and why? (5 points)",
+    "answerText": "The protein remains in the cytosol or is degraded instead of entering the peroxisome. Its peroxisomal reaction is lost, potentially impairing very-long-chain fatty-acid oxidation or H₂O₂ metabolism.",
+    "explain": "Peroxisomal targeting sequence：過氧化體定位序列。",
+    "terms": [],
+    "id": "v195"
+  },
+  {
+    "source": "考古｜111 期中問答 Q11",
+    "q": "11",
+    "ch": "Ch6",
+    "type": "free",
+    "prompt": "Please outline the cellular respiration in 4 major phases including the information of the location(s) of reaction and the total numbers of energy intermediates generated via substrate-level phosphorylation from 2 molecules of glucose? (9 points)",
+    "answerText": "Glycolysis produces 4 ATP net total for two glucose; the citric acid cycle produces 4 ATP/GTP total. Thus substrate-level phosphorylation yields 8 ATP equivalents for two glucose.",
+    "explain": "不把 oxidative phosphorylation 產生的 ATP 算入 substrate-level phosphorylation。",
+    "terms": [],
+    "id": "v196"
+  },
+  {
+    "source": "考古｜111 期中問答 Q12",
+    "q": "12",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "Please describe the types of cellular communication and their principles. (5 points)",
+    "answerText": "Direct contact or gap junctions; autocrine signaling to the same cell type; paracrine local signaling; endocrine hormones carried over long distances; synaptic signaling from neurons to target cells.",
+    "explain": "需同時回答作用距離與典型例子。",
+    "terms": [],
+    "id": "v197"
+  },
+  {
+    "source": "考古｜DD117 期末簡答 Q1",
+    "q": "1",
+    "ch": "Ch7",
+    "type": "fill",
+    "prompt": "In Meselson and Stahl’s experiment, bacteria were grown in media containing 15N in place of 14N, and then the cells’ DNA was separated by equilibrium centrifugation. The DNA was subsequently isolated and centrifuged in a CsCl2 gradient as shown in the right figure. What’s the ratio of half-heavy band to light band at the 5th generation? half-heavy : light =",
+    "answerText": "1:15",
+    "explain": "每代 hybrid 比例減半；第 5 代為 1/16 hybrid、15/16 light，所以 1:15。",
+    "terms": [],
+    "accepted": [
+      "1:15",
+      "1 to 15"
+    ],
+    "id": "v198"
+  },
+  {
+    "source": "考古｜107 期中問答 Q1",
+    "q": "1",
+    "ch": "Ch4",
+    "type": "free",
+    "prompt": "The biochemical pathway of glycolysis involves nine intermediate reaction steps. One of these steps is represented in the right diagram. In this reaction, what is the function of phosphofructose kinase? How does it work? (4%) Scientists found that ATP is a noncompetitive feedback inhibitor of phosphofructokinase. How does this works? (4%)",
+    "answerText": "PFK-1 transfers a phosphate from ATP to fructose 6-phosphate, forming fructose 1,6-bisphosphate. At high concentration, ATP also binds an allosteric regulatory site and inhibits PFK-1 by feedback inhibition.",
+    "explain": "ATP 在 active site 是 phosphate donor，但在高能量狀態又可於 allosteric site 抑制 PFK-1；兩個角色要同時說清楚。",
+    "terms": [],
+    "id": "v199"
+  },
+  {
+    "source": "考古｜107 期中問答 Q2",
+    "q": "2",
+    "ch": "Ch6",
+    "type": "free",
+    "prompt": "You inoculate two test tubes with the same amount of identical growth medium and with the same number of identical yeast cells and grow these cells under identical conditions except for the prescence or absence of oxygen. The cells of both cultures convert glucose to pyruvate via glycolysis, and then further metabolize pyruvate. a) Are the cells of both cultures able to obtain the same amount of ATP from glycolysis? Explain. (3%) b) Under aerobic conditions, the carbon from pyruvate will ultimately be found in which molecule? (2%) c) Explain why this process requires aerobic conditions. (3%) d) Briefly describe how the transfer of electrons from one protein to another in the electron transport chain results in the production of ATP. (5%) e) The following is a three-dimensional diagram of a mitochondria found in eukaryotic cells. The box labelled A, B, C is (please answer in English) (3%) The electron transport chain occurs in _______________ (choose from A, B or C) (2%)",
+    "answerText": "Glycolysis yields 2 ATP net per glucose in either condition. With oxygen, pyruvate carbon is oxidized and released as CO₂. O₂ is the final electron acceptor. Electron transport pumps H⁺ across the inner mitochondrial membrane, and H⁺ flow through ATP synthase drives ATP production.",
+    "explain": "有氧與無氧時 glycolysis 本身的 net ATP 相同；差異在後續 oxidation 與 oxidative phosphorylation。",
+    "terms": [],
+    "id": "v200"
+  },
+  {
+    "source": "考古｜107 期中問答 Q3",
+    "q": "3",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "This is the diagram of a hemoglobin molecule. The box area is one type of secondary structures of the molecule. Give the name of this structure. (2%) How does this unique structure form? (3%) Hemoglobin molecules also display a tertiary structure and a quaternary structure. Referring to the diagram, explain what ‘quaternary’ means (3%)",
+    "answerText": "The highlighted structure is an alpha helix, stabilized mainly by hydrogen bonds between backbone C=O and N-H groups. Quaternary structure is the association of multiple polypeptide subunits; adult hemoglobin is an alpha2-beta2 tetramer.",
+    "explain": "Alpha helix 的 hydrogen bonds 在 polypeptide backbone 之間，不是主要由 side chains 彼此形成。",
+    "terms": [],
+    "id": "v201"
+  },
+  {
+    "source": "考古｜107 期中問答 Q4",
+    "q": "4",
+    "ch": "Ch1–3",
+    "type": "free",
+    "prompt": "Consider the following diagram of a plasma membrane. There is a higher concentration of a small hydrophobic molecule in the extracellular environment. Draw one arrow on the diagram above to show the pathway taken by the small hydrophobic molecule across the plasma membrane. a) Mark and justify the pathway you have drawn. (3%) b) Structure X represents a molecule of ________________ (2%) c) Molecules C is the integrin protein. By incorporating radioactively labeled amino acids into protein, researchers can track the location of this protein in a cell. What will be the most possible pathway for movement of this protein in the cell? (Answer in English) (5%)",
+    "answerText": "The bilayer molecule is a phospholipid. Small nonpolar or hydrophobic molecules diffuse directly through the bilayer most readily. Integrin is synthesized into the rough ER, transported in vesicles to the Golgi, then packaged into secretory vesicles that fuse with the plasma membrane.",
+    "explain": "Integrin 是 transmembrane protein，因此走 secretory pathway；不是由 free ribosome 完成後再穿進 plasma membrane。",
+    "terms": [],
+    "id": "v202"
+  },
+  {
+    "source": "考古｜107 期中問答 Q5",
+    "q": "5",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "You are studying a receptor called the Insulin Receptor (IR) in a eukaryote cell. IR is a glycoprotein, which contains an ER signal peptide, a ligand binding domain, a transmembrane membrane, and a kinase domain. IR has been identified as a tyrosine kinase receptor. When the insulin binds to IR, a signal transduction cascade is activated. Signaling through IR leads to expression of proteins required for normal call growth. If signaling through IR is disrupted, the cell’s growth is slower. The signaling goes through a protein kinase cascade in the cell that leads to the expression of genes that determine cell growth. a) List two advantages to having multiple steps in a signal transduction pathway. (4%) b) You have identified a competitive inhibitor for IR tyrosine kinase, this inhibitor may bind on which domain of the IR? (Circle the answer; 3%) ligand binding domain; transmembrane domain; kinase domain. The activated IR tyrosine kinase can also activate phospholipase C. This enzyme cleaves off the IP3 from PIP2, leaving the glycerol and the two attached fatty acids (DAG) in the lipid bilayer. The released IP3 to an increase in intracellular levels of Ca+2. c) Here, IP3 works as a ______________ (2%) d) There is a toxin that interferes with signaling in response to insulin. You do an experiment in which you look at intracellular Ca+2 levels in untreated and toxin treated cells. The data showed that Ca+2 level increased 100 folds after toxin treatment. How does the toxin affect phospholipase C activity? (Circle the answer; 3%) No effect; Activation; Inactivation. e) Besides cell growth, insulin signaling also affect glycogen synthesis, fatty acid synthesis, protein synthesis, and lipolysis. For example, insulin can activate lipid synthesis in adipose cells and block breakdown of glycogen in the liver. How could one hormone have different effects on different organs? (4%)",
+    "answerText": "Kinase cascades amplify signals and provide multiple regulatory/branch points. A competitive inhibitor binds the kinase active site, commonly the ATP-binding pocket. IP3 is a second messenger that releases Ca²⁺ from the ER. A large Ca²⁺ rise implies activation of the PLC-IP3 pathway. Different tissues respond differently because they express different receptor amounts/isoforms and downstream signaling or transcription factors.",
+    "explain": "這是一題多小題整合：amplification、competitive inhibition、IP3/Ca²⁺ 與 cell-specific response 都可能分開考。",
+    "terms": [],
+    "id": "v203"
+  },
+  {
+    "source": "考古｜107 期中問答 Q6",
+    "q": "6",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "You’re studying cellular signaling through a G-protein Coupled Receptor A (GPCR-A). When a ligand binds to the binding site of the GPCR-A, this leads to activates heterotrimeric G-proteins (Gα and Gβγ subunits). Activated Gα subunit act on adenylyl cyclase which causes an increase in adenylyl cyclase activity. a) Please explain how does Gα subunit be activated. (4%) b) Will it increase or decrease the intracellular levels of cAMP upon ligand addition? (2%) c) cAMP is a very important molecule in signaling transduction pathway. Please lest the advantages of using cAMP as signal transduction molecules. (4%)",
+    "answerText": "The receptor promotes GDP-GTP exchange on Gα. Gα-GTP dissociates from Gβγ and activates adenylyl cyclase, so cAMP rises. cAMP diffuses rapidly, amplifies the signal through downstream kinases, and can be removed quickly by phosphodiesterase for reversibility.",
+    "explain": "GDP→GTP 是 nucleotide exchange，不是 receptor 直接 phosphorylate Gα。",
+    "terms": [],
+    "id": "v204"
+  },
+  {
+    "source": "考古｜107 期中問答 Q7",
+    "q": "7",
+    "ch": "Ch3",
+    "type": "free",
+    "prompt": "You are designing a new drug. In order for this drug to work, it must enter the cytoplasm of target cells. What would be factors that determine whether the molecule enters the cell or not? (4%)",
+    "answerText": "Important factors include molecular size, polarity and charge, lipid solubility, concentration/electrochemical gradient, membrane composition, and the presence and activity of channels, carriers, pumps, or efflux transporters.",
+    "explain": "小且 nonpolar/lipophilic 的分子較能 simple diffusion；帶電或大型分子常依賴 transporter。",
+    "terms": [],
+    "id": "v205"
+  },
+  {
+    "source": "考古｜107 期中問答 Q8",
+    "q": "8",
+    "ch": "Ch5",
+    "type": "free",
+    "prompt": "List three amino acids which can be phosphorylated in cells. (6%)",
+    "answerText": "",
+    "explain": "Ser、Thr、Tyr 的 hydroxyl groups 可被 kinases 加上 phosphate。",
+    "terms": [],
+    "id": "v206"
+  },
+  {
+    "source": "考古｜107 期中問答 Q9",
+    "q": "9",
+    "ch": "Ch1",
+    "type": "free",
+    "prompt": "An abnormal protein contains three targeting sequence: an ER signal sequence, an ER retention sequence, and a nuclear targeting sequence. Where would you expect this abnormal protein to go? Justify your answer by addressing the impact of each signal on its transport. (5%)",
+    "answerText": "",
+    "explain": "N-terminal ER signal 先導引 cotranslational translocation；進入 ER lumen 後，ER-retention signal 使其留在/返回 ER，NLS 無法把 lumenal protein 拉入 nucleus。",
+    "terms": [],
+    "id": "v207"
+  },
+  {
+    "source": "考古｜107 期中問答 Q10",
+    "q": "10",
+    "ch": "Ch1–2",
+    "type": "free",
+    "prompt": "The collagen fibers are formed including the following processes: (A) Synthesis procollagen polypeptide into ER; (B) Remove the extension sequence; (C) Secretion from the cell; (D) Assemble into triple helix; (E) Assemble into collagen fibrils; (F) Assemble into larger collagen fibers. The correct order should be: A → ________ → ________ → __________ → _____________ → F (4%)",
+    "answerText": "",
+    "explain": "原圖題的步驟順序為 rough ER 進入分泌路徑，再經 Golgi 與 exocytosis；collagen 另有 hydroxylation、triple-helix assembly 與 extracellular processing。",
+    "terms": [],
+    "id": "v208"
+  },
+  {
+    "source": "考古｜107 期中問答 Q11",
+    "q": "11",
+    "ch": "Ch2",
+    "type": "free",
+    "prompt": "Draw a structural representation of the amino acid, aspartic acid, which has the side chain of: CH2COOH. (3%)",
+    "answerText": "Aspartic acid has the side chain -CH2-COOH. Near physiological pH it is predominantly a zwitterion with an alpha-NH3+ group, an alpha-COO- group, and a deprotonated side-chain COO-, giving a net charge of -1.",
+    "explain": "畫結構時可寫成 ⁻OOC-CH₂-CH(NH₃⁺)-COO⁻，並標出 net charge -1。",
+    "terms": [],
+    "id": "v209"
+  },
+  {
+    "source": "考古｜106 期末配合 I Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Inheritance pattern involving two or more genes that are close together on the same chromosome. It doesn’t obey the law of independent assortment.",
+        "Linkage"
+      ],
+      [
+        "Inheritance pattern in which the genotype of the mother determines the phenotype of the offspring.",
+        "Maternal effect"
+      ],
+      [
+        "Inheritance patterns in which an allele from one parent is silenced in the somatic cells of the offspring, while the allele from the other parent is expressed.",
+        "Genomic imprinting"
+      ],
+      [
+        "A heterozygote has a phenotype intermediate to the phenotypes of homozygotes.",
+        "Incomplete dominance"
+      ],
+      [
+        "A mutation occurred in Drosophila causes a leg development in the place of an antenna.",
+        "Homeotic mutation"
+      ]
+    ],
+    "choices": [
+      "Homeotic mutation",
+      "Genomic imprinting",
+      "Maternal effect",
+      "Incomplete dominance",
+      "Linkage"
+    ],
+    "explain": "這五個名詞常以案例互換選項，應抓住判斷線索。",
+    "terms": [],
+    "id": "v210"
+  },
+  {
+    "source": "考古｜106 期末配合 II Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Separates double stranded DNA",
+        "DNA helicase"
+      ],
+      [
+        "Keep parental strands open to act as templates",
+        "Single-strand binding proteins"
+      ],
+      [
+        "Removes tightened coils ahead of the replication fork",
+        "Topoisomerase"
+      ],
+      [
+        "Synthesizes RNA primers",
+        "DNA primase"
+      ],
+      [
+        "Covalently attaches adjacent Okazaki fragments",
+        "DNA ligase"
+      ],
+      [
+        "Prevents chromosome shortening during DNA replication",
+        "Telomerase"
+      ],
+      [
+        "Synthesizes DNA in leading strand and lagging strand",
+        "DNA polymerase"
+      ]
+    ],
+    "choices": [
+      "Telomerase",
+      "Single-strand binding proteins",
+      "DNA polymerase",
+      "DNA primase",
+      "DNA helicase",
+      "DNA ligase",
+      "Topoisomerase"
+    ],
+    "explain": "原 106 題組標示 E. coli，卻列入 telomerase；E. coli 的環狀染色體一般不需要 telomerase，這一點要與題目配對本身分開理解。",
+    "terms": [],
+    "id": "v211"
+  },
+  {
+    "source": "考古｜106 期末配合 III Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Signals the beginning of transcription",
+        "Promoter"
+      ],
+      [
+        "Signals the end of transcription",
+        "Terminator"
+      ],
+      [
+        "Binds to RNA polymerase and brings it to the promoter",
+        "Sigma factor"
+      ],
+      [
+        "Attaches amino acids to tRNA",
+        "Aminoacyl-tRNA synthetase"
+      ],
+      [
+        "Signals the beginning of translation",
+        "Start codon (AUG)"
+      ],
+      [
+        "Signals the end if translation",
+        "Stop codon (UAA,UAG,UGA)"
+      ],
+      [
+        "Terminates translation",
+        "Release factor"
+      ]
+    ],
+    "choices": [
+      "Sigma factor",
+      "Aminoacyl-tRNA synthetase",
+      "Release factor",
+      "Start codon (AUG)",
+      "Stop codon (UAA,UAG,UGA)",
+      "Promoter",
+      "Terminator"
+    ],
+    "explain": "Promoter/terminator 屬 transcription；start/stop codon 與 release factor 屬 translation。",
+    "terms": [],
+    "id": "v212"
+  },
+  {
+    "source": "考古｜106 期末配合 IV Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Transcriptional activator",
+        "Enhancer"
+      ],
+      [
+        "Transcriptional repressor",
+        "Silencer"
+      ],
+      [
+        "Iron regulatory protein",
+        "5’UTR of ferritin mRNA"
+      ],
+      [
+        "Assembled GTFs and RNA polymeraseⅡ",
+        "TATA box"
+      ],
+      [
+        "Dicer",
+        "pri-microRNA"
+      ],
+      [
+        "Methyl-CpG-binding proteins",
+        "methylated DNA"
+      ],
+      [
+        "Lac repressor",
+        "Operator"
+      ]
+    ],
+    "choices": [
+      "Enhancer",
+      "Silencer",
+      "TATA box",
+      "5’UTR of ferritin mRNA",
+      "methylated DNA",
+      "pri-microRNA",
+      "Operator"
+    ],
+    "explain": "5′ UTR 的 iron-response element 控制 ferritin translation；operator 是 Lac repressor 的 DNA binding site。",
+    "terms": [],
+    "id": "v213"
+  },
+  {
+    "source": "考古｜DD117 期末配合 I Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Separates double-stranded DNA unto single strands",
+        "DNA helicase"
+      ],
+      [
+        "Prevents chromosome shortening during replication",
+        "Telomerase"
+      ],
+      [
+        "Removes tightened coils ahead of the replication fork",
+        "Topoisomerase"
+      ],
+      [
+        "Synthesis short RNA primers",
+        "DNA primase"
+      ],
+      [
+        "Covalently attaches Okazaki fragments",
+        "DNA ligase"
+      ],
+      [
+        "Promotes DNA polymerase is loaded on to DNA",
+        "Clamp protein"
+      ],
+      [
+        "Synthesis DNA in leading and lagging strands",
+        "DNA polymerase III"
+      ],
+      [
+        "Removes RNA primers and fills in gaps",
+        "DNA polymerase I"
+      ]
+    ],
+    "choices": [
+      "DNA helicase",
+      "Topoisomerase",
+      "DNA ligase",
+      "Telomerase",
+      "Clamp protein",
+      "DNA primase",
+      "DNA polymerase I",
+      "DNA polymerase III"
+    ],
+    "explain": "原 106 題組標示 E. coli，卻列入 telomerase；E. coli 的環狀染色體一般不需要 telomerase，這一點要與題目配對本身分開理解。",
+    "terms": [],
+    "id": "v214"
+  },
+  {
+    "source": "考古｜DD117 期末配合 II Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Signals the beginning of transcription",
+        "Promoter"
+      ],
+      [
+        "Signals the end of transcription",
+        "Terminator"
+      ],
+      [
+        "Signals the beginning of translation",
+        "Start codon"
+      ],
+      [
+        "Signals the end of translation",
+        "Stop codon"
+      ],
+      [
+        "For the binding of transcriptional activators",
+        "Enhancer"
+      ],
+      [
+        "For the binding of transcriptional repressors",
+        "Silencer"
+      ]
+    ],
+    "choices": [
+      "Promoter",
+      "Terminator",
+      "Enhancer",
+      "Silencer",
+      "Start codon",
+      "Stop codon"
+    ],
+    "explain": "Promoter/terminator 屬 transcription；start/stop codon 與 release factor 屬 translation。",
+    "terms": [],
+    "id": "v215"
+  },
+  {
+    "source": "考古｜DD117 期末配合 III Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "To get the whole genome sequence",
+        "Next-generation sequencing"
+      ],
+      [
+        "To generate recombinant DNA",
+        "Gene cloning"
+      ],
+      [
+        "To amplify many copies of DNA",
+        "Polymerase chain reaction"
+      ],
+      [
+        "To knockdown gene expression",
+        "RNA interference"
+      ],
+      [
+        "To editing genomic DNA sequence",
+        "Crispr/cas9 system"
+      ]
+    ],
+    "choices": [
+      "Gene cloning",
+      "Polymerase chain reaction",
+      "Next-generation sequencing",
+      "RNA interference",
+      "Crispr/cas9 system"
+    ],
+    "explain": "注意 gene cloning、PCR 與 sequencing 解決的是不同階段的問題。",
+    "terms": [],
+    "id": "v216"
+  },
+  {
+    "source": "考古｜DD117 期末配合 61–70 Q原題組",
+    "q": "原題組",
+    "ch": "Ch7",
+    "type": "matching",
+    "prompt": "Match each numbered statement with the original answer choice.",
+    "pairs": [
+      [
+        "Phenomenon of female mammals in which one X chromosome is inactivated in every somatic cell, producing a mosaic phenotype.",
+        "X inactivation"
+      ],
+      [
+        "A type of gene interaction in which the alleles of one gene mask the effects of a dominant allele od another gene.",
+        "Epistasis"
+      ],
+      [
+        "Inheritance pattern involving two ore more genes that are close together on the same chromosome. It doesn’t obey the law of independent assortment.",
+        "Linkage"
+      ],
+      [
+        "Inheritance pattern in which the genotype of the mother determines the phenotype of the offspring.",
+        "Maternal effect"
+      ],
+      [
+        "Inheritance patterns in which a single gene affects a single traits and the alleles obey the law of segregation.",
+        "Mendelian"
+      ],
+      [
+        "A mutation in DNA does not cause any change in a protein sequence.",
+        "Silence mutation"
+      ],
+      [
+        "Inheritance patterns in which allele from one parent is silenced in the somatic cells of the offspring, while the allele form the other parent is expressed.",
+        "Genomic imprinting"
+      ],
+      [
+        "A heterozygote has a phenotype intermediate to the phenotypes of homozygotes.",
+        "Incomplete dominance"
+      ],
+      [
+        "A mutation occurred in Drosophila caused a leg development in the place of an antenna.",
+        "Homeotic mutation"
+      ],
+      [
+        "A mutation in DNA caused a premature stop codon during translation.",
+        "Nonsense mutation"
+      ]
+    ],
+    "choices": [
+      "Mendelian",
+      "Epistasis",
+      "Silence mutation",
+      "Linkage",
+      "X inactivation",
+      "Genomic imprinting",
+      "Maternal effect",
+      "Nonsense mutation",
+      "Incomplete dominance",
+      "Homeotic mutation"
+    ],
+    "explain": "這組涵蓋遺傳模式與 point-mutation 結果，適合用關鍵線索快速辨識。",
+    "terms": [],
+    "id": "v217"
+  },
+  {
+    "source": "考古｜107 期中配合題 Q原題組",
+    "q": "原題組",
+    "ch": "Ch1–5",
+    "type": "free",
+    "prompt": "Terms: a. cadherins; b. symporter; c. O-linked glycosylation; d. gap junction; e. lysosomes; f. secondary active transport; g. integrins; h. nucleus protein. Statements: 1. cell to ECM junctions; 2. Golgi; 3. Directly use energy to generate a solute gradient; 4. Post translational sorting; 5. Intercellular channel to passage the signaling molecules; 6. Intracellular digestion of macro molecules; 7. Endoplasmic reticulum; 8. Cell to cell junctions; 9. Use a pre-existing gradient to transport; 10. A transporter where two solutes move in the same direction; 11. Free ribosomes.",
+    "answerText": "1-g; 2-c; 3（原選項疑有缺漏，應為 primary active transport）; 4-h; 5-d; 6-e; 7（原選項疑有缺漏，應為 ER-targeted/secreted protein）; 8-a; 9-f; 10-b; 11-h（若題意為 nucleus protein 則此配對有疑義，原卷需再核對）。",
+    "explain": "原題以一組 terms 配多個 descriptions；這裡保留全部可辨識配對。",
+    "terms": [],
+    "id": "v218"
+  }
+]

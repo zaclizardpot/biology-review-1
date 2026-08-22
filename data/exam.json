@@ -204,7 +204,7 @@
       "30",
       "46",
       "60",
-      "90 - - 不正常增⽣ ☆ 2 ☆ ⼀ 欆 60條 30對"
+      "90"
     ],
     "answer": [
       1
@@ -306,7 +306,7 @@
       "plants produce a cell plate to segregate the daughter nuclei, while animals form a cleavage furrow.",
       "plants have a central vacuole, while animal cells do not.",
       "plants produce a cell membrane in cytokinesis, while animals form a cell plate.",
-      "in plants, kinetochore microtubules shorten and draw chromosomes toward the poles; in animals, polar microtubules lengthen to push chromatids apart. - 中未o☆ 前前中 後 TT IXIX - o - 熟zi-_-xx -21對+1 EcobsxYY2518對⼗1 -〉o hu13對+1"
+      "in plants, kinetochore microtubules shorten and draw chromosomes toward the poles; in animals, polar microtubules lengthen to push chromatids apart."
     ],
     "answer": [
       1
@@ -424,7 +424,7 @@
     "q": 21,
     "ch": "Ch7",
     "type": "single",
-    "prompt": "If the recombination frequency between gene A and B is 10 out of 100 offspring, gene A and C is 30 out of 100 offspring, and gene B and C is 40 out of 100 offspring, what is the location of these genes in relation ⼀⼀ z-8 -☆☆o 塔表現⼀個親代基因 ⼀連鎮互換☆t.ir xtnahath - to each other on a chromosome?",
+    "prompt": "If the recombination frequency between gene A and B is 10 out of 100 offspring, gene A and C is 30 out of 100 offspring, and gene B and C is 40 out of 100 offspring, what is the location of these genes in relation to each other on a chromosome?",
     "options": [
       "CAB",
       "BAC",
@@ -524,7 +524,7 @@
     "q": 26,
     "ch": "Ch7",
     "type": "single",
-    "prompt": "Animal bodies are organized along the ___________ axes. B N)30 OD CEDDmaterndhhcennn-_- 瓞 君通常為meln使maternalallele→slencedahele",
+    "prompt": "Animal bodies are organized along the ___________ axes.",
     "options": [
       "dorsoventral, anteroposterior, and left-right",
       "dorsoventral, cranioposterior, and right-left",
@@ -630,7 +630,7 @@
       "Ampicillin-resistance is necessary for the plasmid DNA to get into the bacteria.",
       "Bacteria containing the plasmid would turn blue.",
       "Bacteria containing the plasmid would be able to grow in the absence of ampicillin.",
-      "Bacteria containing the plasmid would be able to produce ampicillin. 106 學年度 牙醫、物治、藥學系 普通生物學(上) 期末考 班級:__________ 姓名:______________ 學號:________________"
+      "Bacteria containing the plasmid would be able to produce ampicillin."
     ],
     "answer": [
       0
@@ -648,8 +648,8 @@
     "options": [
       "Cells are the smallest unit of living organisms,and new cells form from pre-existing cells by cell division.",
       "New cells come only from pre-existing cells bycell division.",
-      "All life is composed of two or more cells, thesmallest unit of life are cells, and cell division from pre-existing cells is the only way cells continue to exist.",
-      "All living organisms are composed of one or morecells, cells are the smallest units of life, and new cells come only from pre-existing cells by cell division."
+      "All life is composed of two or more cells, the smallest unit of life are cells, and cell division from pre-existing cells is the only way cells continue to exist.",
+      "All living organisms are composed of one or more cells, cells are the smallest units of life, and new cells come only from pre-existing cells by cell division."
     ],
     "answer": [
       3
@@ -745,10 +745,10 @@
     "type": "single",
     "prompt": "Ribozymes are",
     "options": [
-      "Catalytic strands of RNA that are capable to synthesizingmacromolecules",
-      "Self-replicating strand of DNA d - 2 - - - d d f A",
+      "Catalytic strands of RNA that are capable to synthesizing macromolecules",
+      "Self-replicating strand of DNA",
       "Autocatalytic proteins",
-      "Small organelles composed of RNA and proteinsthat can assemble amino acids",
+      "Small organelles composed of RNA and proteins that can assemble amino acids",
       "The earliest and most basic life forms"
     ],
     "answer": [
@@ -787,7 +787,7 @@
     "options": [
       "Linear structure of a fatty acid cause solid formationat room temperature",
       "Double bonds in a saturated fatty acids causea solid structure at room temperature",
-      "A linear structure causes a loose forming macromoleculethat is liquid at room temperature",
+      "A linear structure causes a loose forming macromolecule that is liquid at room temperature",
       "The double bonds require higher temperature atroom temperature to make the fatty acid into a liquid"
     ],
     "answer": [
@@ -805,8 +805,8 @@
     "prompt": "What would be an expected feature of a plasma membrane that had no integral membrane proteins.",
     "options": [
       "the membrane would have no fluidity",
-      "the membrane would not associate with peripheralmembrane proteins",
-      "the membrane would be unable to transport sodiumions",
+      "the membrane would not associate with peripheral membrane proteins",
+      "the membrane would be unable to transport sodium ions",
       "the membrane would have no cholesterol"
     ],
     "answer": [
@@ -909,7 +909,7 @@
       "Provide strength",
       "Provide structural support",
       "Helps to organize cells",
-      "Provide an important source of energy for theorganelles",
+      "Provide an important source of energy for the organelles",
       "Contribute to cell signaling"
     ],
     "answer": [
@@ -1007,7 +1007,7 @@
     "prompt": "Which molecule would you predict moves through a lipid bilayer most rapidly without the help of transport protein?",
     "options": [
       "葡萄糖",
-      "甲醇 d b - C- - - S C d",
+      "甲醇",
       "乙醇",
       "丁烷",
       "NH2SO2CH3"
@@ -1028,7 +1028,7 @@
     "options": [
       "between the catalytic beta subunits",
       "along the stem formed by thebsubunit",
-      "between the transmembraneaandcsubunits",
+      "between the transmembrane a and c subunits",
       "through the rotating gamma subunit"
     ],
     "answer": [
@@ -2254,7 +2254,7 @@
       "very weak bones",
       "respiratory problems/lung defects",
       "thin discs between vertebrae",
-      "defective kidneys and capillaries (28-30未拍到，故可能有缺漏)"
+      "defective kidneys and capillaries"
     ],
     "answer": [
       1

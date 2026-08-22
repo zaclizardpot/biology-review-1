@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-08-22T18:45:01.662Z",
+  "originalExamCardCount": 218,
+  "examCount": 212,
+  "duplicateExamCardsMerged": 6,
+  "duplicateExamPairs": [
+    [
+      "v024",
+      "v083"
+    ],
+    [
+      "v025",
+      "v084"
+    ],
+    [
+      "v002",
+      "v086"
+    ],
+    [
+      "v005",
+      "v089"
+    ],
+    [
+      "v118",
+      "v119"
+    ],
+    [
+      "v078",
+      "v137"
+    ]
+  ],
+  "practiceCount": 292,
+  "addedFromMiddleNotes": 45,
+  "overlapCount": 0
+}

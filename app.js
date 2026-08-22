@@ -2,7 +2,7 @@
   'use strict';
 
   const STORAGE_KEY = 'biology-review-web-v2';
-  const DATA_VERSION = '20260823-vocab1';
+  const DATA_VERSION = '20260823-examfix1';
   const BANK_META = {
     exam: {
       label: '考古原題',

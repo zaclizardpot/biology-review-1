@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#080b11">
   <title>普生互動複習題卡</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=20260823-vocab1">
 </head>
 <body>
   <main class="app-shell">
@@ -25,13 +25,16 @@
       <button class="bank-tab" data-bank="practice" type="button">
         <span>統整練習</span><strong id="practice-count">—</strong>
       </button>
+      <button class="bank-tab" data-bank="vocabulary" type="button">
+        <span>英文單字</span><strong id="vocabulary-count">—</strong>
+      </button>
     </nav>
 
     <section class="dashboard" aria-label="學習進度">
-      <div><strong id="stat-seen">0</strong><span>已作答</span></div>
-      <div><strong id="stat-correct">0</strong><span>答對</span></div>
+      <div><strong id="stat-seen">0</strong><span id="stat-seen-label">已作答</span></div>
+      <div><strong id="stat-correct">0</strong><span id="stat-correct-label">答對</span></div>
       <div><strong id="stat-starred">0</strong><span>星號</span></div>
-      <div><strong id="stat-missed">0</strong><span>答錯次數</span></div>
+      <div><strong id="stat-missed">0</strong><span id="stat-missed-label">答錯次數</span></div>
     </section>
 
     <section class="toolbar">
@@ -92,6 +95,6 @@
 
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script src="config.js"></script>
-  <script src="app.js"></script>
+  <script src="app.js?v=20260823-vocab1"></script>
 </body>
 </html>

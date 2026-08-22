@@ -2,6 +2,7 @@
   'use strict';
 
   const STORAGE_KEY = 'biology-review-web-v2';
+  const DATA_VERSION = '20260823-vocab1';
   const BANK_META = {
     exam: {
       label: '考古原題',
@@ -10,10 +11,14 @@
     practice: {
       label: '統整練習',
       description: '來自考古延伸、筆記星號／橘字與更新後筆記重點；與考古原題不重複。'
+    },
+    vocabulary: {
+      label: '英文單字',
+      description: '依《普生筆記上_藍筆英文總整理.pdf》製作；正面只顯示英文，翻面查看中文、功能聯想與來源頁。'
     }
   };
-  const TYPE_LABEL = { single: '單選', multiple: '多選', fill: '填空', free: '非選', matching: '配對' };
-  const banks = { exam: [], practice: [] };
+  const TYPE_LABEL = { single: '單選', multiple: '多選', fill: '填空', free: '非選', matching: '配對', vocab: '單字卡' };
+  const banks = { exam: [], practice: [], vocabulary: [] };
   let state = loadState();
   let currentQuestion = null;
   let answerRevealed = false;
@@ -31,10 +36,11 @@
       version: 2,
       activeBank: 'exam',
       mode: 'general',
-      progress: { exam: {}, practice: {} },
+      progress: { exam: {}, practice: {}, vocabulary: {} },
       sessions: {
         exam: { generalQueue: [], generalIndex: 0, starQueue: [], starIndex: 0 },
-        practice: { generalQueue: [], generalIndex: 0, starQueue: [], starIndex: 0 }
+        practice: { generalQueue: [], generalIndex: 0, starQueue: [], starIndex: 0 },
+        vocabulary: { generalQueue: [], generalIndex: 0, starQueue: [], starIndex: 0 }
       },
       updatedAt: 0
     };
@@ -158,7 +164,8 @@
       multiple: 'Select all correct answers.',
       fill: 'Enter the answer. Separate multiple blanks with |.',
       free: 'Answer in your own words, then compare with the reference answer.',
-      matching: 'Match each item with the best answer.'
+      matching: 'Match each item with the best answer.',
+      vocab: 'Tap the card to reveal the Chinese meaning and function.'
     }[type] || '';
   }
 
@@ -177,6 +184,95 @@
     return '';
   }
 
+  function vocabularyPosition() {
+    const { queue, indexKey } = currentQueueInfo();
+    return {
+      queue,
+      position: queue.length ? (state.sessions[state.activeBank][indexKey] % queue.length) + 1 : 0
+    };
+  }
+
+  function renderVocabularyActions() {
+    if (!currentQuestion || currentQuestion.type !== 'vocab') return;
+    const progress = progressFor();
+    const actions = card.querySelector('.card-actions');
+    if (!actions) return;
+    if (!answerRevealed) {
+      actions.innerHTML = `
+        <button id="card-star-button" class="button star-button ${progress.starred ? 'active' : ''}" type="button" aria-label="${progress.starred ? '取消星號' : '加入星號'}">${progress.starred ? '★' : '☆'}</button>
+        <button id="reveal-vocabulary" class="button primary" type="button">翻面／查看中文</button>`;
+      $('#card-star-button').addEventListener('click', toggleCurrentStar);
+      $('#reveal-vocabulary').addEventListener('click', event => { event.stopPropagation(); flipVocabularyCard(true); });
+    } else {
+      actions.innerHTML = `
+        <button id="card-star-button" class="button star-button ${progress.starred ? 'active' : ''}" type="button" aria-label="${progress.starred ? '取消星號' : '加入星號'}">${progress.starred ? '★' : '☆'}</button>
+        <button id="vocab-review" class="button review" type="button">待加強</button>
+        <button id="vocab-known" class="button known" type="button">已會</button>`;
+      $('#card-star-button').addEventListener('click', toggleCurrentStar);
+      $('#vocab-review').addEventListener('click', () => markVocabulary(false));
+      $('#vocab-known').addEventListener('click', () => markVocabulary(true));
+    }
+  }
+
+  function flipVocabularyCard(forceReveal = false) {
+    const flashcard = $('#vocabulary-flashcard');
+    if (!flashcard) return;
+    answerRevealed = forceReveal ? true : !answerRevealed;
+    flashcard.classList.toggle('flipped', answerRevealed);
+    flashcard.setAttribute('aria-label', answerRevealed ? '顯示英文正面' : '顯示中文與功能');
+    renderVocabularyActions();
+  }
+
+  function markVocabulary(known) {
+    const progress = progressFor();
+    progress.attempts += 1;
+    progress.lastCorrect = known;
+    progress.lastAnswer = known ? '已會' : '待加強';
+    progress.updatedAt = Date.now();
+    if (known) {
+      progress.starred = false;
+    } else {
+      progress.missed += 1;
+      progress.starred = true;
+    }
+    saveState();
+    renderQuestion(getNextQuestion(true));
+  }
+
+  function renderVocabularyCard(question) {
+    const progress = progressFor();
+    const { queue, position } = vocabularyPosition();
+    card.innerHTML = `
+      <div class="meta-row"><span class="badge">英文單字</span><span class="badge">單字卡</span></div>
+      <div class="vocab-stage">
+        <div id="vocabulary-flashcard" class="flashcard" role="button" tabindex="0" aria-label="顯示中文與功能">
+          <section class="flashcard-face flashcard-front">
+            <h2 class="flashcard-word">${escapeHtml(question.prompt)}</h2>
+            <p class="flashcard-hint">點一下卡片翻面</p>
+          </section>
+          <section class="flashcard-face flashcard-back">
+            <h3>中文＋看到它要聯想到的功能</h3>
+            <p class="flashcard-meaning">${escapeHtml(question.answerText)}</p>
+            <p class="flashcard-source">來源：${escapeHtml(question.source)}</p>
+          </section>
+        </div>
+      </div>
+      <div class="card-footer">
+        <span>單字 ${position} / ${queue.length}</span>
+        <div class="card-actions"></div>
+      </div>`;
+    const flashcard = $('#vocabulary-flashcard');
+    flashcard.addEventListener('click', () => flipVocabularyCard(false));
+    flashcard.addEventListener('keydown', event => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        flipVocabularyCard(false);
+      }
+    });
+    renderVocabularyActions();
+    if (progress.starred) flashcard.dataset.starred = 'true';
+  }
+
   function renderQuestion(question) {
     currentQuestion = question;
     answerRevealed = false;
@@ -184,6 +280,10 @@
     if (!question) {
       const message = state.mode === 'star' ? '目前沒有星號題目。你可以回到一般題庫，按題卡上的 ☆ 加入。' : '這個題庫目前沒有可練習的題目。';
       card.innerHTML = `<div class="empty-state"><div><h2>${message}</h2><p class="subtitle">可使用上方按鈕切換題庫或刷新。</p></div></div>`;
+      return;
+    }
+    if (question.type === 'vocab') {
+      renderVocabularyCard(question);
       return;
     }
     const progress = progressFor();
@@ -300,7 +400,9 @@
     progress.updatedAt = Date.now();
     saveState();
     const button = $('#card-star-button');
-    if (button && !answerRevealed) {
+    if (currentQuestion.type === 'vocab') {
+      renderVocabularyActions();
+    } else if (button && !answerRevealed) {
       button.classList.toggle('active', progress.starred);
       button.textContent = progress.starred ? '★' : '☆';
       button.setAttribute('aria-label', progress.starred ? '取消星號' : '加入星號');
@@ -329,6 +431,10 @@
     $('#stat-correct').textContent = stats.correct;
     $('#stat-starred').textContent = stats.starred;
     $('#stat-missed').textContent = stats.missed;
+    const vocabularyMode = state.activeBank === 'vocabulary';
+    $('#stat-seen-label').textContent = vocabularyMode ? '已看過' : '已作答';
+    $('#stat-correct-label').textContent = vocabularyMode ? '已會' : '答對';
+    $('#stat-missed-label').textContent = vocabularyMode ? '待加強次數' : '答錯次數';
     $('#star-count').textContent = `(${stats.starred})`;
     $('#bank-description').textContent = BANK_META[state.activeBank].description;
     $('#mode-banner').classList.toggle('hidden', state.mode !== 'star');
@@ -358,7 +464,7 @@
     const filter = $('#history-filter').value;
     const items = banks[state.activeBank].filter(question => {
       const progress = progressFor(state.activeBank, question.id);
-      const haystack = normalizeAnswer(`${question.prompt} ${question.source} ${question.ch}`);
+      const haystack = normalizeAnswer(`${question.prompt} ${question.answerText || ''} ${question.source} ${question.ch}`);
       if (query && !haystack.includes(query)) return false;
       if (filter === 'seen' && !progress.attempts) return false;
       if (filter === 'unseen' && progress.attempts) return false;
@@ -368,14 +474,17 @@
     });
     $('#history-list').innerHTML = items.map((question, index) => {
       const progress = progressFor(state.activeBank, question.id);
-      const status = progress.attempts ? (progress.lastCorrect === true ? '最近答對' : progress.lastCorrect === false ? '最近答錯' : '已核對') : '未作答';
+      const vocabularyMode = question.type === 'vocab';
+      const status = progress.attempts
+        ? (progress.lastCorrect === true ? (vocabularyMode ? '已會' : '最近答對') : progress.lastCorrect === false ? (vocabularyMode ? '待加強' : '最近答錯') : '已核對')
+        : '未作答';
       return `<details class="history-item">
         <summary>
           <button class="history-star button ghost" data-id="${escapeHtml(question.id)}" type="button">${progress.starred ? '★' : '☆'}</button>
-          <div class="history-badges"><span>#${index + 1}</span><span>${escapeHtml(question.ch || '')}</span><span>${escapeHtml(TYPE_LABEL[question.type] || '')}</span><span>${escapeHtml(question.source || '')}</span><span>${status}</span><span>答錯 ${progress.missed || 0} 次</span></div>
+          <div class="history-badges"><span>#${index + 1}</span><span>${escapeHtml(question.ch || '')}</span><span>${escapeHtml(TYPE_LABEL[question.type] || '')}</span><span>${escapeHtml(question.source || '')}</span><span>${status}</span><span>${vocabularyMode ? '待加強' : '答錯'} ${progress.missed || 0} 次</span></div>
           <div class="history-title">${escapeHtml(question.prompt)}</div>
         </summary>
-        <div class="history-body"><p><strong>答案：</strong>${escapeHtml(answerText(question))}</p><p><strong>詳解：</strong>${escapeHtml(question.explain || '—')}</p></div>
+        <div class="history-body"><p><strong>${vocabularyMode ? '中文＋功能' : '答案'}：</strong>${escapeHtml(answerText(question))}</p><p><strong>${vocabularyMode ? '來源' : '詳解'}：</strong>${escapeHtml(vocabularyMode ? question.source : (question.explain || '—'))}</p></div>
       </details>`;
     }).join('') || '<p class="subtitle">沒有符合條件的題目。</p>';
     document.querySelectorAll('.history-star').forEach(button => button.addEventListener('click', event => {
@@ -448,12 +557,18 @@
 
   async function init() {
     try {
-      const [examResponse, practiceResponse] = await Promise.all([fetch('data/exam.json'), fetch('data/practice.json')]);
-      if (!examResponse.ok || !practiceResponse.ok) throw new Error('題庫檔案讀取失敗');
+      const [examResponse, practiceResponse, vocabularyResponse] = await Promise.all([
+        fetch(`data/exam.json?v=${DATA_VERSION}`),
+        fetch(`data/practice.json?v=${DATA_VERSION}`),
+        fetch(`data/vocabulary.json?v=${DATA_VERSION}`)
+      ]);
+      if (!examResponse.ok || !practiceResponse.ok || !vocabularyResponse.ok) throw new Error('題庫檔案讀取失敗');
       banks.exam = await examResponse.json();
       banks.practice = await practiceResponse.json();
+      banks.vocabulary = await vocabularyResponse.json();
       $('#exam-count').textContent = banks.exam.length;
       $('#practice-count').textContent = banks.practice.length;
+      $('#vocabulary-count').textContent = banks.vocabulary.length;
       ensureStateShape();
       renderQuestion(getNextQuestion(false));
       initializeAuth();

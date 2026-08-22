@@ -23,7 +23,7 @@ button { cursor: pointer; }
 h1 { margin: 0; font-size: clamp(1.75rem, 4vw, 2.7rem); letter-spacing: -.04em; }
 h2 { margin: 0; font-size: 1.45rem; }
 .subtitle, .dialog-copy { color: var(--muted); line-height: 1.7; }
-.bank-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 24px 0 14px; }
+.bank-tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 24px 0 14px; }
 .bank-tab { display: flex; align-items: center; justify-content: space-between; border: 1px solid var(--line); border-radius: 15px; padding: 15px 18px; color: var(--muted); background: #0d1119; font-weight: 800; }
 .bank-tab strong { color: inherit; font-size: 1.2rem; }
 .bank-tab.active { border-color: var(--accent); color: #07101f; background: var(--accent); }
@@ -66,6 +66,19 @@ h2 { margin: 0; font-size: 1.45rem; }
 .result h3 { margin: 0 0 7px; }
 .result p { margin: 7px 0; }
 .terms { color: #cbd7f1; }
+.vocab-stage { perspective: 1200px; margin: 25px auto 0; max-width: 760px; }
+.flashcard { position: relative; min-height: 350px; transform-style: preserve-3d; transition: transform .55s cubic-bezier(.2,.7,.2,1); cursor: pointer; }
+.flashcard.flipped { transform: rotateY(180deg); }
+.flashcard-face { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: clamp(24px, 6vw, 54px); border: 1px solid #42506a; border-radius: 22px; backface-visibility: hidden; -webkit-backface-visibility: hidden; text-align: center; background: radial-gradient(circle at 50% 0, #202d49, #121824 62%); box-shadow: inset 0 1px rgba(255,255,255,.04), 0 22px 60px rgba(0,0,0,.24); }
+.flashcard-back { transform: rotateY(180deg); background: radial-gradient(circle at 50% 0, #263859, #161d2a 62%); }
+.flashcard-word { margin: 0; max-width: 100%; font-size: clamp(2rem, 7vw, 4rem); line-height: 1.16; overflow-wrap: anywhere; }
+.flashcard-hint { margin-top: 20px; color: var(--muted); font-size: .92rem; }
+.flashcard-back h3 { margin: 0 0 16px; color: var(--accent-2); font-size: 1rem; letter-spacing: .08em; }
+.flashcard-meaning { margin: 0; max-width: 650px; font-size: clamp(1.05rem, 3vw, 1.35rem); line-height: 1.75; text-align: left; }
+.flashcard-source { margin: 20px 0 0; color: var(--muted); font-size: .88rem; }
+.vocab-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 9px; }
+.button.review { border-color: #b37734; color: #ffdca2; background: #241a0d; }
+.button.known { border-color: #3e956f; color: #d8ffec; background: #10251c; }
 .save-note { text-align: center; color: var(--muted); font-size: .85rem; }
 .sync-dot { display: inline-block; width: 8px; height: 8px; margin-right: 7px; border-radius: 50%; background: #687387; }
 .sync-dot.online { background: var(--good); }
@@ -96,11 +109,17 @@ h2 { margin: 0; font-size: 1.45rem; }
   .dashboard div:nth-child(2) { border-right: 0; }
   .dashboard div:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
   .toolbar { display: grid; grid-template-columns: 1fr 1fr; }
+  .bank-tab { flex-direction: column; gap: 3px; text-align: center; }
   .toolbar .button:first-child { grid-column: 1 / -1; }
   .question-card { min-height: 480px; padding: 19px 16px; border-radius: 17px; }
+  .flashcard { min-height: 315px; }
+  .flashcard-face { padding: 25px 20px; }
   .match-row { grid-template-columns: 1fr; }
   .card-footer { align-items: flex-end; }
   .history-controls { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .flashcard { transition: none; }
 }
 @media (max-width: 440px) {
   .hero { display: block; }

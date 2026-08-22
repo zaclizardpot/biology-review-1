@@ -1,0 +1,5332 @@
+[
+  {
+    "id": "w001",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "Archaea",
+    "answerText": "古菌域；原核生物，但膜脂、轉錄系統與細菌不同。",
+    "explain": "古菌域；原核生物，但膜脂、轉錄系統與細菌不同。",
+    "terms": []
+  },
+  {
+    "id": "w002",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "Eukaryota",
+    "answerText": "真核生物域；細胞具有細胞核與膜狀胞器。筆記原字形近 Enkaryota。",
+    "explain": "真核生物域；細胞具有細胞核與膜狀胞器。筆記原字形近 Enkaryota。",
+    "terms": []
+  },
+  {
+    "id": "w003",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "prokaryotic cell",
+    "answerText": "原核細胞；無核膜包覆的細胞核，也缺典型膜狀胞器。",
+    "explain": "原核細胞；無核膜包覆的細胞核，也缺典型膜狀胞器。",
+    "terms": []
+  },
+  {
+    "id": "w004",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "eukaryotic cell",
+    "answerText": "真核細胞；DNA 主要位於核膜包覆的細胞核。",
+    "explain": "真核細胞；DNA 主要位於核膜包覆的細胞核。",
+    "terms": []
+  },
+  {
+    "id": "w005",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "macromolecule",
+    "answerText": "大分子；常由 monomer 聚合，如多醣、蛋白質與核酸。",
+    "explain": "大分子；常由 monomer 聚合，如多醣、蛋白質與核酸。",
+    "terms": []
+  },
+  {
+    "id": "w006",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "lipid",
+    "answerText": "脂質；疏水或兩親性分子，負責儲能、膜構造與訊息傳遞。",
+    "explain": "脂質；疏水或兩親性分子，負責儲能、膜構造與訊息傳遞。",
+    "terms": []
+  },
+  {
+    "id": "w007",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "covalent bond",
+    "answerText": "共價鍵；原子共享電子，構成生物分子的主骨架。",
+    "explain": "共價鍵；原子共享電子，構成生物分子的主骨架。",
+    "terms": []
+  },
+  {
+    "id": "w008",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "propionic acid",
+    "answerText": "丙酸；三碳短鏈脂肪酸，可由腸菌發酵產生並進入代謝。",
+    "explain": "丙酸；三碳短鏈脂肪酸，可由腸菌發酵產生並進入代謝。",
+    "terms": []
+  },
+  {
+    "id": "w009",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "condensation",
+    "answerText": "縮合反應；兩分子形成新鍵並釋出小分子，常為水。",
+    "explain": "縮合反應；兩分子形成新鍵並釋出小分子，常為水。",
+    "terms": []
+  },
+  {
+    "id": "w010",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.2",
+    "prompt": "hydrolysis",
+    "answerText": "水解；加水切斷共價鍵，是消化與大分子回收的常見反應。",
+    "explain": "水解；加水切斷共價鍵，是消化與大分子回收的常見反應。",
+    "terms": []
+  },
+  {
+    "id": "w011",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "monosaccharide",
+    "answerText": "單醣；不能再水解的基本糖單位，如 glucose。",
+    "explain": "單醣；不能再水解的基本糖單位，如 glucose。",
+    "terms": []
+  },
+  {
+    "id": "w012",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "pentose",
+    "answerText": "五碳糖；ribose 與 deoxyribose 是核酸糖。",
+    "explain": "五碳糖；ribose 與 deoxyribose 是核酸糖。",
+    "terms": []
+  },
+  {
+    "id": "w013",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "2-deoxyribose",
+    "answerText": "2-去氧核糖；DNA 的糖，2′ 碳缺少 OH。",
+    "explain": "2-去氧核糖；DNA 的糖，2′ 碳缺少 OH。",
+    "terms": []
+  },
+  {
+    "id": "w014",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "hexose",
+    "answerText": "六碳糖；如 glucose、galactose。",
+    "explain": "六碳糖；如 glucose、galactose。",
+    "terms": []
+  },
+  {
+    "id": "w015",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "stereoisomer",
+    "answerText": "立體異構物；鍵結順序相同但三維排列不同，可能影響酵素辨識。",
+    "explain": "立體異構物；鍵結順序相同但三維排列不同，可能影響酵素辨識。",
+    "terms": []
+  },
+  {
+    "id": "w016",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "galactose",
+    "answerText": "半乳糖；與 glucose 組成 lactose。",
+    "explain": "半乳糖；與 glucose 組成 lactose。",
+    "terms": []
+  },
+  {
+    "id": "w017",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "disaccharide",
+    "answerText": "雙醣；兩個單醣以 glycosidic bond 連接。",
+    "explain": "雙醣；兩個單醣以 glycosidic bond 連接。",
+    "terms": []
+  },
+  {
+    "id": "w018",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "glycosidic bond",
+    "answerText": "糖苷鍵；連接糖單體的共價鍵，水解後可拆開。",
+    "explain": "糖苷鍵；連接糖單體的共價鍵，水解後可拆開。",
+    "terms": []
+  },
+  {
+    "id": "w019",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "polysaccharide",
+    "answerText": "多醣；大量單醣聚合，可儲能或支撐。",
+    "explain": "多醣；大量單醣聚合，可儲能或支撐。",
+    "terms": []
+  },
+  {
+    "id": "w020",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "starch",
+    "answerText": "澱粉；植物儲存 glucose 的多醣。",
+    "explain": "澱粉；植物儲存 glucose 的多醣。",
+    "terms": []
+  },
+  {
+    "id": "w021",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "glycogen",
+    "answerText": "肝糖；動物高度分枝的 glucose 儲存多醣。",
+    "explain": "肝糖；動物高度分枝的 glucose 儲存多醣。",
+    "terms": []
+  },
+  {
+    "id": "w022",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "cellulose",
+    "answerText": "纖維素；β-glucose 構成植物細胞壁，人缺乏分解酵素。",
+    "explain": "纖維素；β-glucose 構成植物細胞壁，人缺乏分解酵素。",
+    "terms": []
+  },
+  {
+    "id": "w023",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.3",
+    "prompt": "chitin",
+    "answerText": "幾丁質；節肢動物外骨骼與真菌細胞壁的結構多醣。",
+    "explain": "幾丁質；節肢動物外骨骼與真菌細胞壁的結構多醣。",
+    "terms": []
+  },
+  {
+    "id": "w024",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "triglyceride",
+    "answerText": "三酸甘油酯；glycerol + 3 fatty acids，主要長期儲能脂質。",
+    "explain": "三酸甘油酯；glycerol + 3 fatty acids，主要長期儲能脂質。",
+    "terms": []
+  },
+  {
+    "id": "w025",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "glycerol",
+    "answerText": "甘油；三碳醇，構成三酸甘油酯與磷脂。",
+    "explain": "甘油；三碳醇，構成三酸甘油酯與磷脂。",
+    "terms": []
+  },
+  {
+    "id": "w026",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "ester bond",
+    "answerText": "酯鍵；脂肪酸羧基與甘油羥基脫水形成。",
+    "explain": "酯鍵；脂肪酸羧基與甘油羥基脫水形成。",
+    "terms": []
+  },
+  {
+    "id": "w027",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "saturated",
+    "answerText": "飽和脂肪酸；無 C=C，鏈較直、堆積緊密、常溫較易固態。",
+    "explain": "飽和脂肪酸；無 C=C，鏈較直、堆積緊密、常溫較易固態。",
+    "terms": []
+  },
+  {
+    "id": "w028",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "unsaturated",
+    "answerText": "不飽和脂肪酸；含 C=C，cis 彎折使膜流動性提高。",
+    "explain": "不飽和脂肪酸；含 C=C，cis 彎折使膜流動性提高。",
+    "terms": []
+  },
+  {
+    "id": "w029",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "phospholipid",
+    "answerText": "磷脂；親水頭與疏水尾自組裝成膜雙層。",
+    "explain": "磷脂；親水頭與疏水尾自組裝成膜雙層。",
+    "terms": []
+  },
+  {
+    "id": "w030",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "amphipathic",
+    "answerText": "兩親性；同一分子同時有親水與疏水區。",
+    "explain": "兩親性；同一分子同時有親水與疏水區。",
+    "terms": []
+  },
+  {
+    "id": "w031",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "hydrophilic",
+    "answerText": "親水；帶電或極性區域可與水互動。",
+    "explain": "親水；帶電或極性區域可與水互動。",
+    "terms": []
+  },
+  {
+    "id": "w032",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "hydrophobic",
+    "answerText": "疏水；非極性區域傾向避開水並彼此聚集。",
+    "explain": "疏水；非極性區域傾向避開水並彼此聚集。",
+    "terms": []
+  },
+  {
+    "id": "w033",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "steroid",
+    "answerText": "類固醇；四個融合碳環骨架，包含 cholesterol 與多種荷爾蒙。",
+    "explain": "類固醇；四個融合碳環骨架，包含 cholesterol 與多種荷爾蒙。",
+    "terms": []
+  },
+  {
+    "id": "w034",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4",
+    "prompt": "estrogen",
+    "answerText": "雌激素；脂溶性類固醇，可進細胞結合核內受體調控轉錄。",
+    "explain": "雌激素；脂溶性類固醇，可進細胞結合核內受體調控轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w035",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4；中 p.10",
+    "prompt": "testosterone",
+    "answerText": "睪固酮；雄性素類固醇，透過細胞內受體調控基因表現。",
+    "explain": "睪固酮；雄性素類固醇，透過細胞內受體調控基因表現。",
+    "terms": []
+  },
+  {
+    "id": "w036",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.4, 11",
+    "prompt": "cholesterol",
+    "answerText": "膽固醇；膜流動性的溫度緩衝，也可作類固醇與膽汁酸前驅物。",
+    "explain": "膽固醇；膜流動性的溫度緩衝，也可作類固醇與膽汁酸前驅物。",
+    "terms": []
+  },
+  {
+    "id": "w037",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "carboxyl group",
+    "answerText": "羧基（–COOH/–COO−）；酸性官能基，胺基酸 C 端含此基團。",
+    "explain": "羧基（–COOH/–COO−）；酸性官能基，胺基酸 C 端含此基團。",
+    "terms": []
+  },
+  {
+    "id": "w038",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "peptide bond",
+    "answerText": "肽鍵；一個胺基酸羧基與另一胺基形成的共價鍵。",
+    "explain": "肽鍵；一個胺基酸羧基與另一胺基形成的共價鍵。",
+    "terms": []
+  },
+  {
+    "id": "w039",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "secondary structure",
+    "answerText": "蛋白質二級結構；主鏈氫鍵形成 α-helix 或 β-sheet。",
+    "explain": "蛋白質二級結構；主鏈氫鍵形成 α-helix 或 β-sheet。",
+    "terms": []
+  },
+  {
+    "id": "w040",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "β-pleated sheet",
+    "answerText": "β-摺板；相鄰多肽段以主鏈氫鍵穩定。",
+    "explain": "β-摺板；相鄰多肽段以主鏈氫鍵穩定。",
+    "terms": []
+  },
+  {
+    "id": "w041",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "tertiary structure",
+    "answerText": "三級結構；單條多肽的整體三維折疊，決定多數功能。",
+    "explain": "三級結構；單條多肽的整體三維折疊，決定多數功能。",
+    "terms": []
+  },
+  {
+    "id": "w042",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "disulfide bridge",
+    "answerText": "雙硫鍵；兩個 cysteine 側鏈氧化形成的 S–S 共價鍵。",
+    "explain": "雙硫鍵；兩個 cysteine 側鏈氧化形成的 S–S 共價鍵。",
+    "terms": []
+  },
+  {
+    "id": "w043",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "quaternary structure",
+    "answerText": "四級結構；多條多肽亞基組成的功能性複合體。",
+    "explain": "四級結構；多條多肽亞基組成的功能性複合體。",
+    "terms": []
+  },
+  {
+    "id": "w044",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "ribonuclease",
+    "answerText": "核糖核酸酶；分解 RNA。Anfinsen 用它證明序列可決定折疊。",
+    "explain": "核糖核酸酶；分解 RNA。Anfinsen 用它證明序列可決定折疊。",
+    "terms": []
+  },
+  {
+    "id": "w045",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.5",
+    "prompt": "urea",
+    "answerText": "尿素；實驗中破壞非共價作用，使蛋白質變性。",
+    "explain": "尿素；實驗中破壞非共價作用，使蛋白質變性。",
+    "terms": []
+  },
+  {
+    "id": "w046",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.6, 40",
+    "prompt": "sickle-cell disease / sickle-cell anemia",
+    "answerText": "鎌刀型紅血球疾病／鎌刀型貧血；β-globin 的 Glu→Val missense mutation 使去氧 HbS 聚合、紅血球變形。",
+    "explain": "鎌刀型紅血球疾病／鎌刀型貧血；β-globin 的 Glu→Val missense mutation 使去氧 HbS 聚合、紅血球變形。",
+    "terms": []
+  },
+  {
+    "id": "w047",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.6",
+    "prompt": "functional domain",
+    "answerText": "功能區域；蛋白質中可獨立折疊並執行特定功能的區段。",
+    "explain": "功能區域；蛋白質中可獨立折疊並執行特定功能的區段。",
+    "terms": []
+  },
+  {
+    "id": "w048",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.6, 7",
+    "prompt": "nucleotide",
+    "answerText": "核苷酸；base + sugar + phosphate，是 DNA/RNA 單體。",
+    "explain": "核苷酸；base + sugar + phosphate，是 DNA/RNA 單體。",
+    "terms": []
+  },
+  {
+    "id": "w049",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.6",
+    "prompt": "nucleic acid",
+    "answerText": "核酸；DNA/RNA 聚合物，負責遺傳訊息儲存與表現。",
+    "explain": "核酸；DNA/RNA 聚合物，負責遺傳訊息儲存與表現。",
+    "terms": []
+  },
+  {
+    "id": "w050",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.6, 20",
+    "prompt": "purine",
+    "answerText": "嘌呤；雙環鹼基 A、G。",
+    "explain": "嘌呤；雙環鹼基 A、G。",
+    "terms": []
+  },
+  {
+    "id": "w051",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.6, 20",
+    "prompt": "pyrimidine",
+    "answerText": "嘧啶；單環鹼基 C、T、U。",
+    "explain": "嘧啶；單環鹼基 C、T、U。",
+    "terms": []
+  },
+  {
+    "id": "w052",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "precursor",
+    "answerText": "前驅物；可經反應轉為目標分子的較早期物質。",
+    "explain": "前驅物；可經反應轉為目標分子的較早期物質。",
+    "terms": []
+  },
+  {
+    "id": "w053",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "protobiont",
+    "answerText": "原始細胞樣聚集體；有膜邊界與簡單化學反應，但非完整細胞。",
+    "explain": "原始細胞樣聚集體；有膜邊界與簡單化學反應，但非完整細胞。",
+    "terms": []
+  },
+  {
+    "id": "w054",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "liposome",
+    "answerText": "脂質體；磷脂雙層形成的囊泡，可模擬膜或運送藥物。",
+    "explain": "脂質體；磷脂雙層形成的囊泡，可模擬膜或運送藥物。",
+    "terms": []
+  },
+  {
+    "id": "w055",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7, 17",
+    "prompt": "ribozyme",
+    "answerText": "核酶；具有催化活性的 RNA，支持 RNA world 假說。",
+    "explain": "核酶；具有催化活性的 RNA，支持 RNA world 假說。",
+    "terms": []
+  },
+  {
+    "id": "w056",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "mutation",
+    "answerText": "突變；DNA 序列可遺傳的改變，是演化材料也可能致病。",
+    "explain": "突變；DNA 序列可遺傳的改變，是演化材料也可能致病。",
+    "terms": []
+  },
+  {
+    "id": "w057",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "glycocalyx",
+    "answerText": "糖萼；細胞表面糖層，保護、黏附與辨識。",
+    "explain": "糖萼；細胞表面糖層，保護、黏附與辨識。",
+    "terms": []
+  },
+  {
+    "id": "w058",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "pili",
+    "answerText": "菌毛；細菌附著或接合傳遞 DNA 的短突起。",
+    "explain": "菌毛；細菌附著或接合傳遞 DNA 的短突起。",
+    "terms": []
+  },
+  {
+    "id": "w059",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "flagella",
+    "answerText": "鞭毛；推動細胞運動，細菌與真核構造機制不同。",
+    "explain": "鞭毛；推動細胞運動，細菌與真核構造機制不同。",
+    "terms": []
+  },
+  {
+    "id": "w060",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "cytosol",
+    "answerText": "胞質液；細胞內的水相反應環境，不等同整個 cytoplasm。",
+    "explain": "胞質液；細胞內的水相反應環境，不等同整個 cytoplasm。",
+    "terms": []
+  },
+  {
+    "id": "w061",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "morphology",
+    "answerText": "形態學／形態；細胞外觀與結構特徵。",
+    "explain": "形態學／形態；細胞外觀與結構特徵。",
+    "terms": []
+  },
+  {
+    "id": "w062",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.7",
+    "prompt": "proteome",
+    "answerText": "蛋白質體；特定細胞、時間與狀態下表現的全部蛋白質。",
+    "explain": "蛋白質體；特定細胞、時間與狀態下表現的全部蛋白質。",
+    "terms": []
+  },
+  {
+    "id": "w063",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "cytoskeleton",
+    "answerText": "細胞骨架；微管、中間絲與微絲共同維持形狀、運輸與分裂。",
+    "explain": "細胞骨架；微管、中間絲與微絲共同維持形狀、運輸與分裂。",
+    "terms": []
+  },
+  {
+    "id": "w064",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "microtubule",
+    "answerText": "微管；tubulin 聚合，負責囊泡運輸、紡錘體、纖毛與鞭毛。",
+    "explain": "微管；tubulin 聚合，負責囊泡運輸、紡錘體、纖毛與鞭毛。",
+    "terms": []
+  },
+  {
+    "id": "w065",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "chromosome",
+    "answerText": "染色體；DNA 與蛋白質組成的遺傳結構。",
+    "explain": "染色體；DNA 與蛋白質組成的遺傳結構。",
+    "terms": []
+  },
+  {
+    "id": "w066",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "membrane vesicle",
+    "answerText": "膜囊泡；在內膜系統間運送蛋白質與脂質。",
+    "explain": "膜囊泡；在內膜系統間運送蛋白質與脂質。",
+    "terms": []
+  },
+  {
+    "id": "w067",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "intermediate filament",
+    "answerText": "中間絲；提供機械強度並連結 desmosome。",
+    "explain": "中間絲；提供機械強度並連結 desmosome。",
+    "terms": []
+  },
+  {
+    "id": "w068",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "actin filament",
+    "answerText": "肌動蛋白絲／微絲；細胞移動、收縮環、形狀與黏附。",
+    "explain": "肌動蛋白絲／微絲；細胞移動、收縮環、形狀與黏附。",
+    "terms": []
+  },
+  {
+    "id": "w069",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "focal adhesion",
+    "answerText": "焦點黏著；integrin 連接 ECM 與 actin，兼具力學與訊號功能。",
+    "explain": "焦點黏著；integrin 連接 ECM 與 actin，兼具力學與訊號功能。",
+    "terms": []
+  },
+  {
+    "id": "w070",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8, 16",
+    "prompt": "anchoring junction",
+    "answerText": "錨定連結；把細胞骨架連到鄰細胞或 ECM，抵抗拉力。",
+    "explain": "錨定連結；把細胞骨架連到鄰細胞或 ECM，抵抗拉力。",
+    "terms": []
+  },
+  {
+    "id": "w071",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "nuclear envelope",
+    "answerText": "核膜；雙層膜包覆細胞核，外膜連續於 ER。",
+    "explain": "核膜；雙層膜包覆細胞核，外膜連續於 ER。",
+    "terms": []
+  },
+  {
+    "id": "w072",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "nuclear pore",
+    "answerText": "核孔；選擇性運輸蛋白質與 RNA 進出細胞核。",
+    "explain": "核孔；選擇性運輸蛋白質與 RNA 進出細胞核。",
+    "terms": []
+  },
+  {
+    "id": "w073",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "nucleolus",
+    "answerText": "核仁；rRNA 合成與核糖體次單元組裝處。",
+    "explain": "核仁；rRNA 合成與核糖體次單元組裝處。",
+    "terms": []
+  },
+  {
+    "id": "w074",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "nuclear lamina",
+    "answerText": "核纖層；核膜內側的 intermediate filament 網，支撐細胞核。",
+    "explain": "核纖層；核膜內側的 intermediate filament 網，支撐細胞核。",
+    "terms": []
+  },
+  {
+    "id": "w075",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "ER lumen",
+    "answerText": "內質網腔；分泌／膜蛋白折疊、修飾與品質管制的空間。",
+    "explain": "內質網腔；分泌／膜蛋白折疊、修飾與品質管制的空間。",
+    "terms": []
+  },
+  {
+    "id": "w076",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.8",
+    "prompt": "metabolism",
+    "answerText": "代謝；細胞內所有化學反應的總和。",
+    "explain": "代謝；細胞內所有化學反應的總和。",
+    "terms": []
+  },
+  {
+    "id": "w077",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "autophagy",
+    "answerText": "自體吞噬；以 lysosome 分解受損胞器與大分子並回收。",
+    "explain": "自體吞噬；以 lysosome 分解受損胞器與大分子並回收。",
+    "terms": []
+  },
+  {
+    "id": "w078",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "peroxisome",
+    "answerText": "過氧化體；脂肪酸氧化與 H2O2 代謝，含 catalase。",
+    "explain": "過氧化體；脂肪酸氧化與 H2O2 代謝，含 catalase。",
+    "terms": []
+  },
+  {
+    "id": "w079",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "phagocytic",
+    "answerText": "吞噬性的；指能吞入大顆粒或微生物的細胞功能。",
+    "explain": "吞噬性的；指能吞入大顆粒或微生物的細胞功能。",
+    "terms": []
+  },
+  {
+    "id": "w080",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "catalase",
+    "answerText": "過氧化氫酶；將 H2O2 分解為 H2O 與 O2，避免氧化傷害。",
+    "explain": "過氧化氫酶；將 H2O2 分解為 H2O 與 O2，避免氧化傷害。",
+    "terms": []
+  },
+  {
+    "id": "w081",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "pancreatic",
+    "answerText": "胰臟的；pulse-chase 常用 pancreatic cells 追蹤分泌蛋白。",
+    "explain": "胰臟的；pulse-chase 常用 pancreatic cells 追蹤分泌蛋白。",
+    "terms": []
+  },
+  {
+    "id": "w082",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "apoptosis",
+    "answerText": "細胞凋亡；受調控的程序性死亡，通常不引發強烈發炎。",
+    "explain": "細胞凋亡；受調控的程序性死亡，通常不引發強烈發炎。",
+    "terms": []
+  },
+  {
+    "id": "w083",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "innate immunity",
+    "answerText": "先天免疫；快速、非專一的防禦，無需先前暴露。",
+    "explain": "先天免疫；快速、非專一的防禦，無需先前暴露。",
+    "terms": []
+  },
+  {
+    "id": "w084",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9",
+    "prompt": "fission",
+    "answerText": "分裂；粒線體／葉綠體與細菌可用類二分裂增加數目。",
+    "explain": "分裂；粒線體／葉綠體與細菌可用類二分裂增加數目。",
+    "terms": []
+  },
+  {
+    "id": "w085",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10, 29",
+    "prompt": "chaperone",
+    "answerText": "伴護蛋白；協助蛋白折疊或在染色質重塑後重新裝回 histone。",
+    "explain": "伴護蛋白；協助蛋白折疊或在染色質重塑後重新裝回 histone。",
+    "terms": []
+  },
+  {
+    "id": "w086",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10",
+    "prompt": "matrix",
+    "answerText": "基質；此頁指粒線體內膜包圍的空間，多步代謝在此進行。",
+    "explain": "基質；此頁指粒線體內膜包圍的空間，多步代謝在此進行。",
+    "terms": []
+  },
+  {
+    "id": "w087",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10",
+    "prompt": "bilayer",
+    "answerText": "雙層；膜由兩層 phospholipid leaflet 組成。",
+    "explain": "雙層；膜由兩層 phospholipid leaflet 組成。",
+    "terms": []
+  },
+  {
+    "id": "w088",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10",
+    "prompt": "leaflet",
+    "answerText": "膜單層；磷脂雙層的其中一面。",
+    "explain": "膜單層；磷脂雙層的其中一面。",
+    "terms": []
+  },
+  {
+    "id": "w089",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10",
+    "prompt": "integral / intrinsic membrane protein",
+    "answerText": "內在／整合膜蛋白；嵌入脂雙層，常可跨膜運輸或傳訊。",
+    "explain": "內在／整合膜蛋白；嵌入脂雙層，常可跨膜運輸或傳訊。",
+    "terms": []
+  },
+  {
+    "id": "w090",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10",
+    "prompt": "transmembrane protein",
+    "answerText": "跨膜蛋白；穿越脂雙層一次或多次。",
+    "explain": "跨膜蛋白；穿越脂雙層一次或多次。",
+    "terms": []
+  },
+  {
+    "id": "w091",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.10",
+    "prompt": "peripheral / extrinsic membrane protein",
+    "answerText": "周邊膜蛋白；以非共價作用附著膜面或整合膜蛋白。",
+    "explain": "周邊膜蛋白；以非共價作用附著膜面或整合膜蛋白。",
+    "terms": []
+  },
+  {
+    "id": "w092",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "fluid-mosaic model",
+    "answerText": "流體鑲嵌模型；脂質與多數蛋白可側向移動的動態膜。",
+    "explain": "流體鑲嵌模型；脂質與多數蛋白可側向移動的動態膜。",
+    "terms": []
+  },
+  {
+    "id": "w093",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "lateral movement",
+    "answerText": "側向移動；膜成分在同一 leaflet 平面內擴散。",
+    "explain": "側向移動；膜成分在同一 leaflet 平面內擴散。",
+    "terms": []
+  },
+  {
+    "id": "w094",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "fatty acyl tail",
+    "answerText": "脂醯尾；膜脂的疏水碳鏈，長度與飽和度影響流動性。",
+    "explain": "脂醯尾；膜脂的疏水碳鏈，長度與飽和度影響流動性。",
+    "terms": []
+  },
+  {
+    "id": "w095",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "glycerol-3-phosphate",
+    "answerText": "甘油-3-磷酸；磷脂合成的甘油骨架前驅物。",
+    "explain": "甘油-3-磷酸；磷脂合成的甘油骨架前驅物。",
+    "terms": []
+  },
+  {
+    "id": "w096",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "choline",
+    "answerText": "膽鹼；phosphatidylcholine 的極性頭基，也參與神經傳導物質合成。",
+    "explain": "膽鹼；phosphatidylcholine 的極性頭基，也參與神經傳導物質合成。",
+    "terms": []
+  },
+  {
+    "id": "w097",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "acyltransferase",
+    "answerText": "醯基轉移酶；把 fatty acyl group 接到受體分子。",
+    "explain": "醯基轉移酶；把 fatty acyl group 接到受體分子。",
+    "terms": []
+  },
+  {
+    "id": "w098",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "choline phosphotransferase",
+    "answerText": "膽鹼磷酸轉移酶；把 phosphocholine 接到 DAG 形成磷脂。",
+    "explain": "膽鹼磷酸轉移酶；把 phosphocholine 接到 DAG 形成磷脂。",
+    "terms": []
+  },
+  {
+    "id": "w099",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "flippase",
+    "answerText": "翻脂酶；選擇性把特定脂質翻到另一 leaflet，建立膜不對稱。",
+    "explain": "翻脂酶；選擇性把特定脂質翻到另一 leaflet，建立膜不對稱。",
+    "terms": []
+  },
+  {
+    "id": "w100",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "vesicle transport",
+    "answerText": "囊泡運輸；在 ER、Golgi、lysosome 與細胞膜間搬運。",
+    "explain": "囊泡運輸；在 ER、Golgi、lysosome 與細胞膜間搬運。",
+    "terms": []
+  },
+  {
+    "id": "w101",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "diffuse laterally",
+    "answerText": "側向擴散；膜成分沿膜面移動，不等同跨層 flip-flop。",
+    "explain": "側向擴散；膜成分沿膜面移動，不等同跨層 flip-flop。",
+    "terms": []
+  },
+  {
+    "id": "w102",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.11",
+    "prompt": "lipid-exchange protein",
+    "answerText": "脂質交換蛋白；在非連續膜之間搬運脂質。",
+    "explain": "脂質交換蛋白；在非連續膜之間搬運脂質。",
+    "terms": []
+  },
+  {
+    "id": "w103",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "glycosylation",
+    "answerText": "醣基化；共價加上糖鏈，影響折疊、穩定、定位與辨識。",
+    "explain": "醣基化；共價加上糖鏈，影響折疊、穩定、定位與辨識。",
+    "terms": []
+  },
+  {
+    "id": "w104",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "glycoprotein",
+    "answerText": "醣蛋白；帶共價糖鏈的蛋白質，常位於膜或分泌路徑。",
+    "explain": "醣蛋白；帶共價糖鏈的蛋白質，常位於膜或分泌路徑。",
+    "terms": []
+  },
+  {
+    "id": "w105",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "glycolipid",
+    "answerText": "醣脂；帶糖頭基的膜脂，參與細胞辨識。",
+    "explain": "醣脂；帶糖頭基的膜脂，參與細胞辨識。",
+    "terms": []
+  },
+  {
+    "id": "w106",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "oligosaccharide transferase",
+    "answerText": "寡醣轉移酶；在 ER 將預組寡醣轉到 Asn，進行 N-linked glycosylation。",
+    "explain": "寡醣轉移酶；在 ER 將預組寡醣轉到 Asn，進行 N-linked glycosylation。",
+    "terms": []
+  },
+  {
+    "id": "w107",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "selectively permeable",
+    "answerText": "選擇性通透；膜對不同分子的通過能力不同。",
+    "explain": "選擇性通透；膜對不同分子的通過能力不同。",
+    "terms": []
+  },
+  {
+    "id": "w108",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "gradient",
+    "answerText": "梯度；濃度或電位差可儲存勢能並驅動運輸。",
+    "explain": "梯度；濃度或電位差可儲存勢能並驅動運輸。",
+    "terms": []
+  },
+  {
+    "id": "w109",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "isotonic",
+    "answerText": "等張；細胞內外有效滲透濃度相等，無淨水流。",
+    "explain": "等張；細胞內外有效滲透濃度相等，無淨水流。",
+    "terms": []
+  },
+  {
+    "id": "w110",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "hypertonic",
+    "answerText": "高張；外液有效溶質較高，水離開細胞。",
+    "explain": "高張；外液有效溶質較高，水離開細胞。",
+    "terms": []
+  },
+  {
+    "id": "w111",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12, 33",
+    "prompt": "hypotonic",
+    "answerText": "低張；外液有效溶質較低，水進入細胞。",
+    "explain": "低張；外液有效溶質較低，水進入細胞。",
+    "terms": []
+  },
+  {
+    "id": "w112",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "osmosis",
+    "answerText": "滲透；水跨選擇性通透膜往較高有效溶質處移動。",
+    "explain": "滲透；水跨選擇性通透膜往較高有效溶質處移動。",
+    "terms": []
+  },
+  {
+    "id": "w113",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "crenation",
+    "answerText": "皺縮；動物細胞置於高張液失水縮小。",
+    "explain": "皺縮；動物細胞置於高張液失水縮小。",
+    "terms": []
+  },
+  {
+    "id": "w114",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "plasmolysis",
+    "answerText": "質壁分離；植物細胞在高張液失水，膜與細胞壁分離。",
+    "explain": "質壁分離；植物細胞在高張液失水，膜與細胞壁分離。",
+    "terms": []
+  },
+  {
+    "id": "w115",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "osmotic lysis",
+    "answerText": "滲透溶解；動物細胞在低張液過度進水而破裂。",
+    "explain": "滲透溶解；動物細胞在低張液過度進水而破裂。",
+    "terms": []
+  },
+  {
+    "id": "w116",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.12",
+    "prompt": "turgid / turgor pressure",
+    "answerText": "膨壓狀態／膨壓；植物細胞進水後細胞壁反壓支撐植體。",
+    "explain": "膨壓狀態／膨壓；植物細胞進水後細胞壁反壓支撐植體。",
+    "terms": []
+  },
+  {
+    "id": "w117",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "uniporter",
+    "answerText": "單向運輸體；一次沿同方向搬運一種溶質。",
+    "explain": "單向運輸體；一次沿同方向搬運一種溶質。",
+    "terms": []
+  },
+  {
+    "id": "w118",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "symporter / cotransporter",
+    "answerText": "同向共運輸體；兩種溶質同方向移動，常用一者梯度帶動另一者。",
+    "explain": "同向共運輸體；兩種溶質同方向移動，常用一者梯度帶動另一者。",
+    "terms": []
+  },
+  {
+    "id": "w119",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "antiporter",
+    "answerText": "反向交換體；兩種溶質反方向交換。",
+    "explain": "反向交換體；兩種溶質反方向交換。",
+    "terms": []
+  },
+  {
+    "id": "w120",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "exocytosis",
+    "answerText": "胞吐；囊泡與膜融合，把內容物釋出或加入膜成分。",
+    "explain": "胞吐；囊泡與膜融合，把內容物釋出或加入膜成分。",
+    "terms": []
+  },
+  {
+    "id": "w121",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "endocytosis",
+    "answerText": "胞吞；細胞膜內陷形成囊泡把物質帶入。",
+    "explain": "胞吞；細胞膜內陷形成囊泡把物質帶入。",
+    "terms": []
+  },
+  {
+    "id": "w122",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.9, 13（補充詞）",
+    "prompt": "phagocytosis",
+    "answerText": "吞噬作用；endocytosis 的一型，細胞以偽足包圍細菌等大型顆粒，形成 phagosome，之後通常與 lysosome 融合並分解；與筆記的 phagocytic 是同字根。",
+    "explain": "吞噬作用；endocytosis 的一型，細胞以偽足包圍細菌等大型顆粒，形成 phagosome，之後通常與 lysosome 融合並分解；與筆記的 phagocytic 是同字根。",
+    "terms": []
+  },
+  {
+    "id": "w123",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13（補充詞）",
+    "prompt": "pinocytosis",
+    "answerText": "胞飲作用；endocytosis 的一型，以小囊泡非特異性攝入細胞外液及其中溶質，可聯想成「細胞喝水」。",
+    "explain": "胞飲作用；endocytosis 的一型，以小囊泡非特異性攝入細胞外液及其中溶質，可聯想成「細胞喝水」。",
+    "terms": []
+  },
+  {
+    "id": "w124",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "juxtacrine signaling",
+    "answerText": "接觸依賴傳訊；相鄰細胞膜上 ligand/receptor 直接接觸。",
+    "explain": "接觸依賴傳訊；相鄰細胞膜上 ligand/receptor 直接接觸。",
+    "terms": []
+  },
+  {
+    "id": "w125",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "autocrine signaling",
+    "answerText": "自分泌傳訊；細胞分泌訊號並作用於自己。",
+    "explain": "自分泌傳訊；細胞分泌訊號並作用於自己。",
+    "terms": []
+  },
+  {
+    "id": "w126",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "paracrine signaling",
+    "answerText": "旁分泌傳訊；作用於附近細胞，距離短。",
+    "explain": "旁分泌傳訊；作用於附近細胞，距離短。",
+    "terms": []
+  },
+  {
+    "id": "w127",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "endocrine signaling",
+    "answerText": "內分泌傳訊；hormone 經循環作用於遠端標的。",
+    "explain": "內分泌傳訊；hormone 經循環作用於遠端標的。",
+    "terms": []
+  },
+  {
+    "id": "w128",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "signal transduction",
+    "answerText": "訊息傳遞；受體將外界訊號轉成細胞內反應。",
+    "explain": "訊息傳遞；受體將外界訊號轉成細胞內反應。",
+    "terms": []
+  },
+  {
+    "id": "w129",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "synaptic signal",
+    "answerText": "突觸訊號；神經末梢局部釋放 neurotransmitter。",
+    "explain": "突觸訊號；神經末梢局部釋放 neurotransmitter。",
+    "terms": []
+  },
+  {
+    "id": "w130",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.13",
+    "prompt": "membrane potential",
+    "answerText": "膜電位；膜兩側電荷分布差，神經與運輸的重要驅動力。",
+    "explain": "膜電位；膜兩側電荷分布差，神經與運輸的重要驅動力。",
+    "terms": []
+  },
+  {
+    "id": "w131",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.14",
+    "prompt": "second messenger",
+    "answerText": "第二訊使；如 cAMP、Ca2+，在細胞內傳遞並放大第一訊使。",
+    "explain": "第二訊使；如 cAMP、Ca2+，在細胞內傳遞並放大第一訊使。",
+    "terms": []
+  },
+  {
+    "id": "w132",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.14",
+    "prompt": "adenylyl cyclase",
+    "answerText": "腺苷酸環化酶；將 ATP 轉成 cAMP。",
+    "explain": "腺苷酸環化酶；將 ATP 轉成 cAMP。",
+    "terms": []
+  },
+  {
+    "id": "w133",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.14",
+    "prompt": "epinephrine",
+    "answerText": "腎上腺素；可經 GPCR–cAMP 促進肝糖分解與戰逃反應。",
+    "explain": "腎上腺素；可經 GPCR–cAMP 促進肝糖分解與戰逃反應。",
+    "terms": []
+  },
+  {
+    "id": "w134",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.14",
+    "prompt": "phosphodiesterase",
+    "answerText": "磷酸二酯酶；分解 cAMP/cGMP，終止或縮短信號。",
+    "explain": "磷酸二酯酶；分解 cAMP/cGMP，終止或縮短信號。",
+    "terms": []
+  },
+  {
+    "id": "w135",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.14, 27",
+    "prompt": "cAMP",
+    "answerText": "環腺苷酸；常見第二訊使，也在低 glucose 時活化 bacterial CAP。",
+    "explain": "環腺苷酸；常見第二訊使，也在低 glucose 時活化 bacterial CAP。",
+    "terms": []
+  },
+  {
+    "id": "w136",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "caspase",
+    "answerText": "半胱天冬酶；凋亡執行蛋白酶級聯的核心。",
+    "explain": "半胱天冬酶；凋亡執行蛋白酶級聯的核心。",
+    "terms": []
+  },
+  {
+    "id": "w137",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "perforin",
+    "answerText": "穿孔素；cytotoxic T/NK cell 在標的膜形成孔洞。",
+    "explain": "穿孔素；cytotoxic T/NK cell 在標的膜形成孔洞。",
+    "terms": []
+  },
+  {
+    "id": "w138",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "granzyme",
+    "answerText": "顆粒酶；經 perforin 進入標的細胞並活化 apoptosis。",
+    "explain": "顆粒酶；經 perforin 進入標的細胞並活化 apoptosis。",
+    "terms": []
+  },
+  {
+    "id": "w139",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "ECM",
+    "answerText": "細胞外基質；提供支撐、黏附與訊號，主要含蛋白與多醣。",
+    "explain": "細胞外基質；提供支撐、黏附與訊號，主要含蛋白與多醣。",
+    "terms": []
+  },
+  {
+    "id": "w140",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "fibronectin",
+    "answerText": "纖維連結蛋白；連結 integrin、collagen 與 ECM。",
+    "explain": "纖維連結蛋白；連結 integrin、collagen 與 ECM。",
+    "terms": []
+  },
+  {
+    "id": "w141",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "laminin",
+    "answerText": "層黏連蛋白；basal lamina 的主要黏附性 glycoprotein。",
+    "explain": "層黏連蛋白；basal lamina 的主要黏附性 glycoprotein。",
+    "terms": []
+  },
+  {
+    "id": "w142",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "collagen",
+    "answerText": "膠原蛋白；提供抗拉強度，是人體最豐富的 ECM 蛋白。",
+    "explain": "膠原蛋白；提供抗拉強度，是人體最豐富的 ECM 蛋白。",
+    "terms": []
+  },
+  {
+    "id": "w143",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "elastin",
+    "answerText": "彈性蛋白；讓皮膚、肺與血管可伸展回彈。",
+    "explain": "彈性蛋白；讓皮膚、肺與血管可伸展回彈。",
+    "terms": []
+  },
+  {
+    "id": "w144",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "cartilage",
+    "answerText": "軟骨；富含 collagen 與 proteoglycan 的支撐組織。",
+    "explain": "軟骨；富含 collagen 與 proteoglycan 的支撐組織。",
+    "terms": []
+  },
+  {
+    "id": "w145",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "tendon",
+    "answerText": "肌腱；以平行 collagen 纖維傳遞肌肉拉力。",
+    "explain": "肌腱；以平行 collagen 纖維傳遞肌肉拉力。",
+    "terms": []
+  },
+  {
+    "id": "w146",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "vertebrate / invertebrate",
+    "answerText": "脊椎動物／無脊椎動物；是否具脊柱的動物分類。",
+    "explain": "脊椎動物／無脊椎動物；是否具脊柱的動物分類。",
+    "terms": []
+  },
+  {
+    "id": "w147",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "chondroitin sulfate",
+    "answerText": "硫酸軟骨素；帶負電 GAG，吸水並提供軟骨抗壓性。",
+    "explain": "硫酸軟骨素；帶負電 GAG，吸水並提供軟骨抗壓性。",
+    "terms": []
+  },
+  {
+    "id": "w148",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.15",
+    "prompt": "hyaluronic acid",
+    "answerText": "玻尿酸；大型 GAG，吸水、潤滑並形成 ECM 基質。",
+    "explain": "玻尿酸；大型 GAG，吸水、潤滑並形成 ECM 基質。",
+    "terms": []
+  },
+  {
+    "id": "w149",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "cadherin",
+    "answerText": "鈣黏蛋白；Ca2+ 依賴的 cell–cell adhesion molecule。",
+    "explain": "鈣黏蛋白；Ca2+ 依賴的 cell–cell adhesion molecule。",
+    "terms": []
+  },
+  {
+    "id": "w150",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "integrin",
+    "answerText": "整合素；跨膜連接 ECM 與 cytoskeleton，並雙向傳訊。",
+    "explain": "整合素；跨膜連接 ECM 與 cytoskeleton，並雙向傳訊。",
+    "terms": []
+  },
+  {
+    "id": "w151",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "tight / occluding junction",
+    "answerText": "緊密連結；claudin/occludin 封住細胞間隙，建立屏障與極性。",
+    "explain": "緊密連結；claudin/occludin 封住細胞間隙，建立屏障與極性。",
+    "terms": []
+  },
+  {
+    "id": "w152",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "occludin / claudin",
+    "answerText": "閉鎖蛋白／claudin；tight junction 的跨膜組成。",
+    "explain": "閉鎖蛋白／claudin；tight junction 的跨膜組成。",
+    "terms": []
+  },
+  {
+    "id": "w153",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "connexin",
+    "answerText": "連接蛋白；六個 connexin 組成 connexon，建立 gap junction 通道。",
+    "explain": "連接蛋白；六個 connexin 組成 connexon，建立 gap junction 通道。",
+    "terms": []
+  },
+  {
+    "id": "w154",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "middle lamella",
+    "answerText": "中膠層；富含 pectin，把相鄰植物細胞壁黏合。",
+    "explain": "中膠層；富含 pectin，把相鄰植物細胞壁黏合。",
+    "terms": []
+  },
+  {
+    "id": "w155",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "plasmodesmata",
+    "answerText": "胞間連絲；穿過植物細胞壁，連通相鄰細胞 cytoplasm。",
+    "explain": "胞間連絲；穿過植物細胞壁，連通相鄰細胞 cytoplasm。",
+    "terms": []
+  },
+  {
+    "id": "w156",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "kinetic / potential energy",
+    "answerText": "動能／位能；運動中的能量與位置／結構儲存的能量。",
+    "explain": "動能／位能；運動中的能量與位置／結構儲存的能量。",
+    "terms": []
+  },
+  {
+    "id": "w157",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "enthalpy",
+    "answerText": "焓 H；系統熱含量，與 entropy 共同決定 ΔG。",
+    "explain": "焓 H；系統熱含量，與 entropy 共同決定 ΔG。",
+    "terms": []
+  },
+  {
+    "id": "w158",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.16",
+    "prompt": "exergonic / endergonic",
+    "answerText": "放能／吸能反應；分別為 ΔG<0 與 ΔG>0。",
+    "explain": "放能／吸能反應；分別為 ΔG<0 與 ΔG>0。",
+    "terms": []
+  },
+  {
+    "id": "w159",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "inhibition",
+    "answerText": "抑制；降低酵素或路徑活性，可為 competitive 或 noncompetitive。",
+    "explain": "抑制；降低酵素或路徑活性，可為 competitive 或 noncompetitive。",
+    "terms": []
+  },
+  {
+    "id": "w160",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "prosthetic group",
+    "answerText": "輔基；永久或緊密結合酵素的非蛋白成分。",
+    "explain": "輔基；永久或緊密結合酵素的非蛋白成分。",
+    "terms": []
+  },
+  {
+    "id": "w161",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "cofactor",
+    "answerText": "輔因子；酵素需要的非蛋白成分，常為金屬離子。",
+    "explain": "輔因子；酵素需要的非蛋白成分，常為金屬離子。",
+    "terms": []
+  },
+  {
+    "id": "w162",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "coenzyme",
+    "answerText": "輔酶；有機 cofactor，常攜帶電子或化學基團。",
+    "explain": "輔酶；有機 cofactor，常攜帶電子或化學基團。",
+    "terms": []
+  },
+  {
+    "id": "w163",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "catabolic pathway",
+    "answerText": "分解代謝途徑；拆分分子並釋能，常產生 ATP/NADH。",
+    "explain": "分解代謝途徑；拆分分子並釋能，常產生 ATP/NADH。",
+    "terms": []
+  },
+  {
+    "id": "w164",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "substrate-level phosphorylation",
+    "answerText": "受質層級磷酸化；酵素把受質上的 phosphate 直接轉給 ADP。",
+    "explain": "受質層級磷酸化；酵素把受質上的 phosphate 直接轉給 ADP。",
+    "terms": []
+  },
+  {
+    "id": "w165",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "chemiosmosis",
+    "answerText": "化學滲透；H+ 沿電化學梯度通過 ATP synthase 產 ATP。",
+    "explain": "化學滲透；H+ 沿電化學梯度通過 ATP synthase 產 ATP。",
+    "terms": []
+  },
+  {
+    "id": "w166",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.17",
+    "prompt": "anabolic pathway",
+    "answerText": "合成代謝途徑；消耗能量建立較複雜分子。",
+    "explain": "合成代謝途徑；消耗能量建立較複雜分子。",
+    "terms": []
+  },
+  {
+    "id": "w167",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.18",
+    "prompt": "allosteric",
+    "answerText": "異位調控；調節分子結合非 active site 改變蛋白構形與活性。",
+    "explain": "異位調控；調節分子結合非 active site 改變蛋白構形與活性。",
+    "terms": []
+  },
+  {
+    "id": "w168",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.18",
+    "prompt": "pyruvate",
+    "answerText": "丙酮酸；glycolysis 的三碳產物，可轉 acetyl-CoA 或發酵。",
+    "explain": "丙酮酸；glycolysis 的三碳產物，可轉 acetyl-CoA 或發酵。",
+    "terms": []
+  },
+  {
+    "id": "w169",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.18",
+    "prompt": "acetyl-CoA",
+    "answerText": "乙醯輔酶 A；把二碳 acetyl group 帶入 TCA cycle。",
+    "explain": "乙醯輔酶 A；把二碳 acetyl group 帶入 TCA cycle。",
+    "terms": []
+  },
+  {
+    "id": "w170",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "citric acid cycle",
+    "answerText": "檸檬酸循環／TCA；氧化 acetyl-CoA 產 NADH、FADH2、GTP/ATP。",
+    "explain": "檸檬酸循環／TCA；氧化 acetyl-CoA 產 NADH、FADH2、GTP/ATP。",
+    "terms": []
+  },
+  {
+    "id": "w171",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "oxaloacetate",
+    "answerText": "草醯乙酸；四碳 TCA 受體，與 acetyl-CoA 形成 citrate。",
+    "explain": "草醯乙酸；四碳 TCA 受體，與 acetyl-CoA 形成 citrate。",
+    "terms": []
+  },
+  {
+    "id": "w172",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "malate",
+    "answerText": "蘋果酸；TCA 中被氧化回 oxaloacetate 並產 NADH。",
+    "explain": "蘋果酸；TCA 中被氧化回 oxaloacetate 並產 NADH。",
+    "terms": []
+  },
+  {
+    "id": "w173",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "fumarate",
+    "answerText": "延胡索酸；TCA 中 succinate 氧化後的四碳中間物。",
+    "explain": "延胡索酸；TCA 中 succinate 氧化後的四碳中間物。",
+    "terms": []
+  },
+  {
+    "id": "w174",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "succinyl-CoA",
+    "answerText": "琥珀醯輔酶 A；TCA 中可經 substrate-level phosphorylation 產 GTP。",
+    "explain": "琥珀醯輔酶 A；TCA 中可經 substrate-level phosphorylation 產 GTP。",
+    "terms": []
+  },
+  {
+    "id": "w175",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "oxidative phosphorylation",
+    "answerText": "氧化磷酸化；ETC 建立 H+ 梯度，再由 ATP synthase 產 ATP。",
+    "explain": "氧化磷酸化；ETC 建立 H+ 梯度，再由 ATP synthase 產 ATP。",
+    "terms": []
+  },
+  {
+    "id": "w176",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "lactate",
+    "answerText": "乳酸；乳酸發酵產物，使 NADH 回氧化成 NAD+。",
+    "explain": "乳酸；乳酸發酵產物，使 NADH 回氧化成 NAD+。",
+    "terms": []
+  },
+  {
+    "id": "w177",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.19",
+    "prompt": "ethanol",
+    "answerText": "乙醇；酵母酒精發酵產物，伴隨 CO2 釋放與 NAD+ 再生。",
+    "explain": "乙醇；酵母酒精發酵產物，伴隨 CO2 釋放與 NAD+ 再生。",
+    "terms": []
+  },
+  {
+    "id": "w178",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.20",
+    "prompt": "antiparallel",
+    "answerText": "反向平行；DNA 兩股方向相反，一股 5′→3′、另一股 3′→5′。",
+    "explain": "反向平行；DNA 兩股方向相反，一股 5′→3′、另一股 3′→5′。",
+    "terms": []
+  },
+  {
+    "id": "w179",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.20",
+    "prompt": "chromatin",
+    "answerText": "染色質；DNA 與 histone 等蛋白質的複合體。",
+    "explain": "染色質；DNA 與 histone 等蛋白質的複合體。",
+    "terms": []
+  },
+  {
+    "id": "w180",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.21",
+    "prompt": "dispersive replication",
+    "answerText": "分散式複製；舊新 DNA 片段混在每股，Meselson–Stahl 已排除。",
+    "explain": "分散式複製；舊新 DNA 片段混在每股，Meselson–Stahl 已排除。",
+    "terms": []
+  },
+  {
+    "id": "w181",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.21",
+    "prompt": "template strand",
+    "answerText": "模板股；polymerase 依互補配對讀取以合成新鏈。",
+    "explain": "模板股；polymerase 依互補配對讀取以合成新鏈。",
+    "terms": []
+  },
+  {
+    "id": "w182",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.21",
+    "prompt": "deoxynucleoside triphosphate (dNTP)",
+    "answerText": "去氧核苷三磷酸；DNA 合成原料，切下 pyrophosphate 驅動反應。",
+    "explain": "去氧核苷三磷酸；DNA 合成原料，切下 pyrophosphate 驅動反應。",
+    "terms": []
+  },
+  {
+    "id": "w183",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.21",
+    "prompt": "replication fork",
+    "answerText": "複製叉；DNA 雙股分開並同步合成 leading/lagging strands 的 Y 形區。",
+    "explain": "複製叉；DNA 雙股分開並同步合成 leading/lagging strands 的 Y 形區。",
+    "terms": []
+  },
+  {
+    "id": "w184",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.21",
+    "prompt": "DNA topoisomerase",
+    "answerText": "DNA 拓樸異構酶；解除複製叉前的過度纏繞與張力。",
+    "explain": "DNA 拓樸異構酶；解除複製叉前的過度纏繞與張力。",
+    "terms": []
+  },
+  {
+    "id": "w185",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.21",
+    "prompt": "DNA primase",
+    "answerText": "DNA 引子酶；合成短 RNA primer 提供 3′-OH。",
+    "explain": "DNA 引子酶；合成短 RNA primer 提供 3′-OH。",
+    "terms": []
+  },
+  {
+    "id": "w186",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.22",
+    "prompt": "senescence",
+    "answerText": "細胞衰老；細胞永久停止分裂但仍具代謝活性，短 telomere 可觸發。",
+    "explain": "細胞衰老；細胞永久停止分裂但仍具代謝活性，短 telomere 可觸發。",
+    "terms": []
+  },
+  {
+    "id": "w187",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.22, 29",
+    "prompt": "nucleosome",
+    "answerText": "核小體；DNA 繞 histone octamer 的染色質基本單位。",
+    "explain": "核小體；DNA 繞 histone octamer 的染色質基本單位。",
+    "terms": []
+  },
+  {
+    "id": "w188",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.22",
+    "prompt": "histone",
+    "answerText": "組蛋白；富含正電胺基酸，包裝負電 DNA 並參與表觀調控。",
+    "explain": "組蛋白；富含正電胺基酸，包裝負電 DNA 並參與表觀調控。",
+    "terms": []
+  },
+  {
+    "id": "w189",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.22",
+    "prompt": "loop domain",
+    "answerText": "環狀區域；染色質形成迴圈，使 enhancer 與 promoter 或邊界元素接近。",
+    "explain": "環狀區域；染色質形成迴圈，使 enhancer 與 promoter 或邊界元素接近。",
+    "terms": []
+  },
+  {
+    "id": "w190",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.22",
+    "prompt": "alkaptonuria",
+    "answerText": "尿黑酸尿症；經典『一基因一酵素』代謝遺傳病例。",
+    "explain": "尿黑酸尿症；經典『一基因一酵素』代謝遺傳病例。",
+    "terms": []
+  },
+  {
+    "id": "w191",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.23",
+    "prompt": "promoter",
+    "answerText": "啟動子；RNA polymerase 與轉錄因子組裝、決定轉錄起點與方向。",
+    "explain": "啟動子；RNA polymerase 與轉錄因子組裝、決定轉錄起點與方向。",
+    "terms": []
+  },
+  {
+    "id": "w192",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.23",
+    "prompt": "terminator",
+    "answerText": "終止子；使轉錄複合體停止並釋放 RNA。",
+    "explain": "終止子；使轉錄複合體停止並釋放 RNA。",
+    "terms": []
+  },
+  {
+    "id": "w193",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.23, 26",
+    "prompt": "regulatory sequence",
+    "answerText": "調控序列；activator/repressor 等結合以改變基因表現。",
+    "explain": "調控序列；activator/repressor 等結合以改變基因表現。",
+    "terms": []
+  },
+  {
+    "id": "w194",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.23",
+    "prompt": "elongation",
+    "answerText": "延伸；polymerase 沿模板移動並延長 RNA 或 DNA。",
+    "explain": "延伸；polymerase 沿模板移動並延長 RNA 或 DNA。",
+    "terms": []
+  },
+  {
+    "id": "w195",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.24, 30",
+    "prompt": "alternative splicing",
+    "answerText": "選擇性剪接；同一 pre-mRNA 選不同 exon 組合，產生多種蛋白。",
+    "explain": "選擇性剪接；同一 pre-mRNA 選不同 exon 組合，產生多種蛋白。",
+    "terms": []
+  },
+  {
+    "id": "w196",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.24",
+    "prompt": "self-splicing",
+    "answerText": "自我剪接；RNA 本身催化 intron 移除，不必依賴 spliceosome。",
+    "explain": "自我剪接；RNA 本身催化 intron 移除，不必依賴 spliceosome。",
+    "terms": []
+  },
+  {
+    "id": "w197",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.24",
+    "prompt": "ribosome-binding site",
+    "answerText": "核糖體結合位；細菌 mRNA 上招募小次單元並定位起始密碼子。",
+    "explain": "核糖體結合位；細菌 mRNA 上招募小次單元並定位起始密碼子。",
+    "terms": []
+  },
+  {
+    "id": "w198",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.24",
+    "prompt": "start codon",
+    "answerText": "起始密碼子；通常 AUG，設定 reading frame 並編碼 Met/fMet。",
+    "explain": "起始密碼子；通常 AUG，設定 reading frame 並編碼 Met/fMet。",
+    "terms": []
+  },
+  {
+    "id": "w199",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.24",
+    "prompt": "methionine (Met)",
+    "answerText": "甲硫胺酸；真核翻譯起始胺基酸，密碼子 AUG。",
+    "explain": "甲硫胺酸；真核翻譯起始胺基酸，密碼子 AUG。",
+    "terms": []
+  },
+  {
+    "id": "w200",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.24",
+    "prompt": "RNA triplet",
+    "answerText": "RNA 三聯體；三個核苷酸構成 codon 或 anticodon。",
+    "explain": "RNA 三聯體；三個核苷酸構成 codon 或 anticodon。",
+    "terms": []
+  },
+  {
+    "id": "w201",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.25",
+    "prompt": "aminoacyl-tRNA synthetase",
+    "answerText": "胺醯-tRNA 合成酶；把正確 amino acid 接到對應 tRNA，決定翻譯準確性。",
+    "explain": "胺醯-tRNA 合成酶；把正確 amino acid 接到對應 tRNA，決定翻譯準確性。",
+    "terms": []
+  },
+  {
+    "id": "w202",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.25",
+    "prompt": "second genetic code",
+    "answerText": "第二遺傳密碼；synthetase 依 tRNA identity elements 配對胺基酸的規則。",
+    "explain": "第二遺傳密碼；synthetase 依 tRNA identity elements 配對胺基酸的規則。",
+    "terms": []
+  },
+  {
+    "id": "w203",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.25",
+    "prompt": "aminoacyl (A) site",
+    "answerText": "A 位；接收帶下一個胺基酸的 aminoacyl-tRNA。",
+    "explain": "A 位；接收帶下一個胺基酸的 aminoacyl-tRNA。",
+    "terms": []
+  },
+  {
+    "id": "w204",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.25",
+    "prompt": "peptidyl (P) site",
+    "answerText": "P 位；持有連著成長中多肽的 tRNA。",
+    "explain": "P 位；持有連著成長中多肽的 tRNA。",
+    "terms": []
+  },
+  {
+    "id": "w205",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.25",
+    "prompt": "exit (E) site",
+    "answerText": "E 位；已卸載胺基酸的 tRNA 離開核糖體。",
+    "explain": "E 位；已卸載胺基酸的 tRNA 離開核糖體。",
+    "terms": []
+  },
+  {
+    "id": "w206",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.25, 40",
+    "prompt": "untranslated region (UTR)",
+    "answerText": "非轉譯區；位於 coding region 兩端，調控轉譯與 mRNA 穩定。",
+    "explain": "非轉譯區；位於 coding region 兩端，調控轉譯與 mRNA 穩定。",
+    "terms": []
+  },
+  {
+    "id": "w207",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "chloramphenicol",
+    "answerText": "氯黴素；抑制細菌核糖體 peptidyl transferase／肽鍵形成。",
+    "explain": "氯黴素；抑制細菌核糖體 peptidyl transferase／肽鍵形成。",
+    "terms": []
+  },
+  {
+    "id": "w208",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "erythromycin",
+    "answerText": "紅黴素；macrolide，阻礙細菌核糖體 translocation。",
+    "explain": "紅黴素；macrolide，阻礙細菌核糖體 translocation。",
+    "terms": []
+  },
+  {
+    "id": "w209",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "puromycin",
+    "answerText": "嘌呤黴素；模擬 aminoacyl-tRNA，引發多肽提前終止。",
+    "explain": "嘌呤黴素；模擬 aminoacyl-tRNA，引發多肽提前終止。",
+    "terms": []
+  },
+  {
+    "id": "w210",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "tetracycline",
+    "answerText": "四環黴素；阻止 aminoacyl-tRNA 進入細菌 A site。",
+    "explain": "四環黴素；阻止 aminoacyl-tRNA 進入細菌 A site。",
+    "terms": []
+  },
+  {
+    "id": "w211",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "streptomycin",
+    "answerText": "鏈黴素；aminoglycoside，造成起始／解碼錯誤與誤讀。",
+    "explain": "鏈黴素；aminoglycoside，造成起始／解碼錯誤與誤讀。",
+    "terms": []
+  },
+  {
+    "id": "w212",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "repressor",
+    "answerText": "抑制蛋白；結合 operator/silencer 降低轉錄。",
+    "explain": "抑制蛋白；結合 operator/silencer 降低轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w213",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "activator",
+    "answerText": "活化蛋白；結合 regulatory sequence 招募或穩定轉錄機器。",
+    "explain": "活化蛋白；結合 regulatory sequence 招募或穩定轉錄機器。",
+    "terms": []
+  },
+  {
+    "id": "w214",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "operon",
+    "answerText": "操縱組；細菌多個基因共用 promoter/operator 並轉成 polycistronic mRNA。",
+    "explain": "操縱組；細菌多個基因共用 promoter/operator 並轉成 polycistronic mRNA。",
+    "terms": []
+  },
+  {
+    "id": "w215",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "merozygote",
+    "answerText": "部分二倍體；細菌帶同一基因的染色體與質體副本，用於 cis/trans 測試。",
+    "explain": "部分二倍體；細菌帶同一基因的染色體與質體副本，用於 cis/trans 測試。",
+    "terms": []
+  },
+  {
+    "id": "w216",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "sonicator",
+    "answerText": "超音波震盪器；利用空化作用破碎細胞。",
+    "explain": "超音波震盪器；利用空化作用破碎細胞。",
+    "terms": []
+  },
+  {
+    "id": "w217",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "lactose analogue",
+    "answerText": "乳糖類似物；可誘導 lac operon 或作 β-galactosidase 顯色底物。",
+    "explain": "乳糖類似物；可誘導 lac operon 或作 β-galactosidase 顯色底物。",
+    "terms": []
+  },
+  {
+    "id": "w218",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.26",
+    "prompt": "spectrophotometer",
+    "answerText": "分光光度計；量吸光度以估濃度、酵素活性或細胞密度。",
+    "explain": "分光光度計；量吸光度以估濃度、酵素活性或細胞密度。",
+    "terms": []
+  },
+  {
+    "id": "w219",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.27",
+    "prompt": "lac promoter / lac terminator",
+    "answerText": "lac 啟動子／終止子；界定 lac operon 的轉錄起訖。",
+    "explain": "lac 啟動子／終止子；界定 lac operon 的轉錄起訖。",
+    "terms": []
+  },
+  {
+    "id": "w220",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.27",
+    "prompt": "tetramer",
+    "answerText": "四聚體；四個亞基組成的蛋白複合體，如 lac repressor。",
+    "explain": "四聚體；四個亞基組成的蛋白複合體，如 lac repressor。",
+    "terms": []
+  },
+  {
+    "id": "w221",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.27",
+    "prompt": "basal-level transcription",
+    "answerText": "基礎轉錄；缺乏強活化時仍存在的低量轉錄。",
+    "explain": "基礎轉錄；缺乏強活化時仍存在的低量轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w222",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "embryo / fetus / adult",
+    "answerText": "胚胎／胎兒／成人；人類發育階段，globin 基因表現不同。",
+    "explain": "胚胎／胎兒／成人；人類發育階段，globin 基因表現不同。",
+    "terms": []
+  },
+  {
+    "id": "w223",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "modulation",
+    "answerText": "調節；以 phosphorylation、acetylation 等改變蛋白活性。",
+    "explain": "調節；以 phosphorylation、acetylation 等改變蛋白活性。",
+    "terms": []
+  },
+  {
+    "id": "w224",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "enhancer",
+    "answerText": "增強子；activator 結合後可遠距提高真核轉錄。",
+    "explain": "增強子；activator 結合後可遠距提高真核轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w225",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "silencer",
+    "answerText": "沉默子；repressor 結合後降低轉錄。",
+    "explain": "沉默子；repressor 結合後降低轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w226",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "general transcription factors (GTFs)",
+    "answerText": "一般轉錄因子；與 RNA Pol II 在 core promoter 組裝起始複合體。",
+    "explain": "一般轉錄因子；與 RNA Pol II 在 core promoter 組裝起始複合體。",
+    "terms": []
+  },
+  {
+    "id": "w227",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "preinitiation complex (PIC)",
+    "answerText": "轉錄前起始複合體；GTFs + RNA Pol II 等在 promoter 的組合。",
+    "explain": "轉錄前起始複合體；GTFs + RNA Pol II 等在 promoter 的組合。",
+    "terms": []
+  },
+  {
+    "id": "w228",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28",
+    "prompt": "mediator",
+    "answerText": "媒介體；大型複合體，連接遠端 activator 與 Pol II/PIC。",
+    "explain": "媒介體；大型複合體，連接遠端 activator 與 Pol II/PIC。",
+    "terms": []
+  },
+  {
+    "id": "w229",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.28, 30",
+    "prompt": "DNA methylation",
+    "answerText": "DNA 甲基化；哺乳類常在 CpG cytosine 加甲基，通常抑制轉錄。",
+    "explain": "DNA 甲基化；哺乳類常在 CpG cytosine 加甲基，通常抑制轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w230",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.29",
+    "prompt": "histone acetyltransferase",
+    "answerText": "組蛋白乙醯轉移酶；乙醯化 histone Lys，通常鬆開染色質。",
+    "explain": "組蛋白乙醯轉移酶；乙醯化 histone Lys，通常鬆開染色質。",
+    "terms": []
+  },
+  {
+    "id": "w231",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.29",
+    "prompt": "nucleosome-free region",
+    "answerText": "無核小體區；promoter 等調控區裸露，便於蛋白結合。",
+    "explain": "無核小體區；promoter 等調控區裸露，便於蛋白結合。",
+    "terms": []
+  },
+  {
+    "id": "w232",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.29",
+    "prompt": "evicted histone",
+    "answerText": "被移出的組蛋白；轉錄時 nucleosome 可暫時拆除後再裝回。",
+    "explain": "被移出的組蛋白；轉錄時 nucleosome 可暫時拆除後再裝回。",
+    "terms": []
+  },
+  {
+    "id": "w233",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "DNA methylase",
+    "answerText": "DNA 甲基轉移酶；催化 DNA 加甲基。",
+    "explain": "DNA 甲基轉移酶；催化 DNA 加甲基。",
+    "terms": []
+  },
+  {
+    "id": "w234",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "heterochromatin",
+    "answerText": "異染色質；高度緊密、通常低轉錄。",
+    "explain": "異染色質；高度緊密、通常低轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w235",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "euchromatin",
+    "answerText": "常染色質；較鬆散、通常較易轉錄。",
+    "explain": "常染色質；較鬆散、通常較易轉錄。",
+    "terms": []
+  },
+  {
+    "id": "w236",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "facultative heterochromatin",
+    "answerText": "兼性異染色質；依細胞型或狀態可開關，如 inactive X。",
+    "explain": "兼性異染色質；依細胞型或狀態可開關，如 inactive X。",
+    "terms": []
+  },
+  {
+    "id": "w237",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "constitutive heterochromatin",
+    "answerText": "組成性異染色質；長期緊密，常見於 centromere/repeats。",
+    "explain": "組成性異染色質；長期緊密，常見於 centromere/repeats。",
+    "terms": []
+  },
+  {
+    "id": "w238",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "striated muscle",
+    "answerText": "橫紋肌；alternative splicing 的 tropomyosin 經典例。",
+    "explain": "橫紋肌；alternative splicing 的 tropomyosin 經典例。",
+    "terms": []
+  },
+  {
+    "id": "w239",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "ferritin",
+    "answerText": "鐵蛋白；安全儲存鐵，避免 free iron 產生活性氧。",
+    "explain": "鐵蛋白；安全儲存鐵，避免 free iron 產生活性氧。",
+    "terms": []
+  },
+  {
+    "id": "w240",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.30",
+    "prompt": "iron regulatory protein (IRP)",
+    "answerText": "鐵調節蛋白；低鐵時結合 ferritin mRNA 5′UTR 抑制翻譯。",
+    "explain": "鐵調節蛋白；低鐵時結合 ferritin mRNA 5′UTR 抑制翻譯。",
+    "terms": []
+  },
+  {
+    "id": "w241",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "scaffold",
+    "answerText": "支架；ncRNA 或蛋白可同時招募多個成分形成複合體。",
+    "explain": "支架；ncRNA 或蛋白可同時招募多個成分形成複合體。",
+    "terms": []
+  },
+  {
+    "id": "w242",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "decoy",
+    "answerText": "誘餌；ncRNA 模擬結合位，把調控蛋白隔離。",
+    "explain": "誘餌；ncRNA 模擬結合位，把調控蛋白隔離。",
+    "terms": []
+  },
+  {
+    "id": "w243",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "sequester",
+    "answerText": "隔離；把分子困住，使其無法作用於原標的。",
+    "explain": "隔離；把分子困住，使其無法作用於原標的。",
+    "terms": []
+  },
+  {
+    "id": "w244",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "small-interfering RNA (siRNA)",
+    "answerText": "小干擾 RNA；多源自外源 dsRNA，引導 RISC 切解互補 mRNA。",
+    "explain": "小干擾 RNA；多源自外源 dsRNA，引導 RISC 切解互補 mRNA。",
+    "terms": []
+  },
+  {
+    "id": "w245",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "exogenous source",
+    "answerText": "外源來源；來自細胞外或外來 DNA/RNA。",
+    "explain": "外源來源；來自細胞外或外來 DNA/RNA。",
+    "terms": []
+  },
+  {
+    "id": "w246",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "Dicer",
+    "answerText": "Dicer 酶；把 dsRNA/hairpin 切成約 20–25 nt 小 RNA。",
+    "explain": "Dicer 酶；把 dsRNA/hairpin 切成約 20–25 nt 小 RNA。",
+    "terms": []
+  },
+  {
+    "id": "w247",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "RNA-induced silencing complex (RISC)",
+    "answerText": "RNA 誘導沉默複合體；用小 RNA 導引抑制翻譯或切解 mRNA。",
+    "explain": "RNA 誘導沉默複合體；用小 RNA 導引抑制翻譯或切解 mRNA。",
+    "terms": []
+  },
+  {
+    "id": "w248",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.31",
+    "prompt": "knockdown",
+    "answerText": "基因敲低；降低表現但通常不刪除基因。",
+    "explain": "基因敲低；降低表現但通常不刪除基因。",
+    "terms": []
+  },
+  {
+    "id": "w249",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32",
+    "prompt": "bacteriophage",
+    "answerText": "噬菌體；感染細菌的病毒，CRISPR spacer 常源自其 DNA。",
+    "explain": "噬菌體；感染細菌的病毒，CRISPR spacer 常源自其 DNA。",
+    "terms": []
+  },
+  {
+    "id": "w250",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32, 43",
+    "prompt": "palindromic",
+    "answerText": "回文序列；兩股以相同 5′→3′ 方式讀取，常為限制酶辨識位。",
+    "explain": "回文序列；兩股以相同 5′→3′ 方式讀取，常為限制酶辨識位。",
+    "terms": []
+  },
+  {
+    "id": "w251",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32",
+    "prompt": "tracrRNA–crRNA–Cas9 complex",
+    "answerText": "CRISPR 核酸酶複合體；RNA 導引 Cas9 到互補 DNA。",
+    "explain": "CRISPR 核酸酶複合體；RNA 導引 Cas9 到互補 DNA。",
+    "terms": []
+  },
+  {
+    "id": "w252",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32",
+    "prompt": "single-guide RNA (sgRNA)",
+    "answerText": "單導引 RNA；把 crRNA 與 tracrRNA 合併，決定 Cas9 標的。",
+    "explain": "單導引 RNA；把 crRNA 與 tracrRNA 合併，決定 Cas9 標的。",
+    "terms": []
+  },
+  {
+    "id": "w253",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32",
+    "prompt": "end joining",
+    "answerText": "末端連接；修復 DNA 雙股斷裂，易產生 indel。",
+    "explain": "末端連接；修復 DNA 雙股斷裂，易產生 indel。",
+    "terms": []
+  },
+  {
+    "id": "w254",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32",
+    "prompt": "double crossover",
+    "answerText": "雙互換；兩次同源重組可精準替換特定 DNA 區。",
+    "explain": "雙互換；兩次同源重組可精準替換特定 DNA 區。",
+    "terms": []
+  },
+  {
+    "id": "w255",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.32",
+    "prompt": "knockout",
+    "answerText": "基因剔除；使基因失去功能，用來研究表型或治療。",
+    "explain": "基因剔除；使基因失去功能，用來研究表型或治療。",
+    "terms": []
+  },
+  {
+    "id": "w256",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "locus",
+    "answerText": "基因座；基因或標記在染色體上的固定位置。",
+    "explain": "基因座；基因或標記在染色體上的固定位置。",
+    "terms": []
+  },
+  {
+    "id": "w257",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "binary fission",
+    "answerText": "二分裂；原核細胞複製 DNA 後分成兩個細胞。",
+    "explain": "二分裂；原核細胞複製 DNA 後分成兩個細胞。",
+    "terms": []
+  },
+  {
+    "id": "w258",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "spindle fiber",
+    "answerText": "紡錘絲；微管組成，捕捉並移動染色體。",
+    "explain": "紡錘絲；微管組成，捕捉並移動染色體。",
+    "terms": []
+  },
+  {
+    "id": "w259",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "asexual / sexual reproduction",
+    "answerText": "無性／有性生殖；前者重複基因型，後者經 meiosis 與 fertilization 產生變異。",
+    "explain": "無性／有性生殖；前者重複基因型，後者經 meiosis 與 fertilization 產生變異。",
+    "terms": []
+  },
+  {
+    "id": "w260",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "mitotic / meiotic",
+    "answerText": "有絲分裂的／減數分裂的；分別維持套數與產生單倍體。",
+    "explain": "有絲分裂的／減數分裂的；分別維持套數與產生單倍體。",
+    "terms": []
+  },
+  {
+    "id": "w261",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "recombination",
+    "answerText": "重組；DNA 片段交換，減數分裂 crossing over 可產新等位組合。",
+    "explain": "重組；DNA 片段交換，減數分裂 crossing over 可產新等位組合。",
+    "terms": []
+  },
+  {
+    "id": "w262",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "karyotype",
+    "answerText": "核型；依大小、centromere 與 banding 排列染色體。",
+    "explain": "核型；依大小、centromere 與 banding 排列染色體。",
+    "terms": []
+  },
+  {
+    "id": "w263",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "amniotic fluid",
+    "answerText": "羊水；羊膜穿刺可取得胎兒細胞做核型分析。",
+    "explain": "羊水；羊膜穿刺可取得胎兒細胞做核型分析。",
+    "terms": []
+  },
+  {
+    "id": "w264",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "supernatant",
+    "answerText": "上清液；離心後位於沉澱上方的液相。",
+    "explain": "上清液；離心後位於沉澱上方的液相。",
+    "terms": []
+  },
+  {
+    "id": "w265",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "fixative / stain",
+    "answerText": "固定液／染劑；保存細胞結構並增加染色體對比。",
+    "explain": "固定液／染劑；保存細胞結構並增加染色體對比。",
+    "terms": []
+  },
+  {
+    "id": "w266",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "homologues",
+    "answerText": "同源染色體；一父一母，具有相同基因座但等位基因可不同。",
+    "explain": "同源染色體；一父一母，具有相同基因座但等位基因可不同。",
+    "terms": []
+  },
+  {
+    "id": "w267",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "sister chromatids",
+    "answerText": "姊妹染色分體；S phase 複製後、以 centromere 相連的相同 DNA。",
+    "explain": "姊妹染色分體；S phase 複製後、以 centromere 相連的相同 DNA。",
+    "terms": []
+  },
+  {
+    "id": "w268",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.33",
+    "prompt": "centromere",
+    "answerText": "著絲點／中節；kinetochore 組裝與姊妹染色分體連結的位置。",
+    "explain": "著絲點／中節；kinetochore 組裝與姊妹染色分體連結的位置。",
+    "terms": []
+  },
+  {
+    "id": "w269",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.34",
+    "prompt": "interphase",
+    "answerText": "間期；G1、S、G2，細胞生長並複製 DNA。",
+    "explain": "間期；G1、S、G2，細胞生長並複製 DNA。",
+    "terms": []
+  },
+  {
+    "id": "w270",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.34",
+    "prompt": "mitotic phase",
+    "answerText": "分裂期；mitosis + cytokinesis。",
+    "explain": "分裂期；mitosis + cytokinesis。",
+    "terms": []
+  },
+  {
+    "id": "w271",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.34",
+    "prompt": "prophase / prometaphase / metaphase",
+    "answerText": "前期／前中期／中期；染色體凝縮、核膜破裂連接紡錘、排列中期板。",
+    "explain": "前期／前中期／中期；染色體凝縮、核膜破裂連接紡錘、排列中期板。",
+    "terms": []
+  },
+  {
+    "id": "w272",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.34",
+    "prompt": "anaphase / telophase / cytokinesis",
+    "answerText": "後期／末期／胞質分裂；分離、重建細胞核並切開細胞質。",
+    "explain": "後期／末期／胞質分裂；分離、重建細胞核並切開細胞質。",
+    "terms": []
+  },
+  {
+    "id": "w273",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.34",
+    "prompt": "cyclin-dependent kinase (Cdk)",
+    "answerText": "週期蛋白依賴激酶；與 cyclin 結合後推進細胞週期。",
+    "explain": "週期蛋白依賴激酶；與 cyclin 結合後推進細胞週期。",
+    "terms": []
+  },
+  {
+    "id": "w274",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.35",
+    "prompt": "centriole pair / centrosome",
+    "answerText": "中心粒對／中心體；動物細胞主要微管組織中心，形成紡錘兩極。",
+    "explain": "中心粒對／中心體；動物細胞主要微管組織中心，形成紡錘兩極。",
+    "terms": []
+  },
+  {
+    "id": "w275",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.35",
+    "prompt": "astral microtubule",
+    "answerText": "星狀微管；連接細胞皮質以定位紡錘體。",
+    "explain": "星狀微管；連接細胞皮質以定位紡錘體。",
+    "terms": []
+  },
+  {
+    "id": "w276",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.35",
+    "prompt": "kinetochore",
+    "answerText": "動粒；centromere 上的蛋白複合體，與 spindle microtubule 結合。",
+    "explain": "動粒；centromere 上的蛋白複合體，與 spindle microtubule 結合。",
+    "terms": []
+  },
+  {
+    "id": "w277",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.35",
+    "prompt": "metaphase plate",
+    "answerText": "中期板；染色體於細胞中央排列的假想平面。",
+    "explain": "中期板；染色體於細胞中央排列的假想平面。",
+    "terms": []
+  },
+  {
+    "id": "w278",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "myosin",
+    "answerText": "肌凝蛋白；motor protein，與 actin 形成收縮環或肌肉收縮。",
+    "explain": "肌凝蛋白；motor protein，與 actin 形成收縮環或肌肉收縮。",
+    "terms": []
+  },
+  {
+    "id": "w279",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36, 43",
+    "prompt": "metastatic",
+    "answerText": "轉移性的；癌細胞可離開原處並在遠端建立腫瘤。",
+    "explain": "轉移性的；癌細胞可離開原處並在遠端建立腫瘤。",
+    "terms": []
+  },
+  {
+    "id": "w280",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "taxol",
+    "answerText": "紫杉醇；穩定 microtubule、阻止去聚合，使細胞停在 mitosis。",
+    "explain": "紫杉醇；穩定 microtubule、阻止去聚合，使細胞停在 mitosis。",
+    "terms": []
+  },
+  {
+    "id": "w281",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "vinblastine",
+    "answerText": "長春鹼；抑制 microtubule 聚合，阻斷紡錘體形成。",
+    "explain": "長春鹼；抑制 microtubule 聚合，阻斷紡錘體形成。",
+    "terms": []
+  },
+  {
+    "id": "w282",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "autosomes",
+    "answerText": "常染色體；非性染色體，人類有 22 對。",
+    "explain": "常染色體；非性染色體，人類有 22 對。",
+    "terms": []
+  },
+  {
+    "id": "w283",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36, 40",
+    "prompt": "somatic cells",
+    "answerText": "體細胞；不直接形成配子，突變通常只影響部分身體細胞。",
+    "explain": "體細胞；不直接形成配子，突變通常只影響部分身體細胞。",
+    "terms": []
+  },
+  {
+    "id": "w284",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "synapsis",
+    "answerText": "聯會；meiosis I 同源染色體配對。",
+    "explain": "聯會；meiosis I 同源染色體配對。",
+    "terms": []
+  },
+  {
+    "id": "w285",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "bivalent / tetrad",
+    "answerText": "二價體／四分體；一對同源染色體、共四條 chromatids。",
+    "explain": "二價體／四分體；一對同源染色體、共四條 chromatids。",
+    "terms": []
+  },
+  {
+    "id": "w286",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "DNA recombinase",
+    "answerText": "DNA 重組酶；促進同源 DNA 配對與股交換。",
+    "explain": "DNA 重組酶；促進同源 DNA 配對與股交換。",
+    "terms": []
+  },
+  {
+    "id": "w287",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.36",
+    "prompt": "chiasma",
+    "answerText": "交叉點；crossing over 後同源染色體可見的連結位置。",
+    "explain": "交叉點；crossing over 後同源染色體可見的連結位置。",
+    "terms": []
+  },
+  {
+    "id": "w288",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.37",
+    "prompt": "haploid",
+    "answerText": "單倍體；每類染色體一套 n。",
+    "explain": "單倍體；每類染色體一套 n。",
+    "terms": []
+  },
+  {
+    "id": "w289",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.37",
+    "prompt": "orientation",
+    "answerText": "方向排列；metaphase I 同源對的隨機方向造成 independent assortment。",
+    "explain": "方向排列；metaphase I 同源對的隨機方向造成 independent assortment。",
+    "terms": []
+  },
+  {
+    "id": "w290",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.37",
+    "prompt": "fidelity",
+    "answerText": "忠實度；mitosis 偏重準確複製，meiosis 偏重產生變異。",
+    "explain": "忠實度；mitosis 偏重準確複製，meiosis 偏重產生變異。",
+    "terms": []
+  },
+  {
+    "id": "w291",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.38",
+    "prompt": "metacentric / submetacentric",
+    "answerText": "中著絲／次中著絲染色體；centromere 在中央或稍偏。",
+    "explain": "中著絲／次中著絲染色體；centromere 在中央或稍偏。",
+    "terms": []
+  },
+  {
+    "id": "w292",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.38",
+    "prompt": "acrocentric / telocentric",
+    "answerText": "近端著絲／端著絲染色體；centromere 近端或位於末端。",
+    "explain": "近端著絲／端著絲染色體；centromere 近端或位於末端。",
+    "terms": []
+  },
+  {
+    "id": "w293",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.38",
+    "prompt": "cri du chat syndrome",
+    "answerText": "貓哭症候群；chromosome 5p deletion，常有特徵性哭聲與發育問題。",
+    "explain": "貓哭症候群；chromosome 5p deletion，常有特徵性哭聲與發育問題。",
+    "terms": []
+  },
+  {
+    "id": "w294",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "chronic myelogenous leukemia (CML)",
+    "answerText": "慢性骨髓性白血病；t(9;22) Philadelphia chromosome 產生 BCR–ABL。",
+    "explain": "慢性骨髓性白血病；t(9;22) Philadelphia chromosome 產生 BCR–ABL。",
+    "terms": []
+  },
+  {
+    "id": "w295",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "nondisjunction",
+    "answerText": "染色體不分離；homologues 或 sister chromatids 未正常分開。",
+    "explain": "染色體不分離；homologues 或 sister chromatids 未正常分開。",
+    "terms": []
+  },
+  {
+    "id": "w296",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "euploidy / polyploidy",
+    "answerText": "整倍體／多倍體；整套染色體數改變，如 3n、4n。",
+    "explain": "整倍體／多倍體；整套染色體數改變，如 3n、4n。",
+    "terms": []
+  },
+  {
+    "id": "w297",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "triploid / tetraploid",
+    "answerText": "三倍體／四倍體；分別有 3 或 4 套染色體。",
+    "explain": "三倍體／四倍體；分別有 3 或 4 套染色體。",
+    "terms": []
+  },
+  {
+    "id": "w298",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "aneuploidy",
+    "answerText": "非整倍體；單一染色體多或少，如 trisomy、monosomy。",
+    "explain": "非整倍體；單一染色體多或少，如 trisomy、monosomy。",
+    "terms": []
+  },
+  {
+    "id": "w299",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "trisomic / monosomic",
+    "answerText": "三體／單體；2n+1 或 2n−1。",
+    "explain": "三體／單體；2n+1 或 2n−1。",
+    "terms": []
+  },
+  {
+    "id": "w300",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.39",
+    "prompt": "Down / Edwards / Patau syndrome",
+    "answerText": "唐氏／愛德華氏／巴陶氏症候群；trisomy 21／18／13。",
+    "explain": "唐氏／愛德華氏／巴陶氏症候群；trisomy 21／18／13。",
+    "terms": []
+  },
+  {
+    "id": "w301",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.40",
+    "prompt": "xeroderma pigmentosum (XP)",
+    "answerText": "著色性乾皮症；NER 缺陷，對 UV 極敏感且皮膚癌風險高。",
+    "explain": "著色性乾皮症；NER 缺陷，對 UV 極敏感且皮膚癌風險高。",
+    "terms": []
+  },
+  {
+    "id": "w302",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.40",
+    "prompt": "base substitution",
+    "answerText": "鹼基置換；一個 base pair 被另一個取代，可 silent/missense/nonsense。",
+    "explain": "鹼基置換；一個 base pair 被另一個取代，可 silent/missense/nonsense。",
+    "terms": []
+  },
+  {
+    "id": "w303",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.40",
+    "prompt": "Marfan syndrome",
+    "answerText": "馬凡氏症候群；常由 FBN1 變異，影響結締組織、骨骼與主動脈。",
+    "explain": "馬凡氏症候群；常由 FBN1 變異，影響結締組織、骨骼與主動脈。",
+    "terms": []
+  },
+  {
+    "id": "w304",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.40",
+    "prompt": "germ-line cell / gamete",
+    "answerText": "生殖系細胞／配子；其突變可傳給後代。",
+    "explain": "生殖系細胞／配子；其突變可傳給後代。",
+    "terms": []
+  },
+  {
+    "id": "w305",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.40",
+    "prompt": "genetic mosaic",
+    "answerText": "遺傳鑲嵌；同一個體含不同基因型的細胞群，常由早期體細胞突變造成。",
+    "explain": "遺傳鑲嵌；同一個體含不同基因型的細胞群，常由早期體細胞突變造成。",
+    "terms": []
+  },
+  {
+    "id": "w306",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41；中 p.4",
+    "prompt": "transposon",
+    "answerText": "轉位子；可在 genome 內移動的 DNA 元件，可能造成插入突變。",
+    "explain": "轉位子；可在 genome 內移動的 DNA 元件，可能造成插入突變。",
+    "terms": []
+  },
+  {
+    "id": "w307",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "mutagen",
+    "answerText": "誘變劑；提高突變率的化學或物理因子。",
+    "explain": "誘變劑；提高突變率的化學或物理因子。",
+    "terms": []
+  },
+  {
+    "id": "w308",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "nitrous acid",
+    "answerText": "亞硝酸；使鹼基去胺，造成 transition mutation。",
+    "explain": "亞硝酸；使鹼基去胺，造成 transition mutation。",
+    "terms": []
+  },
+  {
+    "id": "w309",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "hypoxanthine",
+    "answerText": "次黃嘌呤；adenine 去胺產物，會與 C 配對而導致 A:T→G:C。",
+    "explain": "次黃嘌呤；adenine 去胺產物，會與 C 配對而導致 A:T→G:C。",
+    "terms": []
+  },
+  {
+    "id": "w310",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "Ames test",
+    "answerText": "Ames 試驗；用 Salmonella 回復突變偵測化學物的致突變性。",
+    "explain": "Ames 試驗；用 Salmonella 回復突變偵測化學物的致突變性。",
+    "terms": []
+  },
+  {
+    "id": "w311",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "Salmonella typhimurium",
+    "answerText": "鼠傷寒沙門氏菌；Ames test 常用、需 histidine 的突變株。",
+    "explain": "鼠傷寒沙門氏菌；Ames test 常用、需 histidine 的突變株。",
+    "terms": []
+  },
+  {
+    "id": "w312",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "thymine dimer",
+    "answerText": "胸腺嘧啶二聚體；UV 造成相鄰 pyrimidines 共價連結，扭曲 DNA。",
+    "explain": "胸腺嘧啶二聚體；UV 造成相鄰 pyrimidines 共價連結，扭曲 DNA。",
+    "terms": []
+  },
+  {
+    "id": "w313",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "alkyltransferase",
+    "answerText": "烷基轉移酶；直接修復，把 DNA 上異常 alkyl group 轉走。",
+    "explain": "烷基轉移酶；直接修復，把 DNA 上異常 alkyl group 轉走。",
+    "terms": []
+  },
+  {
+    "id": "w314",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.41",
+    "prompt": "excision repair",
+    "answerText": "切除修復；移除含損傷 nucleotides 的片段後重合成。",
+    "explain": "切除修復；移除含損傷 nucleotides 的片段後重合成。",
+    "terms": []
+  },
+  {
+    "id": "w315",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "Cockayne syndrome",
+    "answerText": "柯凱因氏症候群；轉錄耦聯修復缺陷，早衰、光敏感但癌風險型態不同 XP。",
+    "explain": "柯凱因氏症候群；轉錄耦聯修復缺陷，早衰、光敏感但癌風險型態不同 XP。",
+    "terms": []
+  },
+  {
+    "id": "w316",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "premature aging",
+    "answerText": "早衰；組織過早出現老化表徵，可與 DNA repair 缺陷相關。",
+    "explain": "早衰；組織過早出現老化表徵，可與 DNA repair 缺陷相關。",
+    "terms": []
+  },
+  {
+    "id": "w317",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "proto-oncogene",
+    "answerText": "原致癌基因；正常促進生長／存活，gain-of-function 可變 oncogene。",
+    "explain": "原致癌基因；正常促進生長／存活，gain-of-function 可變 oncogene。",
+    "terms": []
+  },
+  {
+    "id": "w318",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "oncogene",
+    "answerText": "致癌基因；過度活化即可促進不受控增生。",
+    "explain": "致癌基因；過度活化即可促進不受控增生。",
+    "terms": []
+  },
+  {
+    "id": "w319",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "exogenous / endogenous",
+    "answerText": "外源／內源；癌基因來源或致病因子可來自外界或體內。",
+    "explain": "外源／內源；癌基因來源或致病因子可來自外界或體內。",
+    "terms": []
+  },
+  {
+    "id": "w320",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "sarcoma",
+    "answerText": "肉瘤；源自結締、骨、肌等間葉組織的惡性腫瘤。",
+    "explain": "肉瘤；源自結締、骨、肌等間葉組織的惡性腫瘤。",
+    "terms": []
+  },
+  {
+    "id": "w321",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "retroviral insertion",
+    "answerText": "反轉錄病毒插入；病毒 DNA 插入宿主調控區可能活化 proto-oncogene。",
+    "explain": "反轉錄病毒插入；病毒 DNA 插入宿主調控區可能活化 proto-oncogene。",
+    "terms": []
+  },
+  {
+    "id": "w322",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "chimeric gene",
+    "answerText": "嵌合基因；染色體重排融合兩基因，如 BCR–ABL。",
+    "explain": "嵌合基因；染色體重排融合兩基因，如 BCR–ABL。",
+    "terms": []
+  },
+  {
+    "id": "w323",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "human papillomavirus (HPV)",
+    "answerText": "人類乳突病毒；高風險型 E6/E7 抑制 p53/Rb，促進子宮頸等癌症。",
+    "explain": "人類乳突病毒；高風險型 E6/E7 抑制 p53/Rb，促進子宮頸等癌症。",
+    "terms": []
+  },
+  {
+    "id": "w324",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.42",
+    "prompt": "tumor-suppressor gene",
+    "answerText": "腫瘤抑制基因；限制增生、修復 DNA 或促凋亡，失功能會致癌。",
+    "explain": "腫瘤抑制基因；限制增生、修復 DNA 或促凋亡，失功能會致癌。",
+    "terms": []
+  },
+  {
+    "id": "w325",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43；中 p.18",
+    "prompt": "epithelium",
+    "answerText": "上皮；覆蓋身體表面與腔道，許多 carcinoma 起源於此。",
+    "explain": "上皮；覆蓋身體表面與腔道，許多 carcinoma 起源於此。",
+    "terms": []
+  },
+  {
+    "id": "w326",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "hyperplasia",
+    "answerText": "增生；細胞數增加，尚不等同癌但可為進程早期。",
+    "explain": "增生；細胞數增加，尚不等同癌但可為進程早期。",
+    "terms": []
+  },
+  {
+    "id": "w327",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "ciliated",
+    "answerText": "具纖毛的；肺癌進程中纖毛上皮可減少。",
+    "explain": "具纖毛的；肺癌進程中纖毛上皮可減少。",
+    "terms": []
+  },
+  {
+    "id": "w328",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "benign / malignant",
+    "answerText": "良性／惡性；是否侵入周圍並具有轉移能力。",
+    "explain": "良性／惡性；是否侵入周圍並具有轉移能力。",
+    "terms": []
+  },
+  {
+    "id": "w329",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "dysplasia",
+    "answerText": "異生；細胞形態與排列異常，可能為癌前變化。",
+    "explain": "異生；細胞形態與排列異常，可能為癌前變化。",
+    "terms": []
+  },
+  {
+    "id": "w330",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "vector DNA",
+    "answerText": "載體 DNA；把目標序列帶入宿主的 plasmid、virus 等。",
+    "explain": "載體 DNA；把目標序列帶入宿主的 plasmid、virus 等。",
+    "terms": []
+  },
+  {
+    "id": "w331",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "restriction enzyme",
+    "answerText": "限制酶；辨識特定 DNA 序列並切割，用於 cloning。",
+    "explain": "限制酶；辨識特定 DNA 序列並切割，用於 cloning。",
+    "terms": []
+  },
+  {
+    "id": "w332",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "blunt end / sticky end",
+    "answerText": "平端／黏性端；限制酶切出的無突出端或單股突出端。",
+    "explain": "平端／黏性端；限制酶切出的無突出端或單股突出端。",
+    "terms": []
+  },
+  {
+    "id": "w333",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "cDNA",
+    "answerText": "互補 DNA；由 mature mRNA 反轉錄，通常無 intron。",
+    "explain": "互補 DNA；由 mature mRNA 反轉錄，通常無 intron。",
+    "terms": []
+  },
+  {
+    "id": "w334",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "transcriptome",
+    "answerText": "轉錄體；特定細胞／時間表現的全部 RNA。",
+    "explain": "轉錄體；特定細胞／時間表現的全部 RNA。",
+    "terms": []
+  },
+  {
+    "id": "w335",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "ddNTP",
+    "answerText": "雙去氧核苷三磷酸；缺 3′-OH，加入後終止 DNA 延長，是 Sanger 原理。",
+    "explain": "雙去氧核苷三磷酸；缺 3′-OH，加入後終止 DNA 延長，是 Sanger 原理。",
+    "terms": []
+  },
+  {
+    "id": "w336",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.43",
+    "prompt": "azide",
+    "answerText": "疊氮基；click chemistry 可用的反應基團，亦可能具毒性。",
+    "explain": "疊氮基；click chemistry 可用的反應基團，亦可能具毒性。",
+    "terms": []
+  },
+  {
+    "id": "w337",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "Northern blotting",
+    "answerText": "北方墨點法；用互補探針偵測特定 RNA 的大小與量。",
+    "explain": "北方墨點法；用互補探針偵測特定 RNA 的大小與量。",
+    "terms": []
+  },
+  {
+    "id": "w338",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "microarray",
+    "answerText": "微陣列；大量固定 probes 同時比較多基因表現。",
+    "explain": "微陣列；大量固定 probes 同時比較多基因表現。",
+    "terms": []
+  },
+  {
+    "id": "w339",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "fluorescence",
+    "answerText": "螢光；吸收短波長光後發出較長波長光，常作分子標記。",
+    "explain": "螢光；吸收短波長光後發出較長波長光，常作分子標記。",
+    "terms": []
+  },
+  {
+    "id": "w340",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "plasmid",
+    "answerText": "質體；可獨立複製的環狀 DNA，常作 cloning vector。",
+    "explain": "質體；可獨立複製的環狀 DNA，常作 cloning vector。",
+    "terms": []
+  },
+  {
+    "id": "w341",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "adenosine deaminase (ADA)",
+    "answerText": "腺苷脫胺酶；purine 代謝酵素，缺陷會造成 SCID。",
+    "explain": "腺苷脫胺酶；purine 代謝酵素，缺陷會造成 SCID。",
+    "terms": []
+  },
+  {
+    "id": "w342",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "severe combined immunodeficiency (SCID)",
+    "answerText": "嚴重複合型免疫缺乏；T、B 細胞功能嚴重受損。",
+    "explain": "嚴重複合型免疫缺乏；T、B 細胞功能嚴重受損。",
+    "terms": []
+  },
+  {
+    "id": "w343",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.44",
+    "prompt": "tuberculosis",
+    "answerText": "結核病；Mycobacterium tuberculosis 引起，可成為基因篩檢例。",
+    "explain": "結核病；Mycobacterium tuberculosis 引起，可成為基因篩檢例。",
+    "terms": []
+  },
+  {
+    "id": "w344",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.45",
+    "prompt": "bone marrow",
+    "answerText": "骨髓；造血幹細胞所在，常作基因治療取材與回輸部位。",
+    "explain": "骨髓；造血幹細胞所在，常作基因治療取材與回輸部位。",
+    "terms": []
+  },
+  {
+    "id": "w345",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.45",
+    "prompt": "polyethylene glycol (PEG)",
+    "answerText": "聚乙二醇；可促進膜融合、藥物修飾或增加分子溶解性。",
+    "explain": "聚乙二醇；可促進膜融合、藥物修飾或增加分子溶解性。",
+    "terms": []
+  },
+  {
+    "id": "w346",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "上 p.45",
+    "prompt": "leukemia",
+    "answerText": "白血病；造血細胞惡性增生，某些早期基因治療曾因插入致癌引發。",
+    "explain": "白血病；造血細胞惡性增生，某些早期基因治療曾因插入致癌引發。",
+    "terms": []
+  },
+  {
+    "id": "w347",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.1",
+    "prompt": "missing heritability",
+    "answerText": "遺失的遺傳率；GWAS 已知變異仍無法解釋性狀全部遺傳變異，可能來自稀有變異、交互作用與結構變異。",
+    "explain": "遺失的遺傳率；GWAS 已知變異仍無法解釋性狀全部遺傳變異，可能來自稀有變異、交互作用與結構變異。",
+    "terms": []
+  },
+  {
+    "id": "w348",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.1",
+    "prompt": "ancestral allele",
+    "answerText": "祖先型等位基因；相對於後來突變形成的 derived allele，代表較早存在的型態。",
+    "explain": "祖先型等位基因；相對於後來突變形成的 derived allele，代表較早存在的型態。",
+    "terms": []
+  },
+  {
+    "id": "w349",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.1",
+    "prompt": "derived allele",
+    "answerText": "衍生型等位基因；由祖先型等位基因突變而來的新型態。",
+    "explain": "衍生型等位基因；由祖先型等位基因突變而來的新型態。",
+    "terms": []
+  },
+  {
+    "id": "w350",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.1",
+    "prompt": "primary biliary cholangitis (PBC)",
+    "answerText": "原發性膽汁性膽管炎；舊稱 primary biliary cirrhosis，為自體免疫破壞小膽管的慢性肝病。筆記原寫 biliary liver cirhosis。",
+    "explain": "原發性膽汁性膽管炎；舊稱 primary biliary cirrhosis，為自體免疫破壞小膽管的慢性肝病。筆記原寫 biliary liver cirhosis。",
+    "terms": []
+  },
+  {
+    "id": "w351",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "variant",
+    "answerText": "遺傳變異；個體間 DNA 序列差異，不一定致病，頻率與作用大小共同影響疾病風險。",
+    "explain": "遺傳變異；個體間 DNA 序列差異，不一定致病，頻率與作用大小共同影響疾病風險。",
+    "terms": []
+  },
+  {
+    "id": "w352",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "APOL1 gene test",
+    "answerText": "APOL1 基因檢測；檢測 G1/G2 等腎病風險變異，結果需結合族群背景與臨床資料解讀。",
+    "explain": "APOL1 基因檢測；檢測 G1/G2 等腎病風險變異，結果需結合族群背景與臨床資料解讀。",
+    "terms": []
+  },
+  {
+    "id": "w353",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "chronic kidney disease (CKD)",
+    "answerText": "慢性腎臟病；腎功能或腎臟結構異常持續至少三個月，APOL1 風險變異可提高部分族群風險。",
+    "explain": "慢性腎臟病；腎功能或腎臟結構異常持續至少三個月，APOL1 風險變異可提高部分族群風險。",
+    "terms": []
+  },
+  {
+    "id": "w354",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "MYH9",
+    "answerText": "肌球蛋白重鏈 9 基因；早期關聯訊號曾被誤認為腎病主因，後來定位到附近 APOL1 變異。",
+    "explain": "肌球蛋白重鏈 9 基因；早期關聯訊號曾被誤認為腎病主因，後來定位到附近 APOL1 變異。",
+    "terms": []
+  },
+  {
+    "id": "w355",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "trypanosome",
+    "answerText": "錐蟲；由采采蠅等媒介傳播的寄生原生生物，部分 APOL1 蛋白可造成其裂解。",
+    "explain": "錐蟲；由采采蠅等媒介傳播的寄生原生生物，部分 APOL1 蛋白可造成其裂解。",
+    "terms": []
+  },
+  {
+    "id": "w356",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "tsetse fly",
+    "answerText": "采采蠅；非洲錐蟲病媒介，將 Trypanosoma 傳給人或其他脊椎動物。",
+    "explain": "采采蠅；非洲錐蟲病媒介，將 Trypanosoma 傳給人或其他脊椎動物。",
+    "terms": []
+  },
+  {
+    "id": "w357",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "high-density lipoprotein (HDL)",
+    "answerText": "高密度脂蛋白；運送脂質的顆粒，APOL1 可結合於部分 HDL 顆粒並參與抗錐蟲作用。",
+    "explain": "高密度脂蛋白；運送脂質的顆粒，APOL1 可結合於部分 HDL 顆粒並參與抗錐蟲作用。",
+    "terms": []
+  },
+  {
+    "id": "w358",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "evolutionary trade-off",
+    "answerText": "演化權衡；同一變異在一種環境帶來優勢，卻可能在另一情境增加疾病代價。",
+    "explain": "演化權衡；同一變異在一種環境帶來優勢，卻可能在另一情境增加疾病代價。",
+    "terms": []
+  },
+  {
+    "id": "w359",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.2",
+    "prompt": "deleterious variant",
+    "answerText": "有害變異；降低適存度或增加疾病風險的遺傳變異，效果可受環境與基因背景影響。",
+    "explain": "有害變異；降低適存度或增加疾病風險的遺傳變異，效果可受環境與基因背景影響。",
+    "terms": []
+  },
+  {
+    "id": "w360",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.3",
+    "prompt": "binomial nomenclature",
+    "answerText": "二名法；以 Genus + species 命名物種，屬名首字母大寫、種小名小寫並使用斜體。",
+    "explain": "二名法；以 Genus + species 命名物種，屬名首字母大寫、種小名小寫並使用斜體。",
+    "terms": []
+  },
+  {
+    "id": "w361",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.3",
+    "prompt": "convergent evolution",
+    "answerText": "趨同演化；不同祖先的生物因相似選汰壓力而獨立形成相似功能特徵。",
+    "explain": "趨同演化；不同祖先的生物因相似選汰壓力而獨立形成相似功能特徵。",
+    "terms": []
+  },
+  {
+    "id": "w362",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.3",
+    "prompt": "selective breeding",
+    "answerText": "選擇育種；人為選擇可繁殖個體，使期望性狀在後代增加。",
+    "explain": "選擇育種；人為選擇可繁殖個體，使期望性狀在後代增加。",
+    "terms": []
+  },
+  {
+    "id": "w363",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.3",
+    "prompt": "anatomical homology",
+    "answerText": "解剖同源性；構造源自共同祖先，即使現今功能可能不同。筆記原字形已依上下文校正。",
+    "explain": "解剖同源性；構造源自共同祖先，即使現今功能可能不同。筆記原字形已依上下文校正。",
+    "terms": []
+  },
+  {
+    "id": "w364",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.3",
+    "prompt": "developmental homology",
+    "answerText": "發育同源性；不同物種在胚胎發育過程共享源自共同祖先的模式或構造。",
+    "explain": "發育同源性；不同物種在胚胎發育過程共享源自共同祖先的模式或構造。",
+    "terms": []
+  },
+  {
+    "id": "w365",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "exon shuffling",
+    "answerText": "外顯子重組；重組把既有 exon/domain 重新組合成新基因。它不同於每次減數分裂的一般 crossing over。",
+    "explain": "外顯子重組；重組把既有 exon/domain 重新組合成新基因。它不同於每次減數分裂的一般 crossing over。",
+    "terms": []
+  },
+  {
+    "id": "w366",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "horizontal gene transfer",
+    "answerText": "水平基因轉移；遺傳物質在非親子關係個體或物種間傳遞，細菌中特別常見。",
+    "explain": "水平基因轉移；遺傳物質在非親子關係個體或物種間傳遞，細菌中特別常見。",
+    "terms": []
+  },
+  {
+    "id": "w367",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "polymorphism",
+    "answerText": "多型性；同一族群中兩種以上遺傳型態以可觀頻率存在。",
+    "explain": "多型性；同一族群中兩種以上遺傳型態以可觀頻率存在。",
+    "terms": []
+  },
+  {
+    "id": "w368",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "polymorphic gene",
+    "answerText": "多型基因；在族群中具有兩種以上常見 allele 的基因座。",
+    "explain": "多型基因；在族群中具有兩種以上常見 allele 的基因座。",
+    "terms": []
+  },
+  {
+    "id": "w369",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "phenotype",
+    "answerText": "表型；基因型與環境共同作用後可觀察或測量的性狀。",
+    "explain": "表型；基因型與環境共同作用後可觀察或測量的性狀。",
+    "terms": []
+  },
+  {
+    "id": "w370",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "monomorphic",
+    "answerText": "單型的；一個基因座在族群中幾乎只有一種 allele。",
+    "explain": "單型的；一個基因座在族群中幾乎只有一種 allele。",
+    "terms": []
+  },
+  {
+    "id": "w371",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.4",
+    "prompt": "single-nucleotide polymorphism (SNP)",
+    "answerText": "單核苷酸多型性；族群中單一核苷酸位置的常見差異，不等同所有單點突變。",
+    "explain": "單核苷酸多型性；族群中單一核苷酸位置的常見差異，不等同所有單點突變。",
+    "terms": []
+  },
+  {
+    "id": "w372",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "blending theory",
+    "answerText": "融合遺傳說；錯誤認為親代性狀會永久混合，無法解釋隱性性狀再出現。",
+    "explain": "融合遺傳說；錯誤認為親代性狀會永久混合，無法解釋隱性性狀再出現。",
+    "terms": []
+  },
+  {
+    "id": "w373",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "allele frequency",
+    "answerText": "等位基因頻率；族群全部等位基因拷貝中某一 allele 所占比例。",
+    "explain": "等位基因頻率；族群全部等位基因拷貝中某一 allele 所占比例。",
+    "terms": []
+  },
+  {
+    "id": "w374",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "recessive",
+    "answerText": "隱性的；在完全顯性模型中，通常需同型合子才表現的 allele/性狀。",
+    "explain": "隱性的；在完全顯性模型中，通常需同型合子才表現的 allele/性狀。",
+    "terms": []
+  },
+  {
+    "id": "w375",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "Hardy-Weinberg equilibrium (HWE)",
+    "answerText": "哈溫平衡；理想條件下 allele frequency 不變，二等位基因型頻率為 p²、2pq、q²。",
+    "explain": "哈溫平衡；理想條件下 allele frequency 不變，二等位基因型頻率為 p²、2pq、q²。",
+    "terms": []
+  },
+  {
+    "id": "w376",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "zygote",
+    "answerText": "合子；精卵融合形成的第一個二倍體細胞。",
+    "explain": "合子；精卵融合形成的第一個二倍體細胞。",
+    "terms": []
+  },
+  {
+    "id": "w377",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "gamete",
+    "answerText": "配子；單倍體生殖細胞，受精時提供一套染色體。",
+    "explain": "配子；單倍體生殖細胞，受精時提供一套染色體。",
+    "terms": []
+  },
+  {
+    "id": "w378",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "directional selection",
+    "answerText": "定向選擇；偏好表型分布的一端，使族群平均值向一側移動。",
+    "explain": "定向選擇；偏好表型分布的一端，使族群平均值向一側移動。",
+    "terms": []
+  },
+  {
+    "id": "w379",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "stabilizing selection",
+    "answerText": "穩定化選擇；偏好中間型、淘汰兩端，使變異縮小。",
+    "explain": "穩定化選擇；偏好中間型、淘汰兩端，使變異縮小。",
+    "terms": []
+  },
+  {
+    "id": "w380",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "disruptive selection",
+    "answerText": "分裂選擇；偏好兩端而不利中間型，可能增加族群分化。",
+    "explain": "分裂選擇；偏好兩端而不利中間型，可能增加族群分化。",
+    "terms": []
+  },
+  {
+    "id": "w381",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.5",
+    "prompt": "balancing selection",
+    "answerText": "平衡選擇；長期維持多個 allele，例如異型合子優勢或頻率依賴選擇。",
+    "explain": "平衡選擇；長期維持多個 allele，例如異型合子優勢或頻率依賴選擇。",
+    "terms": []
+  },
+  {
+    "id": "w382",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "malaria",
+    "answerText": "瘧疾；Plasmodium 經蚊媒傳播，會造成紅血球週期性破裂。",
+    "explain": "瘧疾；Plasmodium 經蚊媒傳播，會造成紅血球週期性破裂。",
+    "terms": []
+  },
+  {
+    "id": "w383",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "fitness",
+    "answerText": "適存度；某基因型對下一代基因庫的相對繁殖貢獻，不等同體能。",
+    "explain": "適存度；某基因型對下一代基因庫的相對繁殖貢獻，不等同體能。",
+    "terms": []
+  },
+  {
+    "id": "w384",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "intrasexual selection",
+    "answerText": "同性內選擇；同一性別個體競爭配偶，例如雄性打鬥。",
+    "explain": "同性內選擇；同一性別個體競爭配偶，例如雄性打鬥。",
+    "terms": []
+  },
+  {
+    "id": "w385",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "intersexual selection",
+    "answerText": "異性間選擇；一個性別依特徵挑選另一性別的配偶。",
+    "explain": "異性間選擇；一個性別依特徵挑選另一性別的配偶。",
+    "terms": []
+  },
+  {
+    "id": "w386",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "cryptic female choice",
+    "answerText": "隱性雌性選擇；交配後由雌性生殖系統影響不同精子的受精成功率。",
+    "explain": "隱性雌性選擇；交配後由雌性生殖系統影響不同精子的受精成功率。",
+    "terms": []
+  },
+  {
+    "id": "w387",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "guppy",
+    "answerText": "孔雀魚；雄魚鮮豔度受配偶偏好與捕食壓力的相反選擇影響。",
+    "explain": "孔雀魚；雄魚鮮豔度受配偶偏好與捕食壓力的相反選擇影響。",
+    "terms": []
+  },
+  {
+    "id": "w388",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "fixation",
+    "answerText": "固定；某 allele frequency 達 1，族群該基因座只剩此 allele。",
+    "explain": "固定；某 allele frequency 達 1，族群該基因座只剩此 allele。",
+    "terms": []
+  },
+  {
+    "id": "w389",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "bottleneck effect",
+    "answerText": "瓶頸效應；族群突然縮小造成 allele 隨機流失與遺傳多樣性下降。",
+    "explain": "瓶頸效應；族群突然縮小造成 allele 隨機流失與遺傳多樣性下降。",
+    "terms": []
+  },
+  {
+    "id": "w390",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "founder effect",
+    "answerText": "創始者效應；少數個體建立新族群，使 allele frequency 偏離原族群。",
+    "explain": "創始者效應；少數個體建立新族群，使 allele frequency 偏離原族群。",
+    "terms": []
+  },
+  {
+    "id": "w391",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.6",
+    "prompt": "Ellis-van Creveld syndrome",
+    "answerText": "Ellis-van Creveld 症候群；常染色體隱性疾病，在某些隔離族群因創始者效應而較常見。",
+    "explain": "Ellis-van Creveld 症候群；常染色體隱性疾病，在某些隔離族群因創始者效應而較常見。",
+    "terms": []
+  },
+  {
+    "id": "w392",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.7",
+    "prompt": "inbreeding",
+    "answerText": "近親繁殖；增加同型合子比例但本身不直接改變 allele frequency，可能暴露有害隱性 allele。",
+    "explain": "近親繁殖；增加同型合子比例但本身不直接改變 allele frequency，可能暴露有害隱性 allele。",
+    "terms": []
+  },
+  {
+    "id": "w393",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.7",
+    "prompt": "forensic DNA analysis",
+    "answerText": "法醫 DNA 鑑定；利用高度多型的 DNA 標記比較樣本與個體。筆記只寫 forensic，已依上下文補全。",
+    "explain": "法醫 DNA 鑑定；利用高度多型的 DNA 標記比較樣本與個體。筆記只寫 forensic，已依上下文補全。",
+    "terms": []
+  },
+  {
+    "id": "w394",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.7",
+    "prompt": "Combined DNA Index System (CODIS)",
+    "answerText": "聯合 DNA 索引系統；美國法醫資料庫，以多個 STR loci 建立個體 DNA profile。",
+    "explain": "聯合 DNA 索引系統；美國法醫資料庫，以多個 STR loci 建立個體 DNA profile。",
+    "terms": []
+  },
+  {
+    "id": "w395",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.7",
+    "prompt": "simple sequence repeat (SSR)",
+    "answerText": "簡單序列重複；短序列串聯重複且 repeat number 高度多型，法醫常稱 STR。筆記原寫 single。",
+    "explain": "簡單序列重複；短序列串聯重複且 repeat number 高度多型，法醫常稱 STR。筆記原寫 single。",
+    "terms": []
+  },
+  {
+    "id": "w396",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.7",
+    "prompt": "heterozygous",
+    "answerText": "異型合子的；同一基因座帶有兩個不同 allele。",
+    "explain": "異型合子的；同一基因座帶有兩個不同 allele。",
+    "terms": []
+  },
+  {
+    "id": "w397",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "budding",
+    "answerText": "出芽生殖；母體長出芽體，分離或保留後形成新個體。",
+    "explain": "出芽生殖；母體長出芽體，分離或保留後形成新個體。",
+    "terms": []
+  },
+  {
+    "id": "w398",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "Hydra",
+    "answerText": "水螅；刺絲胞動物，常以 budding 無性生殖，也具有強再生能力。",
+    "explain": "水螅；刺絲胞動物，常以 budding 無性生殖，也具有強再生能力。",
+    "terms": []
+  },
+  {
+    "id": "w399",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "regeneration",
+    "answerText": "再生；以細胞增殖與分化修復或重建失去的身體部分。",
+    "explain": "再生；以細胞增殖與分化修復或重建失去的身體部分。",
+    "terms": []
+  },
+  {
+    "id": "w400",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "parthenogenesis",
+    "answerText": "孤雌生殖；卵不經受精即可發育成新個體。",
+    "explain": "孤雌生殖；卵不經受精即可發育成新個體。",
+    "terms": []
+  },
+  {
+    "id": "w401",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "aphid",
+    "answerText": "蚜蟲；可依季節在孤雌生殖與有性生殖間切換。",
+    "explain": "蚜蟲；可依季節在孤雌生殖與有性生殖間切換。",
+    "terms": []
+  },
+  {
+    "id": "w402",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "rotifer",
+    "answerText": "輪蟲；部分類群長期以孤雌生殖繁殖。",
+    "explain": "輪蟲；部分類群長期以孤雌生殖繁殖。",
+    "terms": []
+  },
+  {
+    "id": "w403",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "Daphnia",
+    "answerText": "水蚤；環境良好時常孤雌生殖，逆境時可轉為有性生殖。",
+    "explain": "水蚤；環境良好時常孤雌生殖，逆境時可轉為有性生殖。",
+    "terms": []
+  },
+  {
+    "id": "w404",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "hermaphrodite",
+    "answerText": "雌雄同體；同一個體具有雌雄生殖功能，不代表一定自體受精。",
+    "explain": "雌雄同體；同一個體具有雌雄生殖功能，不代表一定自體受精。",
+    "terms": []
+  },
+  {
+    "id": "w405",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "spermatogenesis",
+    "answerText": "精子發生；spermatogonia 經有絲分裂、減數分裂與分化形成精子。",
+    "explain": "精子發生；spermatogonia 經有絲分裂、減數分裂與分化形成精子。",
+    "terms": []
+  },
+  {
+    "id": "w406",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "primordial germ cell (PGC)",
+    "answerText": "原始生殖細胞；胚胎中將形成精原細胞或卵原細胞的生殖系前驅細胞。",
+    "explain": "原始生殖細胞；胚胎中將形成精原細胞或卵原細胞的生殖系前驅細胞。",
+    "terms": []
+  },
+  {
+    "id": "w407",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "spermatogonium",
+    "answerText": "精原細胞；睪丸中的二倍體生殖幹／祖細胞，可有絲分裂並進入精子發生。",
+    "explain": "精原細胞；睪丸中的二倍體生殖幹／祖細胞，可有絲分裂並進入精子發生。",
+    "terms": []
+  },
+  {
+    "id": "w408",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "seminiferous tubule",
+    "answerText": "曲細精管；睪丸內精子發生的主要場所。",
+    "explain": "曲細精管；睪丸內精子發生的主要場所。",
+    "terms": []
+  },
+  {
+    "id": "w409",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.8",
+    "prompt": "Sertoli cell",
+    "answerText": "塞爾托利細胞／支持細胞；支持精子發生、形成血睪屏障並分泌 inhibin。",
+    "explain": "塞爾托利細胞／支持細胞；支持精子發生、形成血睪屏障並分泌 inhibin。",
+    "terms": []
+  },
+  {
+    "id": "w410",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "oogenesis",
+    "answerText": "卵子發生；卵原細胞形成初級卵母細胞，經不等胞質分裂產生一個主要卵細胞與極體。",
+    "explain": "卵子發生；卵原細胞形成初級卵母細胞，經不等胞質分裂產生一個主要卵細胞與極體。",
+    "terms": []
+  },
+  {
+    "id": "w411",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "oogonium",
+    "answerText": "卵原細胞；胚胎卵巢中的二倍體生殖前驅細胞。",
+    "explain": "卵原細胞；胚胎卵巢中的二倍體生殖前驅細胞。",
+    "terms": []
+  },
+  {
+    "id": "w412",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "oocyte",
+    "answerText": "卵母細胞；進行減數分裂的雌性生殖細胞，具有 primary/secondary 階段。",
+    "explain": "卵母細胞；進行減數分裂的雌性生殖細胞，具有 primary/secondary 階段。",
+    "terms": []
+  },
+  {
+    "id": "w413",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "acrosome",
+    "answerText": "頂體；精子頭部囊狀構造，釋放酵素幫助穿越卵周包被。",
+    "explain": "頂體；精子頭部囊狀構造，釋放酵素幫助穿越卵周包被。",
+    "terms": []
+  },
+  {
+    "id": "w414",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "zona pellucida",
+    "answerText": "透明帶；包圍哺乳類卵母細胞的糖蛋白層，參與精子辨識並防止多精入卵。",
+    "explain": "透明帶；包圍哺乳類卵母細胞的糖蛋白層，參與精子辨識並防止多精入卵。",
+    "terms": []
+  },
+  {
+    "id": "w415",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "cumulus oophorus",
+    "answerText": "卵丘；包圍卵母細胞的顆粒細胞群，筆記的 cumulus mass 已改用正式名稱。",
+    "explain": "卵丘；包圍卵母細胞的顆粒細胞群，筆記的 cumulus mass 已改用正式名稱。",
+    "terms": []
+  },
+  {
+    "id": "w416",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "theca cell",
+    "answerText": "卵泡膜細胞；受 LH 刺激製造 androgen，再由 granulosa cell 轉為 estrogen。",
+    "explain": "卵泡膜細胞；受 LH 刺激製造 androgen，再由 granulosa cell 轉為 estrogen。",
+    "terms": []
+  },
+  {
+    "id": "w417",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.9",
+    "prompt": "inositol trisphosphate (IP3)",
+    "answerText": "肌醇三磷酸；受精訊號中的 second messenger，促使 ER 釋放 Ca²⁺並啟動 cortical reaction。",
+    "explain": "肌醇三磷酸；受精訊號中的 second messenger，促使 ER 釋放 Ca²⁺並啟動 cortical reaction。",
+    "terms": []
+  },
+  {
+    "id": "w418",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "testis",
+    "answerText": "睪丸；產生精子與 testosterone 的雄性性腺。",
+    "explain": "睪丸；產生精子與 testosterone 的雄性性腺。",
+    "terms": []
+  },
+  {
+    "id": "w419",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "vas deferens",
+    "answerText": "輸精管；將精子由副睪輸往射精管。",
+    "explain": "輸精管；將精子由副睪輸往射精管。",
+    "terms": []
+  },
+  {
+    "id": "w420",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "seminal vesicle",
+    "answerText": "精囊；分泌富含果糖等成分的精液，提供精子能量與液體。",
+    "explain": "精囊；分泌富含果糖等成分的精液，提供精子能量與液體。",
+    "terms": []
+  },
+  {
+    "id": "w421",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "scrotum",
+    "answerText": "陰囊；將睪丸維持在略低於核心體溫的環境。",
+    "explain": "陰囊；將睪丸維持在略低於核心體溫的環境。",
+    "terms": []
+  },
+  {
+    "id": "w422",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "hypothalamus",
+    "answerText": "下視丘；分泌 GnRH 控制腦下垂體，連結神經與內分泌調節。",
+    "explain": "下視丘；分泌 GnRH 控制腦下垂體，連結神經與內分泌調節。",
+    "terms": []
+  },
+  {
+    "id": "w423",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "anterior pituitary",
+    "answerText": "腦下垂體前葉；分泌 FSH、LH 等 tropic hormones。",
+    "explain": "腦下垂體前葉；分泌 FSH、LH 等 tropic hormones。",
+    "terms": []
+  },
+  {
+    "id": "w424",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "Leydig cell",
+    "answerText": "萊迪希細胞；位於曲細精管間質，受 LH 刺激分泌 testosterone。",
+    "explain": "萊迪希細胞；位於曲細精管間質，受 LH 刺激分泌 testosterone。",
+    "terms": []
+  },
+  {
+    "id": "w425",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "oviduct",
+    "answerText": "輸卵管；接收排出的卵母細胞，常為受精發生處。",
+    "explain": "輸卵管；接收排出的卵母細胞，常為受精發生處。",
+    "terms": []
+  },
+  {
+    "id": "w426",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "ovum",
+    "answerText": "卵／成熟卵細胞；嚴格而言人類 secondary oocyte 受精後完成 meiosis II 才形成 ovum。",
+    "explain": "卵／成熟卵細胞；嚴格而言人類 secondary oocyte 受精後完成 meiosis II 才形成 ovum。",
+    "terms": []
+  },
+  {
+    "id": "w427",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "ovary",
+    "answerText": "卵巢；產生卵母細胞並分泌 estrogen、progesterone。",
+    "explain": "卵巢；產生卵母細胞並分泌 estrogen、progesterone。",
+    "terms": []
+  },
+  {
+    "id": "w428",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10, 11",
+    "prompt": "blastocyst",
+    "answerText": "囊胚；哺乳類早期胚胎，含 inner cell mass、trophectoderm 與 blastocoel。",
+    "explain": "囊胚；哺乳類早期胚胎，含 inner cell mass、trophectoderm 與 blastocoel。",
+    "terms": []
+  },
+  {
+    "id": "w429",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "uterus",
+    "answerText": "子宮；胚胎著床與胎兒發育的肌性器官。",
+    "explain": "子宮；胚胎著床與胎兒發育的肌性器官。",
+    "terms": []
+  },
+  {
+    "id": "w430",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "cervix",
+    "answerText": "子宮頸；子宮下端通往陰道的狹窄部分。",
+    "explain": "子宮頸；子宮下端通往陰道的狹窄部分。",
+    "terms": []
+  },
+  {
+    "id": "w431",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "ovarian cycle",
+    "answerText": "卵巢週期；包含 follicular phase、ovulation 與 luteal phase。",
+    "explain": "卵巢週期；包含 follicular phase、ovulation 與 luteal phase。",
+    "terms": []
+  },
+  {
+    "id": "w432",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "follicular phase",
+    "answerText": "濾泡期；卵泡生長、estrogen 上升，最後由 LH surge 觸發排卵。",
+    "explain": "濾泡期；卵泡生長、estrogen 上升，最後由 LH surge 觸發排卵。",
+    "terms": []
+  },
+  {
+    "id": "w433",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "luteal phase",
+    "answerText": "黃體期；corpus luteum 分泌 progesterone 維持子宮內膜。",
+    "explain": "黃體期；corpus luteum 分泌 progesterone 維持子宮內膜。",
+    "terms": []
+  },
+  {
+    "id": "w434",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.10",
+    "prompt": "corpus luteum",
+    "answerText": "黃體；排卵後由殘留卵泡形成，主要分泌 progesterone。",
+    "explain": "黃體；排卵後由殘留卵泡形成，主要分泌 progesterone。",
+    "terms": []
+  },
+  {
+    "id": "w435",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "progesterone",
+    "answerText": "黃體素；促使子宮內膜進入 secretory phase，支持早期妊娠。",
+    "explain": "黃體素；促使子宮內膜進入 secretory phase，支持早期妊娠。",
+    "terms": []
+  },
+  {
+    "id": "w436",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "uterine cycle",
+    "answerText": "子宮週期；子宮內膜隨 ovarian hormones 經月經、增生與分泌期變化。",
+    "explain": "子宮週期；子宮內膜隨 ovarian hormones 經月經、增生與分泌期變化。",
+    "terms": []
+  },
+  {
+    "id": "w437",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "menstrual cycle",
+    "answerText": "月經週期；廣義包含卵巢與子宮內膜週期性變化。",
+    "explain": "月經週期；廣義包含卵巢與子宮內膜週期性變化。",
+    "terms": []
+  },
+  {
+    "id": "w438",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "proliferative phase",
+    "answerText": "增生期；estrogen 促使月經後的子宮內膜重新增厚。",
+    "explain": "增生期；estrogen 促使月經後的子宮內膜重新增厚。",
+    "terms": []
+  },
+  {
+    "id": "w439",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "secretory phase",
+    "answerText": "分泌期；progesterone 促使子宮腺體分泌並準備著床。",
+    "explain": "分泌期；progesterone 促使子宮腺體分泌並準備著床。",
+    "terms": []
+  },
+  {
+    "id": "w440",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "conception",
+    "answerText": "受孕；通常指受精開始妊娠相關過程，臨床語境可能與 implantation 的界定不同。",
+    "explain": "受孕；通常指受精開始妊娠相關過程，臨床語境可能與 implantation 的界定不同。",
+    "terms": []
+  },
+  {
+    "id": "w441",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "trophoblast",
+    "answerText": "滋養層；早期囊胚外層細胞，參與著床並形成胎盤胚胎側。筆記原字形 trophiblast 已校正。",
+    "explain": "滋養層；早期囊胚外層細胞，參與著床並形成胎盤胚胎側。筆記原字形 trophiblast 已校正。",
+    "terms": []
+  },
+  {
+    "id": "w442",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "human chorionic gonadotropin (hCG)",
+    "answerText": "人類絨毛膜促性腺激素；早期滋養層分泌，維持 corpus luteum，也是驗孕偵測標的。",
+    "explain": "人類絨毛膜促性腺激素；早期滋養層分泌，維持 corpus luteum，也是驗孕偵測標的。",
+    "terms": []
+  },
+  {
+    "id": "w443",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "triploblastic animal",
+    "answerText": "三胚層動物；胚胎形成 ectoderm、mesoderm、endoderm 三個胚層。筆記的 triploblast 已改為正式用法。",
+    "explain": "三胚層動物；胚胎形成 ectoderm、mesoderm、endoderm 三個胚層。筆記的 triploblast 已改為正式用法。",
+    "terms": []
+  },
+  {
+    "id": "w444",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "biphasic cell cycle",
+    "answerText": "雙相細胞週期；早期 cleavage 常只交替 S 與 M phase，缺少或縮短 G1/G2。",
+    "explain": "雙相細胞週期；早期 cleavage 常只交替 S 與 M phase，缺少或縮短 G1/G2。",
+    "terms": []
+  },
+  {
+    "id": "w445",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "blastomere",
+    "answerText": "卵裂球；早期胚胎 cleavage 形成、體積逐次變小的細胞。",
+    "explain": "卵裂球；早期胚胎 cleavage 形成、體積逐次變小的細胞。",
+    "terms": []
+  },
+  {
+    "id": "w446",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "blastocoel",
+    "answerText": "囊胚腔；blastula/blastocyst 內部充液空腔。",
+    "explain": "囊胚腔；blastula/blastocyst 內部充液空腔。",
+    "terms": []
+  },
+  {
+    "id": "w447",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "blastula",
+    "answerText": "囊胚；卵裂後具有細胞層與 blastocoel 的胚胎階段，哺乳類對應 blastocyst。",
+    "explain": "囊胚；卵裂後具有細胞層與 blastocoel 的胚胎階段，哺乳類對應 blastocyst。",
+    "terms": []
+  },
+  {
+    "id": "w448",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.11",
+    "prompt": "animal pole / vegetal pole",
+    "answerText": "動物極／植物極；卵的兩端，通常動物極卵黃較少、植物極卵黃較多。",
+    "explain": "動物極／植物極；卵的兩端，通常動物極卵黃較少、植物極卵黃較多。",
+    "terms": []
+  },
+  {
+    "id": "w449",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "morula",
+    "answerText": "桑椹胚；卵裂後形成的實心細胞球，之後形成 blastocyst。",
+    "explain": "桑椹胚；卵裂後形成的實心細胞球，之後形成 blastocyst。",
+    "terms": []
+  },
+  {
+    "id": "w450",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "trophectoderm",
+    "answerText": "滋養外胚層；blastocyst 外層，之後主要形成胎盤相關組織。",
+    "explain": "滋養外胚層；blastocyst 外層，之後主要形成胎盤相關組織。",
+    "terms": []
+  },
+  {
+    "id": "w451",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "placenta",
+    "answerText": "胎盤；母胎交換氣體、營養與廢物並分泌多種 hormones 的暫時器官。",
+    "explain": "胎盤；母胎交換氣體、營養與廢物並分泌多種 hormones 的暫時器官。",
+    "terms": []
+  },
+  {
+    "id": "w452",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "implantation",
+    "answerText": "著床；blastocyst 附著並侵入子宮內膜的過程。",
+    "explain": "著床；blastocyst 附著並侵入子宮內膜的過程。",
+    "terms": []
+  },
+  {
+    "id": "w453",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "gastrulation",
+    "answerText": "原腸胚形成；細胞大規模移動，建立三胚層與身體軸。",
+    "explain": "原腸胚形成；細胞大規模移動，建立三胚層與身體軸。",
+    "terms": []
+  },
+  {
+    "id": "w454",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "ectoderm",
+    "answerText": "外胚層；形成表皮與神經系統等。",
+    "explain": "外胚層；形成表皮與神經系統等。",
+    "terms": []
+  },
+  {
+    "id": "w455",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "mesoderm",
+    "answerText": "中胚層；形成肌骨、心血管、腎臟與多數結締組織。",
+    "explain": "中胚層；形成肌骨、心血管、腎臟與多數結締組織。",
+    "terms": []
+  },
+  {
+    "id": "w456",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "endoderm",
+    "answerText": "內胚層；形成消化與呼吸道上皮及部分腺體。",
+    "explain": "內胚層；形成消化與呼吸道上皮及部分腺體。",
+    "terms": []
+  },
+  {
+    "id": "w457",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "invagination",
+    "answerText": "內陷；一片細胞向內凹入的 gastrulation 細胞運動。",
+    "explain": "內陷；一片細胞向內凹入的 gastrulation 細胞運動。",
+    "terms": []
+  },
+  {
+    "id": "w458",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "involution",
+    "answerText": "內捲；細胞層沿胚孔邊緣向內捲入並在內面移動。",
+    "explain": "內捲；細胞層沿胚孔邊緣向內捲入並在內面移動。",
+    "terms": []
+  },
+  {
+    "id": "w459",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "bottle cell",
+    "answerText": "瓶狀細胞；頂端收縮形成瓶狀，協助 amphibian blastopore 起始內陷。",
+    "explain": "瓶狀細胞；頂端收縮形成瓶狀，協助 amphibian blastopore 起始內陷。",
+    "terms": []
+  },
+  {
+    "id": "w460",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "blastopore",
+    "answerText": "胚孔；gastrulation 形成的開口，其命運可區分原口與後口動物。",
+    "explain": "胚孔；gastrulation 形成的開口，其命運可區分原口與後口動物。",
+    "terms": []
+  },
+  {
+    "id": "w461",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "notochord",
+    "answerText": "脊索；中胚層衍生的軸向構造，誘導 neural plate 並建立身體中線。",
+    "explain": "脊索；中胚層衍生的軸向構造，誘導 neural plate 並建立身體中線。",
+    "terms": []
+  },
+  {
+    "id": "w462",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "archenteron",
+    "answerText": "原腸；gastrulation 形成的原始消化腔。",
+    "explain": "原腸；gastrulation 形成的原始消化腔。",
+    "terms": []
+  },
+  {
+    "id": "w463",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "anterior-posterior axis",
+    "answerText": "前後軸；由頭端到尾端的主要身體軸。",
+    "explain": "前後軸；由頭端到尾端的主要身體軸。",
+    "terms": []
+  },
+  {
+    "id": "w464",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "dorsal-ventral axis",
+    "answerText": "背腹軸；由背側到腹側的主要身體軸。",
+    "explain": "背腹軸；由背側到腹側的主要身體軸。",
+    "terms": []
+  },
+  {
+    "id": "w465",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "epidermis",
+    "answerText": "表皮；由 ectoderm 形成的身體外層上皮。",
+    "explain": "表皮；由 ectoderm 形成的身體外層上皮。",
+    "terms": []
+  },
+  {
+    "id": "w466",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "peripheral nervous system (PNS)",
+    "answerText": "周邊神經系統；位於腦與脊髓外的神經和神經節。筆記只寫 peripheral，已依圖意補全。",
+    "explain": "周邊神經系統；位於腦與脊髓外的神經和神經節。筆記只寫 peripheral，已依圖意補全。",
+    "terms": []
+  },
+  {
+    "id": "w467",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "thyroid follicular cell",
+    "answerText": "甲狀腺濾泡細胞；由 endoderm 衍生，合成與分泌 thyroid hormones。",
+    "explain": "甲狀腺濾泡細胞；由 endoderm 衍生，合成與分泌 thyroid hormones。",
+    "terms": []
+  },
+  {
+    "id": "w468",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "lung alveolar cell",
+    "answerText": "肺泡細胞；肺泡上皮細胞負責氣體交換或分泌 surfactant。",
+    "explain": "肺泡細胞；肺泡上皮細胞負責氣體交換或分泌 surfactant。",
+    "terms": []
+  },
+  {
+    "id": "w469",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "neurulation",
+    "answerText": "神經胚形成；neural plate 彎曲閉合形成 neural tube。",
+    "explain": "神經胚形成；neural plate 彎曲閉合形成 neural tube。",
+    "terms": []
+  },
+  {
+    "id": "w470",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "cytokine",
+    "answerText": "細胞激素；細胞間訊號蛋白的廣稱。發育誘導更常精確稱 signaling molecule 或 morphogen。",
+    "explain": "細胞激素；細胞間訊號蛋白的廣稱。發育誘導更常精確稱 signaling molecule 或 morphogen。",
+    "terms": []
+  },
+  {
+    "id": "w471",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.12",
+    "prompt": "neural plate",
+    "answerText": "神經板；受脊索誘導增厚的 dorsal ectoderm，將形成 neural tube。",
+    "explain": "神經板；受脊索誘導增厚的 dorsal ectoderm，將形成 neural tube。",
+    "terms": []
+  },
+  {
+    "id": "w472",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "neural tube",
+    "answerText": "神經管；形成中樞神經系統的胚胎構造。",
+    "explain": "神經管；形成中樞神經系統的胚胎構造。",
+    "terms": []
+  },
+  {
+    "id": "w473",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "neural crest",
+    "answerText": "神經脊；神經管閉合處脫離並遷移的細胞群，形成周邊神經、顏面骨軟骨等，牙醫特別重要。",
+    "explain": "神經脊；神經管閉合處脫離並遷移的細胞群，形成周邊神經、顏面骨軟骨等，牙醫特別重要。",
+    "terms": []
+  },
+  {
+    "id": "w474",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "neural groove",
+    "answerText": "神經溝；neural plate 中央內陷形成的溝，兩側 neural folds 之後融合。",
+    "explain": "神經溝；neural plate 中央內陷形成的溝，兩側 neural folds 之後融合。",
+    "terms": []
+  },
+  {
+    "id": "w475",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "organogenesis",
+    "answerText": "器官發生；三胚層經誘導、增殖、遷移與分化建立器官。",
+    "explain": "器官發生；三胚層經誘導、增殖、遷移與分化建立器官。",
+    "terms": []
+  },
+  {
+    "id": "w476",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "Hox gene",
+    "answerText": "Hox 基因；homeotic transcription factor genes，沿前後軸指定區域身分。",
+    "explain": "Hox 基因；homeotic transcription factor genes，沿前後軸指定區域身分。",
+    "terms": []
+  },
+  {
+    "id": "w477",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "metamorphosis",
+    "answerText": "變態；幼體在 hormones 控制下大幅改造成成體，例如蝌蚪變青蛙。",
+    "explain": "變態；幼體在 hormones 控制下大幅改造成成體，例如蝌蚪變青蛙。",
+    "terms": []
+  },
+  {
+    "id": "w478",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "segmentation",
+    "answerText": "分節；沿前後軸建立重複體節單位的發育過程。",
+    "explain": "分節；沿前後軸建立重複體節單位的發育過程。",
+    "terms": []
+  },
+  {
+    "id": "w479",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "somite",
+    "answerText": "體節；胚胎 paraxial mesoderm 分節形成，產生椎骨、骨骼肌與部分真皮。",
+    "explain": "體節；胚胎 paraxial mesoderm 分節形成，產生椎骨、骨骼肌與部分真皮。",
+    "terms": []
+  },
+  {
+    "id": "w480",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.13",
+    "prompt": "epithelial somite",
+    "answerText": "上皮化體節；presomitic mesoderm 經間質-上皮轉換形成的中空體節。",
+    "explain": "上皮化體節；presomitic mesoderm 經間質-上皮轉換形成的中空體節。",
+    "terms": []
+  },
+  {
+    "id": "w481",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.14",
+    "prompt": "morphogen",
+    "answerText": "成形素；依濃度梯度使細胞啟動不同 gene expression 與命運。",
+    "explain": "成形素；依濃度梯度使細胞啟動不同 gene expression 與命運。",
+    "terms": []
+  },
+  {
+    "id": "w482",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.14",
+    "prompt": "cell adhesion molecule (CAM)",
+    "answerText": "細胞黏附分子；介導細胞彼此或與 ECM 黏附，也能傳遞位置與分化訊號。",
+    "explain": "細胞黏附分子；介導細胞彼此或與 ECM 黏附，也能傳遞位置與分化訊號。",
+    "terms": []
+  },
+  {
+    "id": "w483",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.14",
+    "prompt": "Drosophila",
+    "answerText": "果蠅屬；發育遺傳常用模式生物，maternal、gap、pair-rule、segment-polarity genes 在此建立。",
+    "explain": "果蠅屬；發育遺傳常用模式生物，maternal、gap、pair-rule、segment-polarity genes 在此建立。",
+    "terms": []
+  },
+  {
+    "id": "w484",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.14",
+    "prompt": "maternal-effect gene",
+    "answerText": "母體效應基因；母親基因型決定卵中 mRNA/protein，控制胚胎最早期軸向。筆記只寫 maternal。",
+    "explain": "母體效應基因；母親基因型決定卵中 mRNA/protein，控制胚胎最早期軸向。筆記只寫 maternal。",
+    "terms": []
+  },
+  {
+    "id": "w485",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.14",
+    "prompt": "homeotic gene",
+    "answerText": "同源異型基因；決定身體區段身分，突變可讓一個構造轉變成另一構造。",
+    "explain": "同源異型基因；決定身體區段身分，突變可讓一個構造轉變成另一構造。",
+    "terms": []
+  },
+  {
+    "id": "w486",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.14",
+    "prompt": "collinearity rule",
+    "answerText": "共線性法則；Hox genes 在染色體上的排列順序對應其沿身體前後軸的表現順序。",
+    "explain": "共線性法則；Hox genes 在染色體上的排列順序對應其沿身體前後軸的表現順序。",
+    "terms": []
+  },
+  {
+    "id": "w487",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "hemolymph",
+    "answerText": "血淋巴；開放循環動物的循環液，直接浸浴器官，與組織液不完全分離。",
+    "explain": "血淋巴；開放循環動物的循環液，直接浸浴器官，與組織液不完全分離。",
+    "terms": []
+  },
+  {
+    "id": "w488",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "arthropod",
+    "answerText": "節肢動物；具有外骨骼、分節附肢，多為開放循環。",
+    "explain": "節肢動物；具有外骨骼、分節附肢，多為開放循環。",
+    "terms": []
+  },
+  {
+    "id": "w489",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "mollusk",
+    "answerText": "軟體動物；多數為開放循環，但 cephalopods 為閉鎖循環。",
+    "explain": "軟體動物；多數為開放循環，但 cephalopods 為閉鎖循環。",
+    "terms": []
+  },
+  {
+    "id": "w490",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "interstitial fluid",
+    "answerText": "組織間液；位於細胞間、由血漿濾出並與細胞交換物質的液體。",
+    "explain": "組織間液；位於細胞間、由血漿濾出並與細胞交換物質的液體。",
+    "terms": []
+  },
+  {
+    "id": "w491",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "amphibian",
+    "answerText": "兩棲動物；多具有兩心房一心室及 pulmocutaneous circulation。",
+    "explain": "兩棲動物；多具有兩心房一心室及 pulmocutaneous circulation。",
+    "terms": []
+  },
+  {
+    "id": "w492",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "atrium",
+    "answerText": "心房；接收回流血液的心腔。",
+    "explain": "心房；接收回流血液的心腔。",
+    "terms": []
+  },
+  {
+    "id": "w493",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "ventricle",
+    "answerText": "心室；將血液泵出心臟的心腔。",
+    "explain": "心室；將血液泵出心臟的心腔。",
+    "terms": []
+  },
+  {
+    "id": "w494",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.15",
+    "prompt": "pulmocutaneous circulation",
+    "answerText": "肺皮循環；兩棲類將血液送至肺與皮膚進行氣體交換。",
+    "explain": "肺皮循環；兩棲類將血液送至肺與皮膚進行氣體交換。",
+    "terms": []
+  },
+  {
+    "id": "w495",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "connective tissue",
+    "answerText": "結締組織；以細胞外基質為主要特徵，血液屬於液態結締組織。",
+    "explain": "結締組織；以細胞外基質為主要特徵，血液屬於液態結締組織。",
+    "terms": []
+  },
+  {
+    "id": "w496",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "platelet / thrombocyte",
+    "answerText": "血小板；哺乳類為 megakaryocyte 片段，參與 platelet plug 與凝血。",
+    "explain": "血小板；哺乳類為 megakaryocyte 片段，參與 platelet plug 與凝血。",
+    "terms": []
+  },
+  {
+    "id": "w497",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "erythrocyte",
+    "answerText": "紅血球；以 hemoglobin 運送 O₂與部分 CO₂。",
+    "explain": "紅血球；以 hemoglobin 運送 O₂與部分 CO₂。",
+    "terms": []
+  },
+  {
+    "id": "w498",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "serum",
+    "answerText": "血清；血液凝固後剩餘液體，相較 plasma 缺乏 fibrinogen 等凝血因子。",
+    "explain": "血清；血液凝固後剩餘液體，相較 plasma 缺乏 fibrinogen 等凝血因子。",
+    "terms": []
+  },
+  {
+    "id": "w499",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "hematocrit",
+    "answerText": "血比容；全血中紅血球體積百分比，可反映 anemia 或 polycythemia 等。",
+    "explain": "血比容；全血中紅血球體積百分比，可反映 anemia 或 polycythemia 等。",
+    "terms": []
+  },
+  {
+    "id": "w500",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "activated partial thromboplastin time (aPTT)",
+    "answerText": "活化部分凝血活酶時間；主要評估 intrinsic/common coagulation pathways，常用於監測 unfractionated heparin。",
+    "explain": "活化部分凝血活酶時間；主要評估 intrinsic/common coagulation pathways，常用於監測 unfractionated heparin。",
+    "terms": []
+  },
+  {
+    "id": "w501",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "prothrombin time (PT)",
+    "answerText": "凝血酶原時間；主要評估 extrinsic/common pathways，INR 常用於監測 warfarin。",
+    "explain": "凝血酶原時間；主要評估 extrinsic/common pathways，INR 常用於監測 warfarin。",
+    "terms": []
+  },
+  {
+    "id": "w502",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "hemostasis",
+    "answerText": "止血；依序包含血管收縮、platelet plug 與 coagulation。",
+    "explain": "止血；依序包含血管收縮、platelet plug 與 coagulation。",
+    "terms": []
+  },
+  {
+    "id": "w503",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "platelet plug",
+    "answerText": "血小板栓；血小板黏附、活化與聚集形成的初級止血栓。",
+    "explain": "血小板栓；血小板黏附、活化與聚集形成的初級止血栓。",
+    "terms": []
+  },
+  {
+    "id": "w504",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "blood coagulation",
+    "answerText": "血液凝固；coagulation cascade 產生 thrombin，再把 fibrinogen 轉為 fibrin 穩定血栓。",
+    "explain": "血液凝固；coagulation cascade 產生 thrombin，再把 fibrinogen 轉為 fibrin 穩定血栓。",
+    "terms": []
+  },
+  {
+    "id": "w505",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "thrombin",
+    "answerText": "凝血酶；切割 fibrinogen 形成 fibrin，並放大多個凝血反應。",
+    "explain": "凝血酶；切割 fibrinogen 形成 fibrin，並放大多個凝血反應。",
+    "terms": []
+  },
+  {
+    "id": "w506",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "pulmonary",
+    "answerText": "肺的；例如 pulmonary artery 把缺氧血由右心送往肺。",
+    "explain": "肺的；例如 pulmonary artery 把缺氧血由右心送往肺。",
+    "terms": []
+  },
+  {
+    "id": "w507",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "aorta",
+    "answerText": "主動脈；由左心室輸出體循環血液的最大動脈。",
+    "explain": "主動脈；由左心室輸出體循環血液的最大動脈。",
+    "terms": []
+  },
+  {
+    "id": "w508",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "atrioventricular valve (AV valve)",
+    "answerText": "房室瓣；tricuspid 與 mitral valves，防止心室收縮時血液回流心房。",
+    "explain": "房室瓣；tricuspid 與 mitral valves，防止心室收縮時血液回流心房。",
+    "terms": []
+  },
+  {
+    "id": "w509",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "semilunar valve",
+    "answerText": "半月瓣；pulmonary 與 aortic valves，防止動脈血回流心室。",
+    "explain": "半月瓣；pulmonary 與 aortic valves，防止動脈血回流心室。",
+    "terms": []
+  },
+  {
+    "id": "w510",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "coronary sinus",
+    "answerText": "冠狀竇；收集心肌靜脈血並流入右心房，不是上下腔靜脈匯合處。筆記只寫 sinus，已依解剖校正。",
+    "explain": "冠狀竇；收集心肌靜脈血並流入右心房，不是上下腔靜脈匯合處。筆記只寫 sinus，已依解剖校正。",
+    "terms": []
+  },
+  {
+    "id": "w511",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "epicardium",
+    "answerText": "心外膜；心壁最外層，也是 visceral serous pericardium。",
+    "explain": "心外膜；心壁最外層，也是 visceral serous pericardium。",
+    "terms": []
+  },
+  {
+    "id": "w512",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "visceral / parietal pericardium",
+    "answerText": "臟層／壁層心包膜；兩層間有少量 pericardial fluid 減少心搏摩擦。",
+    "explain": "臟層／壁層心包膜；兩層間有少量 pericardial fluid 減少心搏摩擦。",
+    "terms": []
+  },
+  {
+    "id": "w513",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "pericardial fluid",
+    "answerText": "心包液；心包腔內少量潤滑液，過量可造成 cardiac tamponade。",
+    "explain": "心包液；心包腔內少量潤滑液，過量可造成 cardiac tamponade。",
+    "terms": []
+  },
+  {
+    "id": "w514",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "myocardium",
+    "answerText": "心肌層；負責心臟收縮泵血的主要肌肉層。",
+    "explain": "心肌層；負責心臟收縮泵血的主要肌肉層。",
+    "terms": []
+  },
+  {
+    "id": "w515",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "endocardium",
+    "answerText": "心內膜；覆蓋心腔與瓣膜內表面的內皮層。",
+    "explain": "心內膜；覆蓋心腔與瓣膜內表面的內皮層。",
+    "terms": []
+  },
+  {
+    "id": "w516",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "neurogenic heart",
+    "answerText": "神經源性心臟；節律需神經輸入觸發，部分無脊椎動物可見。",
+    "explain": "神經源性心臟；節律需神經輸入觸發，部分無脊椎動物可見。",
+    "terms": []
+  },
+  {
+    "id": "w517",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.16",
+    "prompt": "myogenic heart",
+    "answerText": "肌源性心臟；節律由心肌 pacemaker cells 自發產生，脊椎動物心臟屬此型。",
+    "explain": "肌源性心臟；節律由心肌 pacemaker cells 自發產生，脊椎動物心臟屬此型。",
+    "terms": []
+  },
+  {
+    "id": "w518",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "atrial excitation",
+    "answerText": "心房興奮；SA node 引發去極化並使心房收縮。",
+    "explain": "心房興奮；SA node 引發去極化並使心房收縮。",
+    "terms": []
+  },
+  {
+    "id": "w519",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "ventricular excitation",
+    "answerText": "心室興奮；訊號經 AV node、His-Purkinje system 傳導後使心室同步收縮。",
+    "explain": "心室興奮；訊號經 AV node、His-Purkinje system 傳導後使心室同步收縮。",
+    "terms": []
+  },
+  {
+    "id": "w520",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "sinoatrial node (SA node)",
+    "answerText": "竇房結；正常心臟主要 pacemaker，自發產生節律訊號。",
+    "explain": "竇房結；正常心臟主要 pacemaker，自發產生節律訊號。",
+    "terms": []
+  },
+  {
+    "id": "w521",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "diastole",
+    "answerText": "舒張期；心腔放鬆並充血的階段。",
+    "explain": "舒張期；心腔放鬆並充血的階段。",
+    "terms": []
+  },
+  {
+    "id": "w522",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "systole",
+    "answerText": "收縮期；通常指心室收縮並射血的階段。",
+    "explain": "收縮期；通常指心室收縮並射血的階段。",
+    "terms": []
+  },
+  {
+    "id": "w523",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "valvular stenosis",
+    "answerText": "瓣膜狹窄；瓣口無法完全開啟，增加血流阻力與上游壓力。筆記原寫 stenotic valve。",
+    "explain": "瓣膜狹窄；瓣口無法完全開啟，增加血流阻力與上游壓力。筆記原寫 stenotic valve。",
+    "terms": []
+  },
+  {
+    "id": "w524",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "valvular insufficiency / regurgitation",
+    "answerText": "瓣膜閉鎖不全／逆流；瓣膜無法密合，使血液在壓力期逆流。筆記只寫 insufficient valve。",
+    "explain": "瓣膜閉鎖不全／逆流；瓣膜無法密合，使血液在壓力期逆流。筆記只寫 insufficient valve。",
+    "terms": []
+  },
+  {
+    "id": "w525",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "electrocardiogram (ECG)",
+    "answerText": "心電圖；記錄體表心臟電位變化，P wave、QRS complex、T wave 對應不同去極化／再極化事件。",
+    "explain": "心電圖；記錄體表心臟電位變化，P wave、QRS complex、T wave 對應不同去極化／再極化事件。",
+    "terms": []
+  },
+  {
+    "id": "w526",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "sinus rhythm",
+    "answerText": "竇性心律；由 SA node 主導、依正常傳導路徑產生的心律。",
+    "explain": "竇性心律；由 SA node 主導、依正常傳導路徑產生的心律。",
+    "terms": []
+  },
+  {
+    "id": "w527",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "arteriole",
+    "answerText": "小動脈；主要阻力血管，可改變半徑調節器官血流與血壓。",
+    "explain": "小動脈；主要阻力血管，可改變半徑調節器官血流與血壓。",
+    "terms": []
+  },
+  {
+    "id": "w528",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "capillary",
+    "answerText": "微血管；單層 endothelium 構成，為氣體、養分與廢物交換主要場所。",
+    "explain": "微血管；單層 endothelium 構成，為氣體、養分與廢物交換主要場所。",
+    "terms": []
+  },
+  {
+    "id": "w529",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "venule",
+    "answerText": "小靜脈；收集 capillary blood 並匯入較大靜脈。",
+    "explain": "小靜脈；收集 capillary blood 並匯入較大靜脈。",
+    "terms": []
+  },
+  {
+    "id": "w530",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.17",
+    "prompt": "portal system",
+    "answerText": "門脈系統；血液在回心前依序通過兩套 capillary beds，例如 hepatic portal system。",
+    "explain": "門脈系統；血液在回心前依序通過兩套 capillary beds，例如 hepatic portal system。",
+    "terms": []
+  },
+  {
+    "id": "w531",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.18",
+    "prompt": "fenestrated capillary",
+    "answerText": "有窗微血管；內皮具小孔，利於大量濾過或交換，常見於腎臟與內分泌器官。",
+    "explain": "有窗微血管；內皮具小孔，利於大量濾過或交換，常見於腎臟與內分泌器官。",
+    "terms": []
+  },
+  {
+    "id": "w532",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.18",
+    "prompt": "baroreceptor",
+    "answerText": "壓力感受器；感受血管壁伸展，經反射快速調整 heart rate 與 vascular tone。",
+    "explain": "壓力感受器；感受血管壁伸展，經反射快速調整 heart rate 與 vascular tone。",
+    "terms": []
+  },
+  {
+    "id": "w533",
+    "ch": "英文單字",
+    "type": "vocab",
+    "source": "中 p.18",
+    "prompt": "carotid sinus",
+    "answerText": "頸動脈竇；頸總動脈分叉附近的擴張區，含 baroreceptors 感測動脈壓。",
+    "explain": "頸動脈竇；頸總動脈分叉附近的擴張區，含 baroreceptors 感測動脈壓。",
+    "terms": []
+  }
+]
